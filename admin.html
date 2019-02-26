@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html >
+<head>
+  
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/s-l300-1-300x189.png" type="image/x-icon">
+  <meta name="description" content="Login to manage blog posts.">
+  <title>admin</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/soundcloud-plugin/style.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/shopping-cart/minicart-theme.css">
+  <link rel="stylesheet" href="assets/animate.css/animate.min.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+
+<script src="https://www.gstatic.com/firebasejs/5.5.4/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyAspVKBmeLQuEZ4f4HTssIszdlNJwTRFAE",
+    authDomain: "golen-blog.firebaseapp.com",
+    databaseURL: "https://golen-blog.firebaseio.com",
+    projectId: "golen-blog",
+    storageBucket: "golen-blog.appspot.com",
+    messagingSenderId: "308818758160"
+  };
+  firebase.initializeApp(config);
+</script>
+  <body>
+
+<!-- Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126637041-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-126637041-1');
+</script>
+<!-- /Google Analytics -->
+
+
+  <section id="ext_menu-74" data-rv-view="44">
+
+    <nav class="navbar navbar-dropdown transparent navbar-fixed-top bg-color">
+        <div class="container">
+
+            <div class="mbr-table">
+                <div class="mbr-table-cell">
+
+                    <div class="navbar-brand">
+                        <a href="index.html" class="navbar-logo"><img src="assets/images/s-l300-1-300x189.png"></a>
+                        
+                    </div>
+
+                </div>
+                <div class="mbr-table-cell">
+
+                    <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                        <div class="hamburger-icon"></div>
+                    </button>
+
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="fun.html">FUN</a></li><li class="nav-item"><a class="nav-link link" href="https://lamynes.github.io/aboutme/360/#" target="_blank">360</a></li><li class="nav-item"><a class="nav-link link" href="blog.html">BLOG</a></li><li class="nav-item"><a class="nav-link link" href="shop.html">SHOP</a></li><li class="nav-item nav-btn"><a class="nav-link btn btn-primary" href="admin.html">ADMIN</a></li></ul>
+                    <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                        <div class="close-icon"></div>
+                    </button>
+
+                </div>
+            </div>
+
+        </div>
+    </nav>
+
+</section>
+
+<section class="mbr-section mbr-after-navbar" id="firebase-admin-block-6o" data-rv-view="42" style="background-color: rgb(255, 255, 255); padding-top: 9rem; padding-bottom: 12rem;">
+  <style>
+  .btn-circle {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.428571429;
+    border-radius: 15px;
+  }
+  </style>
+  <div class="container" id="login-form">
+
+    <h2 class="form-signin-heading">Please sign in</h2>
+    <button class="btn btn-lg btn-danger btn-block" onclick="loginGoogle()">Google Login</button>
+    
+    
+
+    
+
+  </div>
+  <div class="container" id="login-panel" style="display: none">
+    <ul class="nav nav-tabs" role="tablist" id="menu-tabs">
+      <li class="nav-item">
+        <a href="#" class="nav-link" onclick="signOut()">Sign Out</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link active" data-toggle="tab" href="#articles" role="tab">Articles</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" onclick="newArticle()" href="#new-form" role="tab">New Article</a>
+      </li>
+    </ul>
+    <!-- Tab panes -->
+    <div class="tab-content">
+      <div class="tab-pane active" id="articles" role="tabpanel">
+
+        <div class="container">
+          <div class="row">
+
+            <div class="col-sm-12 blog-main">
+              <div class="sidebar-module">
+                <h4>Articles</h4>
+                <ol class="list-unstyled" id="article-list">
+                </ol>
+              </div>
+            </div>
+            <!-- /.blog-sidebar -->
+          </div>
+        </div>
+
+      </div>
+      <div class="tab-pane" id="new-form" role="tabpanel">
+
+                <div class="container">
+                  <div class="row">
+                    <div class="col-sm-12 blog-main" id="new-article-form">
+
+                      <div class="blog-post">
+                        <div id="firebase-authorPic" class="article-photo" style="float: left">
+                          <img id="authorPic" class="img-responsive" src="http://placehold.it/100x100" style="margin-right:20px; border-radius: 50%; height: 100px">
+                        </div>
+                        <h2 id="title" contenteditable="true" data-placeholder="Article title" class="blog-post-title">Article Title</h2>
+                        <p class="blog-post-meta"><small id="firebase-timestamp">January 12, 2014</small>
+                          <span id="author-name">by John</span>
+                        </p>
+
+                        <p class="panel-body" id="intro" contenteditable="true" placeholder="Write some intro...">This blog post shows a few different types of content that's supported and styled with Bootstrap. Basic typography, images, and code are all supported.</p>
+
+                        <hr>
+                        <div id="body" contenteditable="true">
+                          <p>Just write stuff ...</p>
+
+                        </div><!-- /#body -->
+
+                      </div>
+                      <div style="text-align: right;">
+                        <a href="#" class="btn btn-primary" id="create-article" onclick="save()">Create</a>
+                        <a href="#" class="btn btn-primary" id="save-article" onclick="save()" style="display: none">Save</a>
+                        <a href="#" class="btn btn-secondary" id="save-cancel" onclick="cancel()">Cancel</a>
+                      </div>
+
+                    </div>
+                    <!-- /.blog-main -->
+                  </div>
+                </div>
+      </div>
+    </div>
+
+  </div>
+</section><script data-rv-view="42" class="mbr-after-navbar">
+  document.addEventListener("DOMContentLoaded", function() {
+    var recentPostsRef = firebase.database().ref('posts').orderByChild("order").limitToFirst(100);
+    fetchAdminPosts(recentPostsRef);
+
+    firebase.auth().onAuthStateChanged(onAuthStateChanged);
+
+    function onAuthStateChanged(user) {
+
+      if (user) {
+        writeUserData(user.uid, user.displayName, user.email, user.photoURL);
+        document.getElementById('login-form').style.display = 'none';
+        document.getElementById('login-panel').style.display = 'block';
+        cancel();
+      } else {
+        document.getElementById('login-form').style.display = 'block';
+        document.getElementById('login-panel').style.display = 'none';
+
+      }
+    }
+
+    CKEDITOR.inline( 'body',{
+        toolbar: [
+    			{ name: 'document', items: [ 'Source' ] },
+    			{ name: 'basicstyles', items: [ 'Bold', 'Italic' ] },
+    			{ name: 'paragraph', items: [ 'NumberedList', 'BulletedList', '-', 'Outdent', 'Indent', '-', 'Blockquote' ] },
+    			{ name: 'links', items: [ 'Link', 'Unlink' ] },
+    			{ name: 'insert', items: [ 'Image' ] },
+    			{ name: 'styles', items: [ 'Format', 'Styles' ] }
+    		]
+    } );
+
+    CKEDITOR.inline( 'intro',{
+        toolbar: [
+    			{ name: 'document', items: [ 'Source' ] },
+    			{ name: 'basicstyles', items: [ 'Bold', 'Italic' ] },
+    			{ name: 'paragraph', items: [ 'NumberedList', 'BulletedList', '-', 'Outdent', 'Indent', '-', 'Blockquote' ] },
+    			{ name: 'links', items: [ 'Link', 'Unlink' ] },
+    			{ name: 'insert', items: [ 'Image' ] },
+    			{ name: 'styles', items: [ 'Format', 'Styles' ] }
+    		]
+    } );
+
+  });
+</script>
+
+<footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-6i" data-rv-view="40" style="background-color: rgb(239, 239, 239); padding-top: 0.875rem; padding-bottom: 1.75rem;">
+    
+    <div class="container text-xs-center">
+        <p>Copyright (c) 2016 LAMYNES.PL</p>
+    </div>
+</footer>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+        <script src="assets/firebase-blocks-plugin/firebase-plugin.js"></script>
+  <script src="https://cdn.ckeditor.com/4.7.2/standard/ckeditor.js"></script>
+  <script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
+  <script src="assets/smooth-scroll/smooth-scroll.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  
+ <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up")></i></a></div>
+    <input name="animation" type="hidden">
+  </body>
+</html>
