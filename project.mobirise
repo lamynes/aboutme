@@ -8,8 +8,8 @@
       "styling": {
         "primaryColor": "#000000",
         "secondaryColor": "#747474",
-        "successColor": "#ffffff",
-        "infoColor": "#cccccc",
+        "successColor": "#90a878",
+        "infoColor": "#3f3f3f",
         "warningColor": "#000000",
         "dangerColor": "#90a878",
         "titleFont": "Yanone Kaffeesatz",
