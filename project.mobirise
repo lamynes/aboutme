@@ -120,7 +120,8 @@
           },
           "title": "<span style=\"font-weight: normal;\">MODERN &amp; MOBILE READY</span>",
           "text": "BEAUTIFUL WEBSITES FOR ALL DEVICES",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extForm1-79\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\">BLOG</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extForm1-79\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\">BLOG</a>",
+          "_customCSS": ".mbr-section-title {\n  text-shadow: 0 0 20px #e4d295;\n}"
         },
         {
           "_tags": [
