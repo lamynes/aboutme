@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 311,
+    "uniqCompNum": 312,
     "versionPublish": "4.9.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -533,6 +533,20 @@
               "family": "socicon"
             }
           }
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/O8RwDfYMUjk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-8n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": "mobirise3-blocks/components",
