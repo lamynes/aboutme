@@ -767,6 +767,9 @@ h6,
 #footer1-2g B {
   color: #3d8eb9;
 }
+#ext_menu-74 {
+  text-shadow: 0 0 20px #e4d295;
+}
 #ext_menu-74 .hide-buttons .nav-btn {
   display: none !important;
 }
