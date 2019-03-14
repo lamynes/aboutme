@@ -138,7 +138,7 @@
           "title": "<span style=\"font-weight: normal;\">CURRENT PROJECTS</span>",
           "meta": "<i>LAMYNES.PL</i>",
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n.mbr-section-title, .mbr-section-subtitle {\n  text-align: center;\n}\n.mbr-section-subtitle {\n  color: #262626;\n}\n.mbr-section-title {\n  color: #262626;\n  font-size: 60px;\n}\n.mbr-section-title SPAN {\n  font-family: 'Oswald', sans-serif;\n  font-size: 72px;\n  color: #000000;\n}\n.mbr-section-subtitle I {\n  font-size: 20px;\n  color: #000000;\n}\n.mbr-section-title {\n    text-shadow: 0 0 20px #000000;\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" data-rv-view=\"3\" style=\"background-color: rgb(255, 255, 255); padding-top: 60px; padding-bottom: 40px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"10\"><span style=\"font-weight: normal;\">CURRENT PROJECTS</span></h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"11\"><em>LAMYNES.PL</em></small>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" data-rv-view=\"3\" style=\"background-color: rgb(255, 255, 255); padding-top: 60px; padding-bottom: 40px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"32\"><span style=\"font-weight: normal;\">CURRENT PROJECTS</span></h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"33\"><em>LAMYNES.PL</em></small>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -587,7 +587,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.1",
             "iconsColor": "#333333",
             "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-primary\">ADMIN</a>"
           },
