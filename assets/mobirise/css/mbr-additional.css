@@ -1340,7 +1340,7 @@ h6,
 
 
 #msg-box7-9b {
-  text-shadow: 0 0 30px white;
+  text-shadow: 0 0 30px red;
 }
 #msg-box7-9b .mbr-section-title,
 #msg-box7-9b .lead p {
@@ -1361,7 +1361,7 @@ h6,
   color: #ffffff;
 }
 #msg-box7-9b p {
-  text-shadow: 0 0 30px white;
+  text-shadow: 0 0 30px black;
 }
 #ext_menu-8h .hide-buttons .nav-btn {
   display: none !important;
