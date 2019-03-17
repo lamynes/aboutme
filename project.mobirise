@@ -2451,9 +2451,9 @@
             "inverse": true,
             "imageSize": "38",
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/x6xqkaxrfcx-2000x743.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/tilt-shift-1525037302313-876x657.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2463,7 +2463,7 @@
             },
             "overlay": true,
             "overlayColor": "#181717",
-            "overlayOpacity": "0"
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
