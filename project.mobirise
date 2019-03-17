@@ -735,10 +735,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.3rem"
+              "font-size": "1.4rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.408rem"
+              "font-size": "1.516rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -782,7 +782,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.3",
+            "fontSize": "1.4",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1012,7 +1012,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.3",
+            "fontSize": "1.4",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1047,10 +1047,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.3rem"
+              "font-size": "1.4rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.408rem"
+              "font-size": "1.516rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1172,7 +1172,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.3",
+            "fontSize": "1.4",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1196,21 +1196,21 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.3rem"
+              "font-size": "1.4rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.408rem"
+              "font-size": "1.516rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1225,7 +1225,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1261,7 +1261,8 @@
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-74"
+          "_anchor": "ext_menu-74",
+          "_customCSS": "text-shadow: 2px 2px 5px black;"
         }
       ]
     },
@@ -1450,7 +1451,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.3",
+            "fontSize": "1.4",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1485,10 +1486,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.3rem"
+              "font-size": "1.4rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.408rem"
+              "font-size": "1.516rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1589,7 +1590,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.3",
+            "fontSize": "1.4",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1624,10 +1625,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.3rem"
+              "font-size": "1.4rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.408rem"
+              "font-size": "1.516rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1757,7 +1758,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.3",
+            "fontSize": "1.4",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1792,10 +1793,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.3rem"
+              "font-size": "1.4rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.408rem"
+              "font-size": "1.516rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2045,7 +2046,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.3",
+            "fontSize": "1.4",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -2080,10 +2081,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.3rem"
+              "font-size": "1.4rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.408rem"
+              "font-size": "1.516rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2217,7 +2218,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.3",
+            "fontSize": "1.4",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -2252,10 +2253,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.3rem"
+              "font-size": "1.4rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.408rem"
+              "font-size": "1.516rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
