@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "crew.html",
+    "currentPage": "shop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1871,7 +1871,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "33",
+            "imageSize": "47",
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": true,
@@ -1890,7 +1890,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ls-turn-key-2-500x402.png",
+              "src": "@PROJECT_PATH@/assets/images/golen-engine-motor-340x210.png",
               "link": "",
               "alt": "",
               "title": "",
