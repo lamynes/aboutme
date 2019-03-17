@@ -737,16 +737,22 @@ h6,
 #header3-77 .mbr-section-title {
   text-shadow: 0 0 20px #000000;
 }
-#extFeatures7-7q H4 {
+#extFeatures7-99 H4 {
   font-size: 30px;
 }
-#extFeatures7-7q SPAN {
+#extFeatures7-99 SPAN {
   color: #90a878;
 }
 #extForm1-79 H2 {
   color: #000000;
 }
 #extForm1-79 I {
+  color: #000000;
+}
+#social-buttons1-98 {
+  text-shadow: 0 0 20px #000000;
+}
+#social-buttons1-98 .mbr-section-title {
   color: #000000;
 }
 #footer1-2g P {
@@ -838,9 +844,6 @@ h6,
 }
 #header3-7l .mbr-section-title SPAN {
   color: #ffffff;
-}
-#social-buttons1-7k .mbr-section-title {
-  color: #000000;
 }
 
 
@@ -1307,6 +1310,9 @@ h6,
 #ext_menu-8e .btn {
   font-size: 30px;
 }
+#msg-box7-8f {
+  text-shadow: 0 0 20px #000000;
+}
 #msg-box7-8f .mbr-section-title,
 #msg-box7-8f .lead p {
   color: #fff;
@@ -1318,6 +1324,38 @@ h6,
 #msg-box7-8f P {
   text-align: left;
   font-size: 17px;
+}
+#msg-box7-8f body {
+  height: 100%;
+  background: url("https://lamynes.github.io/aboutme/assets/images/u4ttqbsfuc-1440x900.png");
+  background-size: auto;
+  background-repeat: no-repeat;
+  -webkit-animation-name: backgroundEffect;
+  animation-duration: 15s;
+  animation-iteration-count: infinite;
+}
+@keyframes backgroundEffect {
+  0% {
+    background-position: 0% 0%;
+  }
+  25% {
+    background-position: 30% 10%;
+  }
+  50% {
+    background-position: 0 30%;
+  }
+  75% {
+    background-position: 30% 30%;
+  }
+  100% {
+    background-position: 0% 0%;
+  }
+}
+#social-buttons1-96 {
+  text-shadow: 0 0 20px #000000;
+}
+#social-buttons1-96 .mbr-section-title {
+  color: #000000;
 }
 
 
@@ -1391,6 +1429,9 @@ h6,
 #ext_menu-8h .btn {
   font-size: 30px;
 }
+#msg-box8-8w {
+  text-shadow: 0 0 30px #000000;
+}
 #msg-box8-8w .mbr-section-title,
 #msg-box8-8w p {
   color: #fff;
@@ -1401,6 +1442,9 @@ h6,
 }
 #msg-box8-8w .mbr-section-title {
   color: #ffffff;
+}
+#social-buttons1-8y {
+  text-shadow: 0 0 20px #000000;
 }
 #social-buttons1-8y .mbr-section-title {
   color: #000000;
