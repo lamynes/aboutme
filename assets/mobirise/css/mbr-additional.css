@@ -1398,3 +1398,14 @@ h6,
 #ext_menu-8h .btn {
   font-size: 30px;
 }
+#msg-box8-8w .mbr-section-title,
+#msg-box8-8w p {
+  color: #fff;
+}
+#msg-box8-8w .lead P {
+  color: #000000;
+  font-size: 20px;
+}
+#msg-box8-8w .mbr-section-title {
+  color: #000000;
+}
