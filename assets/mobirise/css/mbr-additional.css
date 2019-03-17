@@ -743,18 +743,6 @@ h6,
 #extFeatures7-7q SPAN {
   color: #90a878;
 }
-#custom-html-8n {
-  /* Type valid CSS here */
-}
-#custom-html-8n div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-8n p {
-  font-size: 60px;
-  color: #777;
-}
 #extForm1-79 H2 {
   color: #000000;
 }
@@ -1337,15 +1325,15 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-8h .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #ext_menu-8h .close-icon::before,
 #ext_menu-8h .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #ext_menu-8h .link,
 #ext_menu-8h .dropdown-item {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-8h .link {
@@ -1363,22 +1351,22 @@ h6,
 }
 #ext_menu-8h .link[aria-expanded="true"],
 #ext_menu-8h .dropdown-menu {
-  background: #000000;
+  background: #d6d6d6;
 }
 #ext_menu-8h .nav-dropdown-sm .link:focus,
 #ext_menu-8h .nav-dropdown-sm .link:hover,
 #ext_menu-8h .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-8h .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #e7e7e7!important;
 }
 #ext_menu-8h .navbar,
 #ext_menu-8h .nav-dropdown-sm,
 #ext_menu-8h .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-8h .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #efefef;
 }
 #ext_menu-8h .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #ext_menu-8h .bg-color.transparent.opened .link {
