@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "shop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1849,15 +1849,20 @@
               "color": "#fff"
             },
             "H3": {
-              "color": "#ffffff"
+              "color": "#b8312f",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true,
-            "inverse": false,
-            "imageSize": "44",
+            "inverse": true,
+            "imageSize": "38",
             "paddingTop": "6",
             "paddingBottom": "6",
             "bgImageRadio": true,
@@ -1870,13 +1875,13 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayColor": "#181717",
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/meditation.svg",
+              "src": "@PROJECT_PATH@/assets/images/ls-turn-key-2-500x402.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1894,9 +1899,9 @@
               "size": 250
             }
           },
-          "title": "Buy Today",
-          "text": "Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.00&amp;item_name=Custom+Item&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "<span style=\"font-weight: normal;\">CHEVY LS3 416ci 605hp COMPLETE ENGINE</span>",
+          "text": "This LS3 engine for sale produces max power and torque with a hydraulic cam which is very street able but also gives you the sound you are looking for!!\n<br>\n<br>Peak Horsepower: 605bhp @ 5000 rpm\n<br>Peak Torque: 570lb/ft @ 4800 rpm\n<br>Compression Ratio: 11:1 \n<br>Operating Range: 2300 – 6300rpm\n<br>Required Fuel: 91+ Octane Pump Gasoline&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.00&amp;item_name=Custom+Item&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],

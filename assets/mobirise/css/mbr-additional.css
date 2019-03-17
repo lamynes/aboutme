@@ -1312,7 +1312,12 @@ h6,
   color: #fff;
 }
 #msg-box7-8f H3 {
-  color: #ffffff;
+  color: #b8312f;
+  text-align: left;
+}
+#msg-box7-8f P {
+  text-align: left;
+  font-size: 17px;
 }
 
 
