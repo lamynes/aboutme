@@ -1439,3 +1439,111 @@ h6,
 #social-buttons1-8y .mbr-section-title {
   color: #000000;
 }
+
+
+#footer1-8d P {
+  color: #000000;
+}
+#footer1-8d B {
+  color: #3d8eb9;
+}
+#ext_menu-8e .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-8e .navbar-caption {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-8e .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-8e .close-icon::before,
+#ext_menu-8e .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-8e .link,
+#ext_menu-8e .dropdown-item {
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-8e .link {
+  font-size: 1.3rem;
+}
+#ext_menu-8e .dropdown-item,
+#ext_menu-8e .nav-dropdown-sm .link {
+  font-size: 1.408rem;
+}
+#ext_menu-8e .link:hover,
+#ext_menu-8e .dropdown-item:hover,
+#ext_menu-8e .link:focus,
+#ext_menu-8e .dropdown-item:focus {
+  color: #000000;
+}
+#ext_menu-8e .link[aria-expanded="true"],
+#ext_menu-8e .dropdown-menu {
+  background: #d6d6d6;
+}
+#ext_menu-8e .nav-dropdown-sm .link:focus,
+#ext_menu-8e .nav-dropdown-sm .link:hover,
+#ext_menu-8e .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-8e .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#ext_menu-8e .navbar,
+#ext_menu-8e .nav-dropdown-sm,
+#ext_menu-8e .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-8e .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#ext_menu-8e .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-8e .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-8e .bg-color.transparent.opened .link:hover,
+#ext_menu-8e .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#ext_menu-8e .link[aria-expanded="true"],
+#ext_menu-8e .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
+}
+#ext_menu-8e A {
+  font-size: 12px;
+}
+#ext_menu-8e .btn {
+  font-size: 30px;
+}
+#msg-box7-9a {
+  text-shadow: 0 0 30px green;
+}
+#msg-box7-9a .mbr-section-title,
+#msg-box7-9a .lead p {
+  color: #fff;
+}
+#msg-box7-9a H3 {
+  color: #f3c649;
+  text-align: center;
+}
+#msg-box7-9a P {
+  text-align: left;
+  font-size: 17px;
+}
+#msg-box7-9a SPAN {
+  font-size: 48px;
+}
+#msg-box7-9a UL {
+  color: #ffffff;
+}
+#msg-box7-9a p {
+  text-shadow: 0 0 30px black;
+}
+#social-buttons1-96 {
+  text-shadow: 0 0 20px #000000;
+}
+#social-buttons1-96 .mbr-section-title {
+  color: #000000;
+}
