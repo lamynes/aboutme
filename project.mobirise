@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "Jeep.html",
+    "currentPage": "shop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1916,7 +1916,7 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9a",
-          "_customCSS": "text-shadow: 0 0 30px #000;"
+          "_customCSS": "text-shadow: 2px 2px 5px black;"
         },
         {
           "_params": {
@@ -2029,7 +2029,7 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9b",
-          "_customCSS": "text-shadow: 0 0 30px red;\n\np{\n    text-shadow: 0 0 30px black;\n}"
+          "_customCSS": "text-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 0 0 30px black;\n}"
         },
         {
           "_inherit": "menu",
@@ -2374,7 +2374,7 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9a",
-          "_customCSS": "text-shadow: 0 0 30px black;\n\np{\n    text-shadow: 0 0 30px black;\n}"
+          "_customCSS": "text-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 0 0 30px black;\n}"
         },
         {
           "_params": {

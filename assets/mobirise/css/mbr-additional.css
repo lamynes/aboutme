@@ -1311,7 +1311,7 @@ h6,
   font-size: 30px;
 }
 #msg-box7-9a {
-  text-shadow: 0 0 30px #000;
+  text-shadow: 2px 2px 5px black;
 }
 #msg-box7-9a .mbr-section-title,
 #msg-box7-9a .lead p {
@@ -1340,7 +1340,7 @@ h6,
 
 
 #msg-box7-9b {
-  text-shadow: 0 0 30px red;
+  text-shadow: 2px 2px 5px black;
 }
 #msg-box7-9b .mbr-section-title,
 #msg-box7-9b .lead p {
@@ -1518,7 +1518,7 @@ h6,
   font-size: 30px;
 }
 #msg-box7-9a {
-  text-shadow: 0 0 30px black;
+  text-shadow: 2px 2px 5px black;
 }
 #msg-box7-9a .mbr-section-title,
 #msg-box7-9a .lead p {
