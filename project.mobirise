@@ -1861,6 +1861,9 @@
             },
             "SPAN": {
               "font-size": "48px"
+            },
+            "UL": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -1905,7 +1908,7 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">CHEVY LS3 416ci 605hp COMPLETE ENGINE</span><br>",
+          "title": "<span style=\"font-weight: normal;\">CHEVY LS3 416ci 605hp </span><i>COMPLETE ENGINE</i><br>",
           "text": "<p>This LS3 engine for sale produces max power and torque with a hydraulic cam which is very street able but also gives you the sound you are looking for!!</p><ul><li>Peak Horsepower: 605bhp @ 5000 rpm</li><li>Peak Torque: 570lb/ft @ 4800 rpm</li><li>Compression Ratio: 11:1</li><li>Operating Range: 2300 – 6300rpm</li><li>Required Fuel: 91+ Octane Pump Gasoline&nbsp;</li></ul>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.00&amp;item_name=Custom+Item&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [

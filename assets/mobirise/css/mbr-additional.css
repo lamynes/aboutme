@@ -1328,6 +1328,9 @@ h6,
 #msg-box7-9a SPAN {
   font-size: 48px;
 }
+#msg-box7-9a UL {
+  color: #ffffff;
+}
 #social-buttons1-96 {
   text-shadow: 0 0 20px #000000;
 }
