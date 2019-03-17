@@ -1565,6 +1565,15 @@ h6,
 #msg-box7-9a p {
   text-shadow: 2px 2px 5px black;
 }
+#msg-box7-9a body {
+  padding: 0;
+  margin: 0;
+  background: black;
+}
+#msg-box7-9a #canvas {
+  margin: auto;
+  display: block;
+}
 #social-buttons1-96 {
   text-shadow: 0 0 20px #000000;
 }

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "Jeep.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2312,25 +2312,6 @@
         },
         {
           "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            },
-            "H3": {
-              "color": "#f3c649",
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "17px"
-            },
-            "SPAN": {
-              "font-size": "48px"
-            },
-            "UL": {
-              "color": "#ffffff"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -2381,7 +2362,11 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9a",
-          "_customCSS": "text-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}"
+          "_customCSS": ".mbr-section-title, .lead p {\n  color: #fff;\n}\nH3 {\n  color: #f3c649;\n  text-align: center;\n}\nP {\n  text-align: left;\n  font-size: 17px;\n}\nSPAN {\n  font-size: 48px;\n}\nUL {\n  color: #ffffff;\n}\ntext-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}\nbody {\n  padding: 0;\n  margin: 0;\n  background: black;\n}\n\n#canvas {\n  margin: auto;\n  display: block;\n}",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background mbr-after-navbar\" data-rv-view=\"29\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/69z3czuf13-1440x900.png&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 38%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/jeep-stroker-cj-efi-turn-key-2-589x578.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"88\">4.6L Jeep EFI Turn Key for 1971-1990 Jeeps</h3>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"89\"></p><p>Pricing on 4.6L Jeep EFI Turn Key for 1971-1990 Jeeps:\n<br>1971-1990 year models $8199\n<br></p><p></p>\n\n                  </div>\n\n                  <div><a class=\"btn btn-success mbr-editable-button\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.00&amp;item_name=Custom+Item&amp;currency_code=USD\" code-editable-id=\"90\">MORE</a></div>\n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n</section>\n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
         },
         {
           "_params": {
