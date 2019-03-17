@@ -1331,6 +1331,9 @@ h6,
 #msg-box7-9a UL {
   color: #ffffff;
 }
+#msg-box7-9a p {
+  text-shadow: 2px 2px 5px black;
+}
 #social-buttons1-96 {
   text-shadow: 0 0 20px #000000;
 }
@@ -1361,7 +1364,7 @@ h6,
   color: #ffffff;
 }
 #msg-box7-9b p {
-  text-shadow: 0 0 30px black;
+  text-shadow: 2px 2px 5px black;
 }
 #ext_menu-8h .hide-buttons .nav-btn {
   display: none !important;
@@ -1539,7 +1542,7 @@ h6,
   color: #ffffff;
 }
 #msg-box7-9a p {
-  text-shadow: 0 0 30px black;
+  text-shadow: 2px 2px 5px black;
 }
 #social-buttons1-96 {
   text-shadow: 0 0 20px #000000;
