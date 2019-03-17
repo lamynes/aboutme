@@ -2329,7 +2329,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "41",
+            "imageSize": "34",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
