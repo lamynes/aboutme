@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "crew.html",
+    "currentPage": "shop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1883,7 +1883,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#181717",
             "overlayOpacity": "0.1"
           },
@@ -1998,7 +1998,7 @@
             },
             "overlay": true,
             "overlayColor": "#181717",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0"
           },
           "media": {
             "image": {
@@ -2341,7 +2341,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.3"
           },
