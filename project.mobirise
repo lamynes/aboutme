@@ -2329,7 +2329,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "34",
+            "imageSize": "38",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
@@ -2342,7 +2342,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#181717",
+            "overlayColor": "#000000",
             "overlayOpacity": "0.3"
           },
           "media": {
@@ -2374,7 +2374,7 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9a",
-          "_customCSS": "text-shadow: 0 0 30px green;\n\np{\n    text-shadow: 0 0 30px black;\n}"
+          "_customCSS": "text-shadow: 0 0 30px black;\n\np{\n    text-shadow: 0 0 30px black;\n}"
         },
         {
           "_params": {
