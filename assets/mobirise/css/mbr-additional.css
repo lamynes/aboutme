@@ -910,7 +910,7 @@ h6,
 #ext_menu-74 .link,
 #ext_menu-74 .dropdown-item {
   color: #ffffff;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Indie Flower', cursive;
 }
 #ext_menu-74 .link {
   font-size: 1.4rem;
@@ -991,7 +991,7 @@ h6,
 #ext_menu-74 .link,
 #ext_menu-74 .dropdown-item {
   color: #ffffff;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Indie Flower', cursive;
 }
 #ext_menu-74 .link {
   font-size: 1.4rem;
@@ -1111,7 +1111,7 @@ h6,
 #ext_menu-74 .link,
 #ext_menu-74 .dropdown-item {
   color: #ffffff;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Indie Flower', cursive;
 }
 #ext_menu-74 .link {
   font-size: 1.4rem;
@@ -1192,7 +1192,7 @@ h6,
 #ext_menu-7t .link,
 #ext_menu-7t .dropdown-item {
   color: #ffffff;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Indie Flower', cursive;
 }
 #ext_menu-7t .link {
   font-size: 1.4rem;
@@ -1273,7 +1273,7 @@ h6,
 #ext_menu-8e .link,
 #ext_menu-8e .dropdown-item {
   color: #ffffff;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Indie Flower', cursive;
 }
 #ext_menu-8e .link {
   font-size: 1.4rem;
@@ -1402,7 +1402,7 @@ h6,
 #ext_menu-8h .link,
 #ext_menu-8h .dropdown-item {
   color: #ffffff;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Indie Flower', cursive;
 }
 #ext_menu-8h .link {
   font-size: 1.4rem;
@@ -1609,16 +1609,16 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-8h .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #ext_menu-8h .close-icon::before,
 #ext_menu-8h .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 #ext_menu-8h .link,
 #ext_menu-8h .dropdown-item {
-  color: #000000;
-  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
 }
 #ext_menu-8h .link {
   font-size: 1.4rem;
@@ -1650,7 +1650,7 @@ h6,
   background: #efefef;
 }
 #ext_menu-8h .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #ext_menu-8h .bg-color.transparent.opened .link {
