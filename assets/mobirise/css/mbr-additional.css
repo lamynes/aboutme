@@ -1311,22 +1311,22 @@ h6,
   font-size: 30px;
 }
 #msg-box7-9a {
-  text-shadow: 0 0 20px #000000;
+  text-shadow: 0 0 30px #000000;
 }
 #msg-box7-9a .mbr-section-title,
 #msg-box7-9a .lead p {
   color: #fff;
 }
 #msg-box7-9a H3 {
-  color: #b8312f;
-  text-align: left;
+  color: #f3c649;
+  text-align: center;
 }
 #msg-box7-9a P {
   text-align: left;
   font-size: 17px;
 }
 #msg-box7-9a SPAN {
-  font-size: 60px;
+  font-size: 48px;
 }
 #social-buttons1-96 {
   text-shadow: 0 0 20px #000000;
@@ -1418,7 +1418,8 @@ h6,
   font-size: 20px;
 }
 #msg-box8-8w .mbr-section-title {
-  color: #ffffff;
+  color: #efefef;
+  font-size: 60px;
 }
 #social-buttons1-8y {
   text-shadow: 0 0 20px #000000;

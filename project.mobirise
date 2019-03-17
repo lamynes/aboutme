@@ -1713,7 +1713,7 @@
         "title": "Shop",
         "order": 1,
         "header_custom": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js\"></script>",
-        "footer_custom": "<script>\n        TweenMax.to(\"img\", 2, {x:200, ease:Bounce.easeOut});\n   </script>"
+        "footer_custom": ""
       },
       "components": [
         {
@@ -1852,15 +1852,15 @@
               "color": "#fff"
             },
             "H3": {
-              "color": "#b8312f",
-              "text-align": "left"
+              "color": "#f3c649",
+              "text-align": "center"
             },
             "P": {
               "text-align": "left",
               "font-size": "17px"
             },
             "SPAN": {
-              "font-size": "60px"
+              "font-size": "48px"
             }
           },
           "_params": {
@@ -1905,15 +1905,15 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">CHEVY LS3 416ci 605hp COMPLETE ENGINE</span>",
-          "text": "This LS3 engine for sale produces max power and torque with a hydraulic cam which is very street able but also gives you the sound you are looking for!!\n<br>\n<br>Peak Horsepower: 605bhp @ 5000 rpm\n<br>Peak Torque: 570lb/ft @ 4800 rpm\n<br>Compression Ratio: 11:1 \n<br>Operating Range: 2300 – 6300rpm\n<br>Required Fuel: 91+ Octane Pump Gasoline&nbsp;",
+          "title": "<span style=\"font-weight: normal;\">CHEVY LS3 416ci 605hp COMPLETE ENGINE</span><br>",
+          "text": "<p>This LS3 engine for sale produces max power and torque with a hydraulic cam which is very street able but also gives you the sound you are looking for!!</p><ul><li>Peak Horsepower: 605bhp @ 5000 rpm</li><li>Peak Torque: 570lb/ft @ 4800 rpm</li><li>Compression Ratio: 11:1</li><li>Operating Range: 2300 – 6300rpm</li><li>Required Fuel: 91+ Octane Pump Gasoline&nbsp;</li></ul>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.00&amp;item_name=Custom+Item&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9a",
-          "_customCSS": "text-shadow: 0 0 20px #000000;"
+          "_customCSS": "text-shadow: 0 0 30px #000000;"
         },
         {
           "_params": {
@@ -2066,7 +2066,8 @@
               "font-size": "20px"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#efefef",
+              "font-size": "60px"
             }
           },
           "_params": {
@@ -2086,9 +2087,9 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.1"
+            "overlayOpacity": "0.3"
           },
-          "title": "Design with a Passion",
+          "title": "<span style=\"font-weight: normal;\">Design with a Passion</span>",
           "text": "<p>Design with a Passion</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
           "_tags": [
