@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "shop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -724,13 +724,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -753,7 +753,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -788,7 +788,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -808,7 +808,7 @@
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">Chevy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Jeep.html\">Jeep</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\">Shop</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
-          "_customCSS": "text-shadow: 0 0 20px #e4d295;"
+          "_customCSS": "text-shadow: 2px 2px 5px black;"
         },
         {
           "_styles": {
@@ -1018,7 +1018,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">Chevy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Jeep.html\">Jeep</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\">Shop</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
@@ -1036,13 +1036,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -1065,7 +1065,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1101,7 +1101,8 @@
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-74"
+          "_anchor": "ext_menu-74",
+          "_customCSS": "text-shadow: 2px 2px 5px black;"
         }
       ]
     },
@@ -1177,7 +1178,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">Chevy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Jeep.html\">Jeep</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\">Shop</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
@@ -1455,7 +1456,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">Chevy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Jeep.html\">Jeep</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\">Shop</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
@@ -1473,13 +1474,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -1502,7 +1503,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1538,7 +1539,8 @@
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-74"
+          "_anchor": "ext_menu-74",
+          "_customCSS": "text-shadow: 2px 2px 5px black;"
         }
       ]
     },
@@ -1593,7 +1595,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">Chevy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Jeep.html\">Jeep</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\">Shop</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
@@ -1611,13 +1613,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -1640,7 +1642,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1676,7 +1678,8 @@
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-7t"
+          "_anchor": "ext_menu-7t",
+          "_customCSS": "text-shadow: 2px 2px 5px black;"
         },
         {
           "_params": {
@@ -1760,7 +1763,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">Chevy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Jeep.html\">Jeep</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\">Shop</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
@@ -1778,13 +1781,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -1807,7 +1810,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1843,7 +1846,8 @@
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-8e"
+          "_anchor": "ext_menu-8e",
+          "_customCSS": "text-shadow: 2px 2px 5px black;"
         },
         {
           "_inherit": "msg-box5",
@@ -2047,7 +2051,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">Chevy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Jeep.html\">Jeep</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\">Shop</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
@@ -2065,13 +2069,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -2094,7 +2098,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2130,7 +2134,8 @@
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-8h"
+          "_anchor": "ext_menu-8h",
+          "_customCSS": "text-shadow: 2px 2px 5px black;"
         },
         {
           "_params": {
@@ -2218,7 +2223,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">Chevy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Jeep.html\">Jeep</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\">Shop</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
@@ -2236,13 +2241,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -2265,7 +2270,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2301,7 +2306,8 @@
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-8e"
+          "_anchor": "ext_menu-8e",
+          "_customCSS": "text-shadow: 2px 2px 5px black;"
         },
         {
           "_inherit": "msg-box5",
