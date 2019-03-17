@@ -895,23 +895,23 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-74 .navbar-toggler {
-  color: #90a878;
+  color: #000000;
 }
 #ext_menu-74 .close-icon::before,
 #ext_menu-74 .close-icon::after {
-  background-color: #90a878;
+  background-color: #000000;
 }
 #ext_menu-74 .link,
 #ext_menu-74 .dropdown-item {
-  color: #90a878;
+  color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-74 .link {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
 }
 #ext_menu-74 .dropdown-item,
 #ext_menu-74 .nav-dropdown-sm .link {
-  font-size: 1.516rem;
+  font-size: 1.408rem;
 }
 #ext_menu-74 .link:hover,
 #ext_menu-74 .dropdown-item:hover,
@@ -936,7 +936,7 @@ h6,
   background: #efefef;
 }
 #ext_menu-74 .bg-color.transparent .link {
-  color: #90a878;
+  color: #000000;
   transition: none;
 }
 #ext_menu-74 .bg-color.transparent.opened .link {
@@ -973,23 +973,23 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-74 .navbar-toggler {
-  color: #90a878;
+  color: #000000;
 }
 #ext_menu-74 .close-icon::before,
 #ext_menu-74 .close-icon::after {
-  background-color: #90a878;
+  background-color: #000000;
 }
 #ext_menu-74 .link,
 #ext_menu-74 .dropdown-item {
-  color: #90a878;
+  color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-74 .link {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
 }
 #ext_menu-74 .dropdown-item,
 #ext_menu-74 .nav-dropdown-sm .link {
-  font-size: 1.516rem;
+  font-size: 1.408rem;
 }
 #ext_menu-74 .link:hover,
 #ext_menu-74 .dropdown-item:hover,
@@ -1014,7 +1014,7 @@ h6,
   background: #efefef;
 }
 #ext_menu-74 .bg-color.transparent .link {
-  color: #90a878;
+  color: #000000;
   transition: none;
 }
 #ext_menu-74 .bg-color.transparent.opened .link {
@@ -1090,15 +1090,15 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-74 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #ext_menu-74 .close-icon::before,
 #ext_menu-74 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #ext_menu-74 .link,
 #ext_menu-74 .dropdown-item {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-74 .link {
@@ -1116,22 +1116,22 @@ h6,
 }
 #ext_menu-74 .link[aria-expanded="true"],
 #ext_menu-74 .dropdown-menu {
-  background: #000000;
+  background: #d6d6d6;
 }
 #ext_menu-74 .nav-dropdown-sm .link:focus,
 #ext_menu-74 .nav-dropdown-sm .link:hover,
 #ext_menu-74 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-74 .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #e7e7e7!important;
 }
 #ext_menu-74 .navbar,
 #ext_menu-74 .nav-dropdown-sm,
 #ext_menu-74 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-74 .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #efefef;
 }
 #ext_menu-74 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #ext_menu-74 .bg-color.transparent.opened .link {
@@ -1168,15 +1168,15 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-7t .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #ext_menu-7t .close-icon::before,
 #ext_menu-7t .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #ext_menu-7t .link,
 #ext_menu-7t .dropdown-item {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-7t .link {
@@ -1194,22 +1194,22 @@ h6,
 }
 #ext_menu-7t .link[aria-expanded="true"],
 #ext_menu-7t .dropdown-menu {
-  background: #000000;
+  background: #d6d6d6;
 }
 #ext_menu-7t .nav-dropdown-sm .link:focus,
 #ext_menu-7t .nav-dropdown-sm .link:hover,
 #ext_menu-7t .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-7t .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #e7e7e7!important;
 }
 #ext_menu-7t .navbar,
 #ext_menu-7t .nav-dropdown-sm,
 #ext_menu-7t .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-7t .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #efefef;
 }
 #ext_menu-7t .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #ext_menu-7t .bg-color.transparent.opened .link {
