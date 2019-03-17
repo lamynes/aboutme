@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "articles.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -731,14 +731,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-family": "'Indie Flower', cursive"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.4rem"
+              "font-size": "1.5rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.516rem"
+              "font-size": "1.624rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -782,11 +782,11 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.4",
+            "fontSize": "1.5",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1012,11 +1012,11 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.4",
+            "fontSize": "1.5",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1043,14 +1043,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-family": "'Indie Flower', cursive"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.4rem"
+              "font-size": "1.5rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.516rem"
+              "font-size": "1.624rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1172,11 +1172,11 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.4",
+            "fontSize": "1.5",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1451,11 +1451,11 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.4",
+            "fontSize": "1.5",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1590,11 +1590,11 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.4",
+            "fontSize": "1.5",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1758,11 +1758,11 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.4",
+            "fontSize": "1.5",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2046,11 +2046,11 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.4",
+            "fontSize": "1.5",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2218,11 +2218,11 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.4",
+            "fontSize": "1.5",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2506,11 +2506,11 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#efefef",
-            "fontSize": "1.4",
+            "fontSize": "1.5",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"

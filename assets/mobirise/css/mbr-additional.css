@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 
 
@@ -782,14 +782,14 @@ h6,
 #ext_menu-74 .link,
 #ext_menu-74 .dropdown-item {
   color: #ffffff;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-74 .link {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 #ext_menu-74 .dropdown-item,
 #ext_menu-74 .nav-dropdown-sm .link {
-  font-size: 1.516rem;
+  font-size: 1.624rem;
 }
 #ext_menu-74 .link:hover,
 #ext_menu-74 .dropdown-item:hover,
@@ -910,14 +910,14 @@ h6,
 #ext_menu-74 .link,
 #ext_menu-74 .dropdown-item {
   color: #ffffff;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-74 .link {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 #ext_menu-74 .dropdown-item,
 #ext_menu-74 .nav-dropdown-sm .link {
-  font-size: 1.516rem;
+  font-size: 1.624rem;
 }
 #ext_menu-74 .link:hover,
 #ext_menu-74 .dropdown-item:hover,
