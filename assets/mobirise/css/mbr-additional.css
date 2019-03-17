@@ -1325,32 +1325,6 @@ h6,
   text-align: left;
   font-size: 17px;
 }
-#msg-box7-8f body {
-  height: 100%;
-  background: url("https://lamynes.github.io/aboutme/assets/images/u4ttqbsfuc-1440x900.png");
-  background-size: auto;
-  background-repeat: no-repeat;
-  -webkit-animation-name: backgroundEffect;
-  animation-duration: 15s;
-  animation-iteration-count: infinite;
-}
-@keyframes backgroundEffect {
-  0% {
-    background-position: 0% 0%;
-  }
-  25% {
-    background-position: 30% 10%;
-  }
-  50% {
-    background-position: 0 30%;
-  }
-  75% {
-    background-position: 30% 30%;
-  }
-  100% {
-    background-position: 0% 0%;
-  }
-}
 #social-buttons1-96 {
   text-shadow: 0 0 20px #000000;
 }
