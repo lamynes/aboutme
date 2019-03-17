@@ -2044,8 +2044,8 @@
             "showTitle": true,
             "showText": false,
             "showButton": true,
-            "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/v-vgoqjmkn-1004x500.png",
             "parallax": true,
@@ -2061,7 +2061,7 @@
           },
           "title": "Design with a Passion",
           "text": "<p>Design with a Passion</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
