@@ -1876,7 +1876,7 @@
             },
             "overlay": true,
             "overlayColor": "#181717",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
