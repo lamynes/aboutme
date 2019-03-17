@@ -109,10 +109,10 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
-              "rawUrl": "https://www.youtube.com/embed/umH3CCSuh-I?rel=0&showinfo=0&autoplay=0&loop=0",
+              "url": "https://www.youtube.com/embed/umH3CCSuh-I?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=umH3CCSuh-I&list=FLOW3pkZlqfQCAo82MTXkWiA&index=64&t=0s",
               "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/umH3CCSuh-I?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#000000",
@@ -557,8 +557,8 @@
             "showIcons": false,
             "showForm": true,
             "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/z06-wireframeao-1-1600x900.jpg",
             "parallax": true,
