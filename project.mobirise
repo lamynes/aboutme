@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "muscle.html",
+    "currentPage": "jeep-custom.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2788,7 +2788,7 @@
             "paddingTop": "4",
             "paddingBottom": "7",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/69z3czuf13-1440x900.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/ydjrws-h-3-1440x900.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
