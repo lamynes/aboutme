@@ -1780,6 +1780,10 @@ h6,
 #msg-box7-9c P {
   text-align: left;
   font-size: 17px;
+  color: #ffffff;
+}
+#msg-box7-9c SPAN {
+  font-size: 60px;
 }
 #msg-box7-9c .mbr-section-title,
 #msg-box7-9c .lead p {
@@ -1794,7 +1798,7 @@ h6,
   font-size: 17px;
 }
 #msg-box7-9c SPAN {
-  font-size: 48px;
+  font-size: 60px;
 }
 #msg-box7-9c UL {
   color: #ffffff;

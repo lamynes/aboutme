@@ -2767,7 +2767,11 @@
             },
             "P": {
               "text-align": "left",
-              "font-size": "17px"
+              "font-size": "17px",
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "font-size": "60px"
             }
           },
           "_params": {
@@ -2788,8 +2792,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#181717",
-            "overlayOpacity": "0"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -2812,7 +2816,7 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">CHEVY LS3 416ci 605hp COMPLETE ENGINE</span>",
+          "title": "<span style=\"font-weight: normal;\">CHEVY LS3 416ci 605hp </span><br><i>COMPLETE ENGINE</i>",
           "text": "This LS3 engine for sale produces max power and torque with a hydraulic cam which is very street able but also gives you the sound you are looking for!!\n<br>\n<br>Peak Horsepower: 605bhp @ 5000 rpm\n<br>Peak Torque: 570lb/ft @ 4800 rpm\n<br>Compression Ratio: 11:1 \n<br>Operating Range: 2300 – 6300rpm\n<br>Required Fuel: 91+ Octane Pump Gasoline&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.00&amp;item_name=Custom+Item&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
@@ -2820,7 +2824,7 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9c",
-          "_customCSS": ".mbr-section-title, .lead p {\n  color: #fff;\n}\nH3 {\n  color: #f3c649;\n  text-align: center;\n}\nP {\n  text-align: left;\n  font-size: 17px;\n}\nSPAN {\n  font-size: 48px;\n}\nUL {\n  color: #ffffff;\n}\ntext-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}\nbody {\n  padding: 0;\n  margin: 0;\n  background: black;\n}\n\n#canvas {\n  margin: auto;\n  display: block;\n}"
+          "_customCSS": ".mbr-section-title, .lead p {\n  color: #fff;\n}\nH3 {\n  color: #f3c649;\n  text-align: center;\n}\nP {\n  text-align: left;\n  font-size: 17px;\n}\nSPAN {\n  font-size: 60px;\n}\nUL {\n  color: #ffffff;\n}\ntext-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}\nbody {\n  padding: 0;\n  margin: 0;\n  background: black;\n}\n\n#canvas {\n  margin: auto;\n  display: block;\n}"
         },
         {
           "_params": {
