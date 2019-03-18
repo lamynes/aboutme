@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "muscle.html",
+    "currentPage": "crew.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1993,7 +1993,7 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/u4ttqbsfuc-1440x900.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/6pjmeinmsh-1440x900.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2034,7 +2034,7 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9b",
-          "_customCSS": "text-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}"
+          "_customCSS": "text-shadow: 2px 2px 5px #000000;\n\np{\n    text-shadow: 2px 2px 5px black;\n}"
         },
         {
           "_inherit": "menu",
@@ -2090,13 +2090,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#b3b3b3"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#c4c4c4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2808,7 +2808,7 @@
           "_name": "msg-box7",
           "_anchor": "msg-box7-9c",
           "_customCSS": ".transition-fade {\n    transition: .4s;\n    opacity: 1;\n}\nhtml.is-animating .transition-fade{\n    opacity: 0;\n}\n.mbr-section-title, .lead p {\n  color: #fff;\n}\nH3 {\n  color: #b8312f;\n  text-align: left;\n}\nP {\n  text-align: left;\n  font-size: 17px;\n  color: #ffffff;\n}\nSPAN {\n  font-size: 60px;\n}\n.mbr-section-title, .lead p {\n  color: #fff;\n}\nH3 {\n  color: #f3c649;\n  text-align: center;\n}\nP {\n  text-align: left;\n  font-size: 17px;\n}\nSPAN {\n  font-size: 80px;\n}\nUL {\n  color: #ffffff;\n}\ntext-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}\nbody {\n  padding: 0;\n  margin: 0;\n  background: black;\n}\n\n#canvas {\n  margin: auto;\n  display: block;\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background mbr-after-navbar\" data-rv-view=\"185\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/jr-bruphbz-1440x900.png&quot;); padding-top: 120px; padding-bottom: 160px;\">\n\n    \n    <div id=\"swup\" class=\"transition-fade\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 46%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/golen-engine-motor-340x210.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"91\"><span style=\"font-weight: normal;\">CHEVY LS3 416ci 605hp </span><br><span style=\"font-weight: normal;\">COMPLETE ENGINE</span></h3>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"92\">This LS3 engine for sale produces max power and torque with a hydraulic cam which is very street able but also gives you the sound you are looking for!!\n<br>\n<br>Peak Horsepower: <em><strong>605bhp @ 5000 rpm\n</strong></em><br>Peak Torque: <strong><em>570lb/ft @ 4800 rpm\n</em></strong><br>Compression Ratio:<strong><em> 11:1 \n</em></strong><br>Operating Range: <strong><em>2300 – 6300rpm\n</em></strong><br>Required Fuel: <strong><em>91+ Octane Pump Gasoline&nbsp;</em></strong></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background mbr-after-navbar\" data-rv-view=\"185\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/jr-bruphbz-1440x900.png&quot;); padding-top: 120px; padding-bottom: 160px;\">\n\n    \n    <div id=\"swup\" class=\"transition-fade\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 46%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/golen-engine-motor-340x210.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"93\"><span style=\"font-weight: normal;\">CHEVY LS3 416ci 605hp </span><br><span style=\"font-weight: normal;\">COMPLETE ENGINE</span></h3>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"94\">This LS3 engine for sale produces max power and torque with a hydraulic cam which is very street able but also gives you the sound you are looking for!!\n<br>\n<br>Peak Horsepower: <em><strong>605bhp @ 5000 rpm\n</strong></em><br>Peak Torque: <strong><em>570lb/ft @ 4800 rpm\n</em></strong><br>Compression Ratio:<strong><em> 11:1 \n</em></strong><br>Operating Range: <strong><em>2300 – 6300rpm\n</em></strong><br>Required Fuel: <strong><em>91+ Octane Pump Gasoline&nbsp;</em></strong></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true

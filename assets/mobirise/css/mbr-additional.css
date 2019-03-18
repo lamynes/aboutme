@@ -1358,7 +1358,7 @@ h6,
 
 
 #msg-box7-9b {
-  text-shadow: 2px 2px 5px black;
+  text-shadow: 2px 2px 5px #000000;
 }
 #msg-box7-9b .mbr-section-title,
 #msg-box7-9b .lead p {
@@ -1419,19 +1419,19 @@ h6,
 }
 #ext_menu-8h .link[aria-expanded="true"],
 #ext_menu-8h .dropdown-menu {
-  background: #d6d6d6;
+  background: #b3b3b3;
 }
 #ext_menu-8h .nav-dropdown-sm .link:focus,
 #ext_menu-8h .nav-dropdown-sm .link:hover,
 #ext_menu-8h .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-8h .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
+  background: #c4c4c4!important;
 }
 #ext_menu-8h .navbar,
 #ext_menu-8h .nav-dropdown-sm,
 #ext_menu-8h .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-8h .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
+  background: #cccccc;
 }
 #ext_menu-8h .bg-color.transparent .link {
   color: #ffffff;
