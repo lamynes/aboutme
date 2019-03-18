@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 339,
+    "uniqCompNum": 340,
     "versionPublish": "4.9.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2362,8 +2362,8 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9a",
-          "_customCSS": ".mbr-section-title, .lead p {\n  color: #fff;\n}\nH3 {\n  color: #f3c649;\n  text-align: center;\n}\nP {\n  text-align: left;\n  font-size: 17px;\n}\nSPAN {\n  font-size: 48px;\n}\nUL {\n  color: #ffffff;\n}\ntext-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}\nbody {\n  padding: 0;\n  margin: 0;\n  background: black;\n}\n\n#canvas {\n  margin: auto;\n  display: block;\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background mbr-after-navbar\" data-rv-view=\"29\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/69z3czuf13-1440x900.png&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 38%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/jeep-stroker-cj-efi-turn-key-2-589x578.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"27\">4.6L Jeep EFI Turn Key for 1971-1990 Jeeps</h3>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"28\"></p><p>Pricing on 4.6L Jeep EFI Turn Key for 1971-1990 Jeeps:\n<br>1971-1990 year models\n<br></p><p></p>\n\n                  </div>\n\n                  <div><a class=\"btn btn-success mbr-editable-button\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.00&amp;item_name=Custom+Item&amp;currency_code=USD\" code-editable-id=\"29\">MORE</a></div>\n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n</section>\n",
+          "_customCSS": ".mbr-section-title, .lead p {\n  color: #fff;\n}\nH3 {\n  color: #f3c649;\n  text-align: center;\n}\nP {\n  text-align: left;\n  font-size: 17px;\n}\nSPAN {\n  font-size: 48px;\n}\nUL {\n  color: #ffffff;\n}\ntext-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background mbr-after-navbar\" data-rv-view=\"29\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/69z3czuf13-1440x900.png&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 38%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/jeep-stroker-cj-efi-turn-key-2-589x578.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"69\">4.6L Jeep EFI Turn Key for 1971-1990 Jeeps</h3>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"70\"></p><p>Pricing on 4.6L Jeep EFI Turn Key for 1971-1990 Jeeps:\n<br>1971-1990 year models\n<br></p><p></p>\n\n                  </div>\n\n                  <div><a class=\"btn btn-success mbr-editable-button\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.00&amp;item_name=Custom+Item&amp;currency_code=USD\" code-editable-id=\"71\">MORE</a></div>\n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n</section>\n",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -2757,13 +2757,26 @@
         },
         {
           "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "H3": {
+              "color": "#b8312f",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "46",
-            "paddingTop": "3",
+            "imageSize": "50",
+            "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/jr-bruphbz-1440x900.png",
@@ -2774,9 +2787,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlay": true,
+            "overlayColor": "#181717",
+            "overlayOpacity": "0"
           },
           "media": {
             "image": {
@@ -2799,19 +2812,15 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">CHEVY LS3 416ci 605hp </span><br><span style=\"font-weight: normal;\">COMPLETE ENGINE</span>",
-          "text": "This LS3 engine for sale produces max power and torque with a hydraulic cam which is very street able but also gives you the sound you are looking for!!\n<br>\n<br>Peak Horsepower: <i><b>605bhp @ 5000 rpm\n</b></i><br>Peak Torque: <b><i>570lb/ft @ 4800 rpm\n</i></b><br>Compression Ratio:<b><i> 11:1 \n</i></b><br>Operating Range: <b><i>2300 – 6300rpm\n</i></b><br>Required Fuel: <b><i>91+ Octane Pump Gasoline&nbsp;</i></b>",
+          "title": "<span style=\"font-weight: normal;\">CHEVY LS3 416ci 605hp COMPLETE ENGINE</span>",
+          "text": "This LS3 engine for sale produces max power and torque with a hydraulic cam which is very street able but also gives you the sound you are looking for!!\n<br>\n<br>Peak Horsepower: 605bhp @ 5000 rpm\n<br>Peak Torque: 570lb/ft @ 4800 rpm\n<br>Compression Ratio: 11:1 \n<br>Operating Range: 2300 – 6300rpm\n<br>Required Fuel: 91+ Octane Pump Gasoline&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.00&amp;item_name=Custom+Item&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box7",
-          "_anchor": "msg-box7-9c",
-          "_customCSS": ".transition-fade {\n    transition: .4s;\n    opacity: 1;\n}\nhtml.is-animating .transition-fade{\n    opacity: 0;\n}\n.mbr-section-title, .lead p {\n  color: #fff;\n}\nH3 {\n  color: #b8312f;\n  text-align: left;\n}\nP {\n  text-align: left;\n  font-size: 17px;\n  color: #ffffff;\n}\nSPAN {\n  font-size: 60px;\n}\n.mbr-section-title, .lead p {\n  color: #fff;\n}\nH3 {\n  color: #f3c649;\n  text-align: center;\n}\nP {\n  text-align: left;\n  font-size: 17px;\n}\nSPAN {\n  font-size: 80px;\n}\nUL {\n  color: #ffffff;\n}\ntext-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}\nbody {\n  padding: 0;\n  margin: 0;\n  background: black;\n}",
-          "_customHTML": "<section id=\"swup\" class=\"transition-fade\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/jr-bruphbz-1440x900.png&quot;); padding-top: 100px; padding-bottom: 160px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 46%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/golen-engine-motor-340x210.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"63\"><span style=\"font-weight: normal;\">CHEVY LS3 416ci 605hp </span><br><span style=\"font-weight: normal;\">COMPLETE ENGINE</span></h3>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"64\">This LS3 engine for sale produces max power and torque with a hydraulic cam which is very street able but also gives you the sound you are looking for!!\n<br>\n<br>Peak Horsepower: <em><strong>605bhp @ 5000 rpm\n</strong></em><br>Peak Torque: <strong><em>570lb/ft @ 4800 rpm\n</em></strong><br>Compression Ratio:<strong><em> 11:1 \n</em></strong><br>Operating Range: <strong><em>2300 – 6300rpm\n</em></strong><br>Required Fuel: <strong><em>91+ Octane Pump Gasoline&nbsp;</em></strong></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true
+          "_anchor": "msg-box7-9f",
+          "_customCSS": "text-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}"
         },
         {
           "_params": {

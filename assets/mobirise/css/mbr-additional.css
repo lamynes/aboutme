@@ -1565,15 +1565,6 @@ h6,
 #msg-box7-9a p {
   text-shadow: 2px 2px 5px black;
 }
-#msg-box7-9a body {
-  padding: 0;
-  margin: 0;
-  background: black;
-}
-#msg-box7-9a #canvas {
-  margin: auto;
-  display: block;
-}
 #social-buttons1-96 {
   text-shadow: 0 0 20px #000000;
 }
@@ -1766,57 +1757,23 @@ h6,
 #ext_menu-8e .btn {
   font-size: 30px;
 }
-#msg-box7-9c {
+#msg-box7-9f {
   text-shadow: 2px 2px 5px black;
 }
-#msg-box7-9c .transition-fade {
-  transition: .4s;
-  opacity: 1;
-}
-#msg-box7-9c html.is-animating .transition-fade {
-  opacity: 0;
-}
-#msg-box7-9c .mbr-section-title,
-#msg-box7-9c .lead p {
+#msg-box7-9f .mbr-section-title,
+#msg-box7-9f .lead p {
   color: #fff;
 }
-#msg-box7-9c H3 {
+#msg-box7-9f H3 {
   color: #b8312f;
   text-align: left;
 }
-#msg-box7-9c P {
-  text-align: left;
-  font-size: 17px;
-  color: #ffffff;
-}
-#msg-box7-9c SPAN {
-  font-size: 60px;
-}
-#msg-box7-9c .mbr-section-title,
-#msg-box7-9c .lead p {
-  color: #fff;
-}
-#msg-box7-9c H3 {
-  color: #f3c649;
-  text-align: center;
-}
-#msg-box7-9c P {
+#msg-box7-9f P {
   text-align: left;
   font-size: 17px;
 }
-#msg-box7-9c SPAN {
-  font-size: 80px;
-}
-#msg-box7-9c UL {
-  color: #ffffff;
-}
-#msg-box7-9c p {
+#msg-box7-9f p {
   text-shadow: 2px 2px 5px black;
-}
-#msg-box7-9c body {
-  padding: 0;
-  margin: 0;
-  background: black;
 }
 #social-buttons1-96 {
   text-shadow: 0 0 20px #000000;
