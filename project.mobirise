@@ -2824,7 +2824,7 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9c",
-          "_customCSS": ".mbr-section-title, .lead p {\n  color: #fff;\n}\nH3 {\n  color: #f3c649;\n  text-align: center;\n}\nP {\n  text-align: left;\n  font-size: 17px;\n}\nSPAN {\n  font-size: 60px;\n}\nUL {\n  color: #ffffff;\n}\ntext-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}\nbody {\n  padding: 0;\n  margin: 0;\n  background: black;\n}\n\n#canvas {\n  margin: auto;\n  display: block;\n}"
+          "_customCSS": ".mbr-section-title, .lead p {\n  color: #fff;\n}\nH3 {\n  color: #f3c649;\n  text-align: center;\n}\nP {\n  text-align: left;\n  font-size: 17px;\n}\nSPAN {\n  font-size: 80px;\n}\nUL {\n  color: #ffffff;\n}\ntext-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}\nbody {\n  padding: 0;\n  margin: 0;\n  background: black;\n}\n\n#canvas {\n  margin: auto;\n  display: block;\n}"
         },
         {
           "_params": {
