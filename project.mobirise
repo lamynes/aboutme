@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "muscle.html",
+    "currentPage": "c1-custom.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2885,7 +2885,7 @@
             "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/oeiuf3stba-1004x500.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/hxicqdwy-n-1004x500.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
