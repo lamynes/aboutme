@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "c1-custom.html",
+    "currentPage": "lt1-camaro.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2754,7 +2754,8 @@
             },
             "P": {
               "text-align": "left",
-              "font-size": "17px"
+              "font-size": "20px",
+              "color": "#ffffff"
             },
             "SPAN": {
               "font-size": "48px"
@@ -2766,13 +2767,13 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": "50",
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fhy3i7mkcg-1440x900.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/sexbvr-4sv-1440x900.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2780,9 +2781,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#181717",
-            "overlayOpacity": "0.1"
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
