@@ -138,7 +138,7 @@
           "title": "<span style=\"font-weight: normal;\">CURRENT PROJECTS</span>",
           "meta": "<i>LAMYNES.PL</i>",
           "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n.mbr-section-title, .mbr-section-subtitle {\n  text-align: center;\n}\n.mbr-section-subtitle {\n  color: #262626;\n}\n.mbr-section-title {\n  color: #262626;\n  font-size: 60px;\n}\n.mbr-section-title SPAN {\n  font-family: 'Oswald', sans-serif;\n  font-size: 72px;\n  color: #000000;\n}\n.mbr-section-subtitle I {\n  font-size: 20px;\n  color: #000000;\n}\n.mbr-section-title {\n    text-shadow: 0 0 20px #000000;\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" data-rv-view=\"3\" style=\"background-color: rgb(255, 255, 255); padding-top: 60px; padding-bottom: 40px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"16\"><span style=\"font-weight: normal; font-size: 60px;\">CURRENT PROJECTS</span></h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"17\"><em>LAMYNES.PL</em></small>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" data-rv-view=\"3\" style=\"background-color: rgb(255, 255, 255); padding-top: 60px; padding-bottom: 40px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"51\"><span style=\"font-weight: normal; font-size: 60px;\">CURRENT PROJECTS</span></h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"52\"><em>LAMYNES.PL</em></small>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -532,7 +532,8 @@
               "color": "#90a878"
             }
           },
-          "_anchor": "extFeatures7-99"
+          "_anchor": "extFeatures7-99",
+          "_customCSS": "img {\n  -webkit-filter: drop-shadow(5px 5px 5px #222);\n  filter: drop-shadow(5px 5px 5px #222);\n}"
         },
         {
           "alias": "mobirise3-blocks/components",

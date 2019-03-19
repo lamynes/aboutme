@@ -743,6 +743,10 @@ h6,
 #extFeatures7-99 SPAN {
   color: #90a878;
 }
+#extFeatures7-99 img {
+  -webkit-filter: drop-shadow(5px 5px 5px #222222);
+  filter: drop-shadow(5px 5px 5px #222222);
+}
 #extForm1-79 H2 {
   color: #000000;
 }
