@@ -103,7 +103,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sexbvr-4sv-1-1440x900.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/6ig8dsk4sm-1440x900.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -116,7 +116,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.3"
           },
           "title": "<span style=\"font-weight: normal;\"><i>MODERN &amp; MOBILE READY</i></span>",
           "text": "BEAUTIFUL WEBSITES FOR ALL DEVICES",
