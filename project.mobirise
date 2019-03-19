@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "c1-custom.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1792,7 +1792,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/2019-03-18-2-1266x545.png",
               "width": 1400,
-              "link": "http://www.3dtuning.com/en-US/",
+              "link": "http://www.3dtuning.com/en-US/plee15",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -3309,7 +3309,7 @@
             "paddingTop": "4",
             "paddingBottom": "7",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ydjrws-h-3-1440x900.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/download-5-1440x900.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
