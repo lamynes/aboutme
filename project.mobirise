@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "lt1-camaro.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -121,7 +121,7 @@
           "title": "<span style=\"font-weight: normal;\"><i>MODERN &amp; MOBILE READY</i></span>",
           "text": "BEAUTIFUL WEBSITES FOR ALL DEVICES",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extForm1-79\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\">BLOG</a>",
-          "_customCSS": ".mbr-section-title {\n    text-shadow: 0 0 20px #000000;\n}"
+          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}"
         },
         {
           "_tags": [
@@ -2403,8 +2403,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#181717",
-            "overlayOpacity": "0"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
@@ -2435,7 +2435,7 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9f",
-          "_customCSS": "text-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}"
+          "_customCSS": "text-shadow: 2px 5px 15px black;\n\np{\n    text-shadow: 2px 5px 15px black;\n}"
         },
         {
           "_params": {
@@ -2681,7 +2681,7 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9a",
-          "_customCSS": "text-shadow: 2px 2px 5px black;\np{\n    text-shadow: 2px 2px 5px black;\n}"
+          "_customCSS": "text-shadow: 2px 5px 15px black;\np{\n    text-shadow: 2px 5px 15px black;\n}"
         },
         {
           "_params": {
