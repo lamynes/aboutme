@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "lt1-camaro.html",
+    "currentPage": "fun.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1773,7 +1773,7 @@
           ],
           "_name": "slider3",
           "_anchor": "slider3-9h",
-          "_customCSS": "text-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}",
+          "_customCSS": "text-shadow: 2px 5px 15px green;\n\np{\n    text-shadow: 2px 5px 15px black;\n}",
           "_styles": {
             "H2": {
               "text-align": "right"
@@ -3350,7 +3350,7 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9g",
-          "_customCSS": "text-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}"
+          "_customCSS": "text-shadow: 2px 5px 15px black;\n\np{\n   text-shadow: 2px 5px 15px black;\n}"
         },
         {
           "_params": {
