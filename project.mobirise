@@ -809,7 +809,7 @@
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
-          "_customCSS": "text-shadow: 2px 2px 10px black;"
+          "_customCSS": "text-shadow: 2px 2px 15px black;"
         },
         {
           "_styles": {
