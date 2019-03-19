@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "fun.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 346,
+    "uniqCompNum": 348,
     "versionPublish": "4.9.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -68,7 +68,7 @@
         "title": "Paul E Lee",
         "meta_descr": "Web Designer / Software Engineer / Car Enthusiast\nOver 20 Years Experience in Several Engineering Fields & Industries Hands on & Software Development.Lamynes is my email address, lamynes.pl@gmail.com",
         "header_custom": "<script>\nfunction clickCounter() {\n    if(typeof(Storage) !== \"undefined\") {\n        if (localStorage.clickcount) {\n            localStorage.clickcount = Number(localStorage.clickcount)+1;\n        } else {\n            localStorage.clickcount = 1;\n        }\n        document.getElementById(\"test\").value= localStorage.clickcount;\n    } else {\n        document.getElementById(\"result\").innerHTML = \"Sorry, your browser does not support web storage...\";\n    }\n}\n</script>",
-        "footer_custom": "",
+        "footer_custom": "<script async src=\"//cdn.embedly.com/widgets/platform.js\" charset=\"UTF-8\"></script>",
         "html_before": ""
       },
       "components": [
@@ -1744,6 +1744,21 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "1969 CAMARO - BLACK BETTY",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vwto9sg0pp-1440x900.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "DODGE VIPER",
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
