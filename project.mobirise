@@ -1686,8 +1686,8 @@
         {
           "_params": {
             "autoplay": true,
-            "animType": "blur",
-            "theme": "box",
+            "animType": "seven",
+            "theme": "gothic",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/6pjmeinmsh-1-1600x1080.jpg",
@@ -1697,7 +1697,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/6pjmeinmsh-85x48.png",
                 "title": "title 1",
                 "text": "text 1",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/hjjfoauzxq-1-1600x1080.jpg",
@@ -1707,7 +1707,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/hjjfoauzxq-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/vwto9sg0pp-1-1600x1080.jpg",
@@ -1721,7 +1721,7 @@
               }
             ],
             "fullScreen": true,
-            "showCaptions": false,
+            "showCaptions": true,
             "hideControls": false,
             "responsive": "3",
             "paddingTop": 0,
