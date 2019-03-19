@@ -1251,6 +1251,9 @@ h6,
 #slider3-9h {
   text-shadow: 2px 2px 5px black;
 }
+#slider3-9h H2 {
+  text-align: right;
+}
 #slider3-9h p {
   text-shadow: 2px 2px 5px black;
 }
