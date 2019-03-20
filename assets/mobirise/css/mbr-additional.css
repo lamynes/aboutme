@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+
 
 
 
@@ -39,7 +42,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -53,7 +56,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .btn-sm,
 .lead a,
@@ -66,14 +69,14 @@ h6,
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Oswald', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
@@ -416,7 +419,7 @@ h6,
 }
 .extCountdown1 .number,
 .extCountdown2 .number {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extCountdown1 .period,
 .extCountdown2 .period {
@@ -425,21 +428,21 @@ h6,
 }
 .extCountdown1 .dot,
 .extCountdown2 .dot {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .features6 .feature-subtitle {
   font-family: 'Oswald', sans-serif;
   font-style: normal;
 }
 .features6 .feature-title {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .features6 .description {
   font-family: 'Oswald', sans-serif;
 }
 .count,
 .counter-title {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .counter-subtitle {
   font-family: 'Oswald', sans-serif;
@@ -460,7 +463,7 @@ h6,
 .extHeader12 .container h3,
 .extHeader13 .container h3,
 .extFeatures10 .container h3 {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extHeader1 .container p,
 .extHeader2 .container p,
@@ -482,13 +485,13 @@ h6,
   font-style: normal;
 }
 .extHeader9 form p.form-subtitle {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extHeader11 .container span {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extHeader11 .container p.element {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extHeader11 .container p {
   font-family: 'Oswald', sans-serif;
@@ -496,7 +499,7 @@ h6,
 }
 .extHeader12 h4,
 .extFeatures10 h4 {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extHeader12 .subtitle,
 .extFeatures10 .subtitle {
@@ -504,20 +507,20 @@ h6,
   font-style: normal;
 }
 .extHeader13 h4 {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extHeader13 .number {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extHeader13 .period {
   font-family: 'Oswald', sans-serif;
   font-style: normal;
 }
 .extHeader13 .dot {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extFeatures .feature-title {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extFeatures .feature-subtitle {
   font-family: 'Oswald', sans-serif;
@@ -527,7 +530,7 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 .extFeatures2 h4 {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extFeatures3 .border-wrap {
   border-color: #000000;
@@ -535,7 +538,7 @@ h6,
 .extFeatures4 h4,
 .extFeatures6 h4,
 .extFeatures5 .card-title h4 {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extFeatures4 h5,
 .extFeatures6 h5,
@@ -547,7 +550,7 @@ h6,
 .extForm2 h4,
 .extForm3 h4,
 .extForm4 h4 {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extForm1 .subtitle,
 .extForm2 .subtitle,
@@ -557,7 +560,7 @@ h6,
   font-style: normal;
 }
 .extForm2 .container h3 {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extForm2 .container p {
   font-family: 'Oswald', sans-serif;
@@ -574,17 +577,17 @@ h6,
   background: #000000;
 }
 .extCounters2 h4 {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extCounters2 h5 {
   font-family: 'Oswald', sans-serif;
   font-style: normal;
 }
 .extCounters3 .count {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extCounters3 .counter-title {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extCounters3 .counter-subtitle {
   font-family: 'Oswald', sans-serif;
@@ -606,10 +609,10 @@ h6,
   font-style: normal;
 }
 .extProgressBarRound .progress-radial .overlay {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extProgressBar4 .feature-title {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extProgressBar4 .feature-subtitle {
   font-family: 'Oswald', sans-serif;
@@ -654,14 +657,14 @@ h6,
   font-style: normal;
 }
 .extMsg-box1 .container h3 {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extMsg-box1 .container p {
   font-family: 'Oswald', sans-serif;
   font-style: normal;
 }
 .extMsg-box1 h4 {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extMsg-box1 .subtitle {
   font-family: 'Oswald', sans-serif;
@@ -670,7 +673,7 @@ h6,
 .extMsg-box2 .container span,
 .extMsg-box3 .container span,
 .extMsg-box4 .container span {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extMsg-box2 .container p,
 .extMsg-box3 .container p,
@@ -679,7 +682,7 @@ h6,
   font-style: normal;
 }
 .extProgressBarRound .pie_progress__number {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 .extMenu1 span.icon a:hover {
   color: #000000 !important;
@@ -706,7 +709,7 @@ h6,
 #header1-33 .mbr-section-title SPAN {
   font-size: 60px;
   font-family: 'Oswald', sans-serif;
-  color: #efefef;
+  color: #51735b;
 }
 #header1-33 .mbr-section-title {
   text-shadow: 2px 5px 15px black;
@@ -765,6 +768,7 @@ h6,
 }
 #social-buttons1-98 .mbr-section-title {
   color: #000000;
+  font-family: 'Oswald', sans-serif;
 }
 #footer1-2g P {
   color: #000000;
@@ -810,19 +814,19 @@ h6,
 }
 #ext_menu-74 .link[aria-expanded="true"],
 #ext_menu-74 .dropdown-menu {
-  background: #b3b3b3;
+  background: #262626;
 }
 #ext_menu-74 .nav-dropdown-sm .link:focus,
 #ext_menu-74 .nav-dropdown-sm .link:hover,
 #ext_menu-74 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-74 .nav-dropdown-sm .dropdown-item:hover {
-  background: #c4c4c4!important;
+  background: #373737!important;
 }
 #ext_menu-74 .navbar,
 #ext_menu-74 .nav-dropdown-sm,
 #ext_menu-74 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-74 .nav-dropdown-sm .dropdown-menu {
-  background: #cccccc;
+  background: #3f3f3f;
 }
 #ext_menu-74 .bg-color.transparent .link {
   color: #ffffff;
@@ -841,6 +845,7 @@ h6,
 }
 #ext_menu-74 A {
   font-size: 12px;
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-74 .btn {
   font-size: 30px;
@@ -855,7 +860,9 @@ h6,
 }
 #header3-7l .mbr-section-title SPAN {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
+
 
 
 
@@ -912,15 +919,15 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-74 .navbar-toggler {
-  color: #fac51c;
+  color: #ffffff;
 }
 #ext_menu-74 .close-icon::before,
 #ext_menu-74 .close-icon::after {
-  background-color: #fac51c;
+  background-color: #ffffff;
 }
 #ext_menu-74 .link,
 #ext_menu-74 .dropdown-item {
-  color: #fac51c;
+  color: #ffffff;
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-74 .link {
@@ -953,7 +960,7 @@ h6,
   background: #3f3f3f;
 }
 #ext_menu-74 .bg-color.transparent .link {
-  color: #fac51c;
+  color: #ffffff;
   transition: none;
 }
 #ext_menu-74 .bg-color.transparent.opened .link {
@@ -969,10 +976,12 @@ h6,
 }
 #ext_menu-74 A {
   font-size: 12px;
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-74 .btn {
   font-size: 30px;
 }
+
 
 
 #footer1-6i P {
@@ -1050,10 +1059,12 @@ h6,
 }
 #ext_menu-74 A {
   font-size: 12px;
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-74 .btn {
   font-size: 30px;
 }
+
 
 
 
@@ -1170,10 +1181,14 @@ h6,
 }
 #ext_menu-74 A {
   font-size: 12px;
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-74 .btn {
   font-size: 30px;
 }
+
+
+
 
 
 #footer1-7s P {
@@ -1251,6 +1266,7 @@ h6,
 }
 #ext_menu-7t A {
   font-size: 12px;
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-7t .btn {
   font-size: 30px;
@@ -1260,6 +1276,7 @@ h6,
 }
 #slider3-9h H2 {
   text-align: right;
+  font-family: 'Open Sans', sans-serif;
 }
 #slider3-9h p {
   text-shadow: 2px 5px 15px black;
@@ -1275,7 +1292,9 @@ h6,
 }
 #social-buttons1-9i .mbr-section-title {
   color: #000000;
+  font-family: 'Oswald', sans-serif;
 }
+
 
 
 #footer1-8d P {
@@ -1353,6 +1372,7 @@ h6,
 }
 #ext_menu-8e A {
   font-size: 12px;
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-8e .btn {
   font-size: 30px;
@@ -1372,6 +1392,9 @@ h6,
   text-align: left;
   font-size: 17px;
 }
+#msg-box7-9f SPAN {
+  font-size: 60px;
+}
 #msg-box7-9f p {
   text-shadow: 2px 5px 15px black;
 }
@@ -1381,6 +1404,7 @@ h6,
 #social-buttons1-96 .mbr-section-title {
   color: #000000;
 }
+
 
 
 #footer1-8d P {
@@ -1458,6 +1482,7 @@ h6,
 }
 #ext_menu-8e A {
   font-size: 12px;
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-8e .btn {
   font-size: 30px;
@@ -1472,6 +1497,7 @@ h6,
 #msg-box7-9a H3 {
   color: #f3c649;
   text-align: center;
+  font-size: 60px;
 }
 #msg-box7-9a P {
   text-align: left;
@@ -1479,7 +1505,7 @@ h6,
   color: #ffffff;
 }
 #msg-box7-9a SPAN {
-  font-size: 48px;
+  font-size: 60px;
 }
 #msg-box7-9a UL {
   color: #ffffff;
@@ -1493,6 +1519,7 @@ h6,
 #social-buttons1-96 .mbr-section-title {
   color: #000000;
 }
+
 
 
 #msg-box7-9b {
@@ -1511,7 +1538,7 @@ h6,
   font-size: 17px;
 }
 #msg-box7-9b SPAN {
-  font-size: 48px;
+  font-size: 60px;
 }
 #msg-box7-9b UL {
   color: #ffffff;
@@ -1588,6 +1615,7 @@ h6,
 }
 #ext_menu-8h A {
   font-size: 12px;
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-8h .btn {
   font-size: 30px;
@@ -1598,6 +1626,8 @@ h6,
 #social-buttons1-8y .mbr-section-title {
   color: #000000;
 }
+
+
 
 
 #msg-box7-9b {
@@ -1616,7 +1646,8 @@ h6,
   font-size: 17px;
 }
 #msg-box7-9b SPAN {
-  font-size: 48px;
+  font-size: 60px;
+  font-family: 'Oswald', sans-serif;
 }
 #msg-box7-9b UL {
   color: #ffffff;
@@ -1693,6 +1724,7 @@ h6,
 }
 #ext_menu-8h A {
   font-size: 12px;
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-8h .btn {
   font-size: 30px;
@@ -1703,6 +1735,7 @@ h6,
 #social-buttons1-8y .mbr-section-title {
   color: #000000;
 }
+
 
 
 #footer1-8d P {
@@ -1780,6 +1813,7 @@ h6,
 }
 #ext_menu-8e A {
   font-size: 12px;
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-8e .btn {
   font-size: 30px;
@@ -1798,6 +1832,9 @@ h6,
 #msg-box7-9g P {
   text-align: left;
   font-size: 17px;
+}
+#msg-box7-9g SPAN {
+  font-size: 60px;
 }
 #msg-box7-9g p {
   text-shadow: 2px 5px 15px black;
