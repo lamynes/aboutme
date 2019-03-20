@@ -3441,7 +3441,7 @@
         {
           "_params": {
             "autoplay": true,
-            "animType": "fade",
+            "animType": "blur",
             "theme": "cursive",
             "slides": [
               {
@@ -3462,7 +3462,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/69z3czuf13-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/6pjmeinmsh-1174x458.png",
@@ -3482,7 +3482,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/atvrfsbuua-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true
+                "active": false
               }
             ],
             "fullScreen": true,
