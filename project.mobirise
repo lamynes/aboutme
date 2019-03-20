@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "fun.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1647,13 +1647,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#262626"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#373737!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#3f3f3f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1853,7 +1853,7 @@
             "showIcons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": "5",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/white_carbon_fibre__33189.1350988552-1200x900.jpg",
             "parallax": true,
@@ -1869,7 +1869,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/6pjmeinmsh-600x375.png",
+              "src": "@PROJECT_PATH@/assets/images/6pjmeinmsh-600x234.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1880,7 +1880,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/69z3czuf13-600x375.png",
+              "src": "@PROJECT_PATH@/assets/images/69z3czuf13-1-600x375.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1891,7 +1891,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/8zk5j26dyq-600x299.png",
+              "src": "@PROJECT_PATH@/assets/images/6ig8dsk4sm-600x245.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1902,7 +1902,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/zdayejp1xi-600x375.png",
+              "src": "@PROJECT_PATH@/assets/images/atvrfsbuua-600x244.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
