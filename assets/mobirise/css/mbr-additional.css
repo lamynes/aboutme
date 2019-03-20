@@ -711,6 +711,13 @@ h6,
 #header1-33 .mbr-section-title {
   text-shadow: 2px 5px 15px black;
 }
+#header1-33 .mbr-section-title {
+  -webkit-animation: blink 3.0s linear infinite;
+  -moz-animation: blink 3.0s linear infinite;
+  -ms-animation: blink 3.0s linear infinite;
+  -o-animation: blink 3.0s linear infinite;
+  animation: blink 3.0s linear infinite;
+}
 #header3-77 {
   
 }
