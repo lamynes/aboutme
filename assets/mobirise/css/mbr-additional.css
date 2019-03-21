@@ -720,10 +720,6 @@ h6,
   -o-animation: blink 3.0s linear infinite;
   animation: blink 3.0s linear infinite;
 }
-#header1-33 h1 {
-  filter: blur(2px);
-  -webkit-filter: blur(2px);
-}
 #header3-77 {
   
 }
@@ -1246,6 +1242,7 @@ h6,
 #slider3-9h H2 {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
+  color: #efefef;
 }
 #slider3-9h I {
   color: #ea8d02;
