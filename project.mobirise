@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "jeep-custom.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -85,7 +85,7 @@
             },
             ".mbr-section-lead": {
               "text-align": "center",
-              "font-size": "25px",
+              "font-size": "36px",
               "color": "#efefef"
             },
             ".mbr-section-title SPAN": {
@@ -121,7 +121,7 @@
           "title": "<span style=\"font-weight: normal;\"><i>MODERN &amp; MOBILE READY</i></span>",
           "text": "BEAUTIFUL WEBSITES FOR ALL DEVICES",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extForm1-79\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\">BLOG</a>",
-          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}"
+          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}"
         },
         {
           "_tags": [
@@ -3452,7 +3452,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
                 "title": "title 2",
                 "text": "text 2",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/69z3czuf13-1600x900.jpg",
@@ -3462,7 +3462,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/69z3czuf13-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/6pjmeinmsh-1174x458.png",
@@ -3489,8 +3489,8 @@
             "showCaptions": false,
             "hideControls": false,
             "responsive": "2",
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "captionsEffect": "slide",
             "showBullets": false,
             "bgColor": "#ffffff",

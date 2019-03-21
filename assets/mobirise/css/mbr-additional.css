@@ -703,7 +703,7 @@ h6,
 }
 #header1-33 .mbr-section-lead {
   text-align: center;
-  font-size: 25px;
+  font-size: 36px;
   color: #efefef;
 }
 #header1-33 .mbr-section-title SPAN {
@@ -720,6 +720,10 @@ h6,
   -ms-animation: blink 3.0s linear infinite;
   -o-animation: blink 3.0s linear infinite;
   animation: blink 3.0s linear infinite;
+}
+#header1-33 h1 {
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
 }
 #header3-77 {
   
