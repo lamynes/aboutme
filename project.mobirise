@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "page10.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 355,
+    "uniqCompNum": 356,
     "versionPublish": "4.9.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -109,8 +109,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/umH3CCSuh-I?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=umH3CCSuh-I&list=FLOW3pkZlqfQCAo82MTXkWiA&index=64&t=0s",
+              "url": "https://www.youtube.com/embed/rkMAJYuDKSw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/rkMAJYuDKSw?rel=0&showinfo=0&autoplay=0&loop=0",
               "width": 1280,
               "height": 720
             },
@@ -3295,51 +3295,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/rkMAJYuDKSw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=rkMAJYuDKSw",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.5"
-          },
-          "title": "C5-Z06<span style=\"font-weight: normal;\"> </span><i>REBUILD</i>",
-          "text": "<a href=\"https://golenengineservice.com/\" target=\"_blank\" class=\"text-info\">GOLEN ENGINE</a> Rebuilt my LS6 Z06 Engine, Here are the results!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-9t",
-          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n\n",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#efefef",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "80px"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#ffffff",
-              "font-size": "60px"
-            }
-          }
-        },
-        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -3442,6 +3397,57 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-8h",
           "_customCSS": "text-shadow: 2px 2px 5px black;"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/download-4-1440x900.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/rkMAJYuDKSw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/rkMAJYuDKSw?rel=0&showinfo=0&autoplay=0&loop=0",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>C5Z06 ENGINE REBUILD <br><a href=\"https://golenengineservice.com/\" target=\"_blank\">GOLEN ENGINE</a></i></span>",
+          "text": "BEAUTIFUL WEBSITES FOR ALL DEVICES",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extForm1-79\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\">BLOG</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef",
+              "font-size": "60px",
+              "text-align": "center"
+            },
+            ".mbr-section-lead": {
+              "text-align": "center",
+              "font-size": "36px",
+              "color": "#efefef"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "60px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}",
+          "_anchor": "header1-9v"
         },
         {
           "_params": {

@@ -1806,18 +1806,6 @@ h6,
 
 
 
-#header1-9t .mbr-section-title {
-  color: #efefef;
-  font-family: 'Oswald', sans-serif;
-  font-size: 80px;
-}
-#header1-9t .mbr-section-title SPAN {
-  color: #ffffff;
-  font-size: 60px;
-}
-#header1-9t .mbr-section-title {
-  text-shadow: 2px 5px 15px black;
-}
 #ext_menu-8h {
   text-shadow: 2px 2px 5px black;
 }
@@ -1891,6 +1879,35 @@ h6,
 }
 #ext_menu-8h .btn {
   font-size: 30px;
+}
+#header1-9v .mbr-section-title {
+  color: #efefef;
+  font-size: 60px;
+  text-align: center;
+}
+#header1-9v .mbr-section-lead {
+  text-align: center;
+  font-size: 36px;
+  color: #efefef;
+}
+#header1-9v .mbr-section-title SPAN {
+  font-size: 60px;
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+}
+#header1-9v .mbr-section-title {
+  text-shadow: 2px 5px 15px black;
+}
+#header1-9v .mbr-section-title {
+  -webkit-animation: blink 3.0s linear infinite;
+  -moz-animation: blink 3.0s linear infinite;
+  -ms-animation: blink 3.0s linear infinite;
+  -o-animation: blink 3.0s linear infinite;
+  animation: blink 3.0s linear infinite;
+}
+#header1-9v h1 {
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
 }
 #social-buttons1-8y {
   text-shadow: 0 0 20px #000000;
