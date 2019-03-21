@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3315,7 +3315,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.5"
           },
           "title": "C5 Z06 REBUILD",
           "text": "<a href=\"https://golenengineservice.com/\" target=\"_blank\" class=\"text-info\">GOLEN ENGINE</a> Rebuilt my LS6 Z06 Engine, Here are the results!",
@@ -3328,7 +3328,9 @@
           "_customCSS": "text-shadow: 2px 5px 15px #000;\n\np{\n    text-shadow: 2px 5px 15px black;\n}",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ea8d02"
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
