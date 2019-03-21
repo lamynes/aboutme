@@ -1812,17 +1812,11 @@ h6,
   font-size: 80px;
 }
 #header1-9t .mbr-section-title SPAN {
-  color: #ea8d02;
+  color: #ffffff;
+  font-size: 60px;
 }
 #header1-9t .mbr-section-title {
   text-shadow: 2px 5px 15px black;
-}
-#header1-9t .mbr-section-title {
-  -webkit-animation: blink 3.0s linear infinite;
-  -moz-animation: blink 3.0s linear infinite;
-  -ms-animation: blink 3.0s linear infinite;
-  -o-animation: blink 3.0s linear infinite;
-  animation: blink 3.0s linear infinite;
 }
 #ext_menu-8h {
   text-shadow: 2px 2px 5px black;
