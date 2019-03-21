@@ -1824,10 +1824,6 @@ h6,
   -o-animation: blink 3.0s linear infinite;
   animation: blink 3.0s linear infinite;
 }
-#header1-9t h1 {
-  filter: blur(2px);
-  -webkit-filter: blur(2px);
-}
 #ext_menu-8h {
   text-shadow: 2px 2px 5px black;
 }
