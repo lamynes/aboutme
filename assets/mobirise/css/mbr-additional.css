@@ -1243,9 +1243,6 @@ h6,
 #ext_menu-7t .btn {
   font-size: 30px;
 }
-#slider3-9h {
-  text-shadow: 2px 5px 15px #000;
-}
 #slider3-9h H2 {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
@@ -1253,8 +1250,19 @@ h6,
 #slider3-9h I {
   color: #ea8d02;
 }
-#slider3-9h p {
+#slider3-9h .mbr-section-title {
   text-shadow: 2px 5px 15px black;
+}
+#slider3-9h .mbr-section-title {
+  -webkit-animation: blink 3.0s linear infinite;
+  -moz-animation: blink 3.0s linear infinite;
+  -ms-animation: blink 3.0s linear infinite;
+  -o-animation: blink 3.0s linear infinite;
+  animation: blink 3.0s linear infinite;
+}
+#slider3-9h h1 {
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
 }
 #extFeatures7-9j H4 {
   font-size: 30px;
