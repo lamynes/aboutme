@@ -1806,16 +1806,27 @@ h6,
 
 
 
-#header1-9t {
-  text-shadow: 2px 5px 15px #000;
-}
 #header1-9t .mbr-section-title {
   color: #efefef;
   font-family: 'Oswald', sans-serif;
   font-size: 80px;
 }
-#header1-9t p {
+#header1-9t .mbr-section-title SPAN {
+  color: #ea8d02;
+}
+#header1-9t .mbr-section-title {
   text-shadow: 2px 5px 15px black;
+}
+#header1-9t .mbr-section-title {
+  -webkit-animation: blink 3.0s linear infinite;
+  -moz-animation: blink 3.0s linear infinite;
+  -ms-animation: blink 3.0s linear infinite;
+  -o-animation: blink 3.0s linear infinite;
+  animation: blink 3.0s linear infinite;
+}
+#header1-9t h1 {
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
 }
 #ext_menu-8h {
   text-shadow: 2px 2px 5px black;
