@@ -3328,9 +3328,10 @@
           "_customCSS": "text-shadow: 2px 5px 15px #000;\n\np{\n    text-shadow: 2px 5px 15px black;\n}",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff",
+              "color": "#efefef",
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "80px"
             }
           }
         },

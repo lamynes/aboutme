@@ -1811,8 +1811,9 @@ h6,
   text-shadow: 2px 5px 15px #000;
 }
 #header1-9t .mbr-section-title {
-  color: #ffffff;
+  color: #efefef;
   font-family: 'Oxygen', sans-serif;
+  font-size: 80px;
 }
 #header1-9t p {
   text-shadow: 2px 5px 15px black;
