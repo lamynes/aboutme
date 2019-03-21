@@ -1,15 +1,15 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "page10.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#000000",
-        "secondaryColor": "#747474",
+        "secondaryColor": "#ea8d02",
         "successColor": "#90a878",
-        "infoColor": "#3f3f3f",
+        "infoColor": "#ea8d02",
         "warningColor": "#000000",
         "dangerColor": "#90a878",
         "titleFont": "Oswald",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 354,
+    "uniqCompNum": 355,
     "versionPublish": "4.9.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -529,7 +529,7 @@
               "font-size": "30px"
             },
             "SPAN": {
-              "color": "#90a878"
+              "color": "#ea8d02"
             }
           },
           "_anchor": "extFeatures7-99",
@@ -651,22 +651,51 @@
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c",
+              "font-size": "72px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7l",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgColor": "#000000"
+          },
+          "title": "<span style=\"font-weight: normal;\">THANK YOU FOR VISITING</span>",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#efefef",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
             "facebook": true,
             "twitter": true,
             "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
+            "vkontakte": true,
+            "odnoklassniki": true
           },
           "text": "SHARE THIS PAGE!",
           "_tags": [
@@ -675,41 +704,11 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000000",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          },
-          "_customCSS": "text-shadow: 0 0 20px #000000;",
-          "_anchor": "social-buttons1-98"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
               "color": "#000000"
-            },
-            "B": {
-              "color": "#3d8eb9"
             }
           },
-          "_anchor": "footer1-2g",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 LAMYNES.PL"
+          "_anchor": "social-buttons1-9u",
+          "_customCSS": "text-shadow: 0 0 20px #000000;"
         },
         {
           "_inherit": "menu",
@@ -814,35 +813,6 @@
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_customCSS": "text-shadow: 2px 5px 15px black;"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#fac51c",
-              "font-size": "72px"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#ffffff",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-7l",
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgColor": "#000000"
-          },
-          "title": "<span style=\"font-weight: normal;\">THANK YOU FOR VISITING</span>",
-          "meta": "By John Smith posted July 20, 2016"
         }
       ]
     },
@@ -853,34 +823,6 @@
         "order": 10
       },
       "components": [
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 LAMYNES.PL",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#3d8eb9"
-            }
-          },
-          "_anchor": "footer1-6c"
-        },
         {
           "_styles": {
             ".mbr-section-title, p": {
@@ -1063,13 +1005,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#262626"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#373737!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#3f3f3f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1122,34 +1064,6 @@
         "order": 9
       },
       "components": [
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 LAMYNES.PL",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#3d8eb9"
-            }
-          },
-          "_anchor": "footer1-6i"
-        },
         {
           "_params": {
             "showFacebookLogin": false,
@@ -1225,13 +1139,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#262626"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#373737!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#3f3f3f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1284,34 +1198,6 @@
         "order": 8
       },
       "components": [
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 LAMYNES.PL",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#3d8eb9"
-            }
-          },
-          "_anchor": "footer1-6r"
-        },
         {
           "_styles": {
             ".mbr-section-title, p": {
@@ -1506,13 +1392,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#262626"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#373737!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#3f3f3f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1565,34 +1451,6 @@
         "order": 4
       },
       "components": [
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 LAMYNES.PL",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#3d8eb9"
-            }
-          },
-          "_anchor": "footer1-7s"
-        },
         {
           "_inherit": "menu",
           "_params": {
@@ -2277,34 +2135,6 @@
       },
       "components": [
         {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 LAMYNES.PL",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#3d8eb9"
-            }
-          },
-          "_anchor": "footer1-8d"
-        },
-        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -2358,13 +2188,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#262626"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#373737!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#3f3f3f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2521,34 +2351,6 @@
       },
       "components": [
         {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 LAMYNES.PL",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#3d8eb9"
-            }
-          },
-          "_anchor": "footer1-8d"
-        },
-        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -2602,13 +2404,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#262626"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#373737!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#3f3f3f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3206,34 +3008,6 @@
       },
       "components": [
         {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 LAMYNES.PL",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#3d8eb9"
-            }
-          },
-          "_anchor": "footer1-8d"
-        },
-        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -3544,7 +3318,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "C5 Z06 REBUILD",
-          "text": "GOLEN ENGINE Rebuilt my LS6 Z06 Engine, Here are the results!",
+          "text": "<a href=\"https://golenengineservice.com/\" target=\"_blank\" class=\"text-info\">GOLEN ENGINE</a> Rebuilt my LS6 Z06 Engine, Here are the results!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
