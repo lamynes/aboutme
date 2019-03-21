@@ -3541,7 +3541,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.4"
           },
           "title": "C5 Z06 REBUILD",
           "text": "GOLEN ENGINE Rebuilt my LS6 Z06 Engine, Here are the results!",
@@ -3554,7 +3554,7 @@
           "_customCSS": "text-shadow: 2px 5px 15px #000;\n\np{\n    text-shadow: 2px 5px 15px black;\n}",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f93f09"
+              "color": "#ea8d02"
             }
           }
         },
