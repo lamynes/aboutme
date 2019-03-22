@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 358,
+    "uniqCompNum": 359,
     "versionPublish": "4.9.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -3331,13 +3331,13 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "showArrow": false,
-            "imageSize": "50",
+            "imageSize": "55",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/x6xqkaxrfcx-2000x743.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/2-1332x452.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -3346,8 +3346,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -3367,25 +3367,25 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">LS6 Z06 ENGINE REBUILD</span>",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "title": "THE REBUILD",
+          "text": "<h1><b>C5 Z06 - LS6</b></h1>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-9x",
-          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}\n",
+          "_anchor": "header2-9y",
+          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}\nh1{\n    text-shadow: 5px 10px 25px black;\n}",
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "72px"
+            ".mbr-section-text": {
+              "font-size": "60px"
             },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            ".mbr-section-title": {
+              "font-size": "80px",
+              "color": "#000000"
+            },
+            ".mbr-section-text H1": {
+              "color": "#000000"
             }
           }
         },

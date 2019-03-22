@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 
 
 
@@ -1816,8 +1815,6 @@ h6,
 
 
 
-
-
 #ext_menu-8h {
   text-shadow: 2px 2px 5px black;
 }
@@ -1892,15 +1889,17 @@ h6,
 #ext_menu-8h .btn {
   font-size: 30px;
 }
-#header2-9x .mbr-section-title {
-  color: #ffffff;
-  font-family: 'Oswald', sans-serif;
-  font-size: 72px;
+#header2-9y .mbr-section-text {
+  font-size: 60px;
 }
-#header2-9x .mbr-section-title SPAN {
-  font-family: 'Ubuntu', sans-serif;
+#header2-9y .mbr-section-title {
+  font-size: 80px;
+  color: #000000;
 }
-#header2-9x .mbr-section-title {
+#header2-9y .mbr-section-text H1 {
+  color: #000000;
+}
+#header2-9y .mbr-section-title {
   text-shadow: 2px 5px 15px black;
   -webkit-animation: blink 3.0s linear infinite;
   -moz-animation: blink 3.0s linear infinite;
@@ -1909,6 +1908,9 @@ h6,
   animation: blink 3.0s linear infinite;
   filter: blur(2px);
   -webkit-filter: blur(2px);
+}
+#header2-9y h1 {
+  text-shadow: 5px 10px 25px black;
 }
 #social-buttons1-8y {
   text-shadow: 0 0 20px #000000;
