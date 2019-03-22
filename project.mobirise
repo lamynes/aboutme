@@ -3333,19 +3333,19 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "imageSize": "67",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/golen_logo_sm-150x140.png",
+            "imageSize": "50",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/golen-1-600x287.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
