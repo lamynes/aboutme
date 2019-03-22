@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "c5-rebuild.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -92,7 +92,7 @@
               "font-size": "60px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#ea8d02"
+              "color": "#f90909"
             }
           },
           "_anchor": "header1-33",
@@ -154,7 +154,7 @@
             "showIcons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": "5",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/white_carbon_fibre__33189.1350988552-1200x900.jpg",
             "parallax": true,
@@ -583,7 +583,7 @@
               "active": true,
               "class": "central-image",
               "src": "@PROJECT_PATH@/assets/images/download-4-1440x900.png",
-              "link": "index.html",
+              "link": "",
               "alt": "",
               "title": ""
             },
@@ -704,7 +704,7 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#f90909"
             }
           },
           "_anchor": "social-buttons1-9u",
