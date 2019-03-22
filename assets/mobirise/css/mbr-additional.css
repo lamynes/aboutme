@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 
 
 
@@ -1815,6 +1816,7 @@ h6,
 
 
 
+
 #ext_menu-8h {
   text-shadow: 2px 2px 5px black;
 }
@@ -1888,6 +1890,22 @@ h6,
 }
 #ext_menu-8h .btn {
   font-size: 30px;
+}
+#header2-9y .mbr-section-text {
+  font-size: 60px;
+}
+#header2-9y .mbr-section-title {
+  font-size: 80px;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+}
+#header2-9y .mbr-section-text H1 {
+  color: #ffffff;
+  text-align: center;
+}
+#header2-9y .mbr-section-title {
+  text-shadow: 5px 10px 25px black;
 }
 #custom-html-9z {
   /* Type valid CSS here */
