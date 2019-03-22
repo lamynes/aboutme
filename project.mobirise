@@ -684,13 +684,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/shark-jaws-512x512.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#efefef",
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.1",
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.5",
             "facebook": true,
             "twitter": true,
             "google": true,
@@ -820,7 +820,7 @@
       "settings": {
         "meta_descr": "LAMYNES.PL Articles",
         "title": "articles",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1061,7 +1061,7 @@
       "settings": {
         "meta_descr": "Login to manage blog posts.",
         "title": "admin",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1195,7 +1195,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "blog",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -1505,13 +1505,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#262626"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#373737!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3f3f3f"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1714,7 +1714,7 @@
             "paddingBottom": "1",
             "columns": "4",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/white_carbon_fibre__33189.1350988552-1200x900.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ls-674x638.png",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -1722,9 +1722,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7"
           },
           "media1": {
             "image": {
@@ -2567,7 +2567,7 @@
       "settings": {
         "meta_descr": "C1 CORVETTE CUSTOM",
         "title": "C1 Corvette Custom",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2784,7 +2784,7 @@
       "settings": {
         "meta_descr": "C7 Corvette Custom",
         "title": "C7 Corvette Custom",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -3219,7 +3219,7 @@
       "settings": {
         "meta_descr": "C5 Rebuild",
         "title": "C5 Rebuild",
-        "order": 6,
+        "order": 7,
         "header_custom": "<script>\nfunction clickCounter() {\n    if(typeof(Storage) !== \"undefined\") {\n        if (localStorage.clickcount) {\n            localStorage.clickcount = Number(localStorage.clickcount)+1;\n        } else {\n            localStorage.clickcount = 1;\n        }\n        document.getElementById(\"test\").value= localStorage.clickcount;\n    } else {\n        document.getElementById(\"result\").innerHTML = \"Sorry, your browser does not support web storage...\";\n    }\n}\n</script>",
         "footer_custom": "<script async src=\"//cdn.embedly.com/widgets/platform.js\" charset=\"UTF-8\"></script>"
       },
