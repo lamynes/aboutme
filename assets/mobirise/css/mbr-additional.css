@@ -1898,8 +1898,6 @@ h6,
   -ms-animation: blink 3.0s linear infinite;
   -o-animation: blink 3.0s linear infinite;
   animation: blink 3.0s linear infinite;
-}
-#header2-9x h1 {
   filter: blur(2px);
   -webkit-filter: blur(2px);
 }
