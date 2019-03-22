@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
 
 
@@ -1816,7 +1815,6 @@ h6,
 
 
 
-
 #ext_menu-8h {
   text-shadow: 2px 2px 5px black;
 }
@@ -1891,22 +1889,17 @@ h6,
 #ext_menu-8h .btn {
   font-size: 30px;
 }
-#extHeader6-9w H3 {
-  font-size: 46px;
-  color: #000000;
-  font-family: 'PT Sans', sans-serif;
-}
-#extHeader6-9w .mbr-section-title {
+#header2-9x .mbr-section-title {
   text-shadow: 2px 5px 15px black;
 }
-#extHeader6-9w .mbr-section-title {
+#header2-9x .mbr-section-title {
   -webkit-animation: blink 3.0s linear infinite;
   -moz-animation: blink 3.0s linear infinite;
   -ms-animation: blink 3.0s linear infinite;
   -o-animation: blink 3.0s linear infinite;
   animation: blink 3.0s linear infinite;
 }
-#extHeader6-9w h1 {
+#header2-9x h1 {
   filter: blur(2px);
   -webkit-filter: blur(2px);
 }
