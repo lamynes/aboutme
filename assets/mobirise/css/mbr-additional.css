@@ -712,12 +712,18 @@ h6,
   color: #f90909;
 }
 #header1-33 .mbr-section-title {
-  text-shadow: 2px 15px 25px black;
+  text-shadow: 2px 5px 15px black;
+}
+#header1-33 .mbr-section-title {
+  -webkit-animation: blink 3.0s linear infinite;
+  -moz-animation: blink 3.0s linear infinite;
+  -ms-animation: blink 3.0s linear infinite;
+  -o-animation: blink 3.0s linear infinite;
+  animation: blink 3.0s linear infinite;
 }
 #header1-33 h1 {
-  /* Add the blur effect */
-  filter: blur(3px);
-  -webkit-filter: blur(3px);
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
 }
 #header3-77 {
   
