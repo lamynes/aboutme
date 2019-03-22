@@ -121,7 +121,7 @@
           "title": "<span style=\"font-weight: normal;\">MODERN &amp; MOBILE READY</span>",
           "text": "BEAUTIFUL WEBSITES FOR ALL DEVICES",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extForm1-79\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\">BLOG</a>",
-          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 15px 25px black;\n    \n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{  \n/* Add the blur effect */\n  filter: blur(3px);\n  -webkit-filter: blur(3px);\n}"
+          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 15px 25px black;\n    \n}\n\nh1{  \n/* Add the blur effect */\n  filter: blur(3px);\n  -webkit-filter: blur(3px);\n}"
         },
         {
           "_tags": [
