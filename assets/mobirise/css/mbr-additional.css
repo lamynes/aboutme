@@ -1895,19 +1895,19 @@ h6,
 #header2-9y .mbr-section-title {
   font-size: 80px;
   color: #000000;
+  text-align: center;
 }
 #header2-9y .mbr-section-text H1 {
   color: #000000;
+  text-align: center;
 }
 #header2-9y .mbr-section-title {
-  text-shadow: 2px 5px 15px black;
+  text-shadow: 5px 10px 25px black;
   -webkit-animation: blink 3.0s linear infinite;
   -moz-animation: blink 3.0s linear infinite;
   -ms-animation: blink 3.0s linear infinite;
   -o-animation: blink 3.0s linear infinite;
   animation: blink 3.0s linear infinite;
-  filter: blur(2px);
-  -webkit-filter: blur(2px);
 }
 #header2-9y h1 {
   text-shadow: 5px 10px 25px black;
