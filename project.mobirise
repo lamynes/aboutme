@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "c5-rebuild.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#353535",
         "#a3afa7",
         "#9dd3ef",
         "#ea8d02",
         "#f90909",
         "#f93f09",
-        "#d2f909",
-        "#c009f9"
+        "#d2f909"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 356,
+    "uniqCompNum": 357,
     "versionPublish": "4.9.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -781,7 +781,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -956,7 +956,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -1090,7 +1090,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -1343,7 +1343,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -1456,7 +1456,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -2140,7 +2140,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -2356,7 +2356,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -2648,7 +2648,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -2867,7 +2867,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -3013,7 +3013,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -3062,13 +3062,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#262626"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#373737!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3f3f3f"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3229,7 +3229,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -3278,13 +3278,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#262626"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#373737!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3f3f3f"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3333,51 +3333,60 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
+            "imageSize": "67",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/download-4-1440x900.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/golen_logo_sm-150x140.png",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/rkMAJYuDKSw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/embed/rkMAJYuDKSw?rel=0&showinfo=0&autoplay=0&loop=0",
-              "width": 1280,
-              "height": 720
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.8"
           },
-          "title": "<span style=\"font-weight: normal;\"><i>C5Z06 ENGINE REBUILD <br><a href=\"https://golenengineservice.com/\" target=\"_blank\">GOLEN ENGINE</a></i></span>",
-          "text": "BEAUTIFUL WEBSITES FOR ALL DEVICES",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extForm1-79\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\">BLOG</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#efefef",
-              "font-size": "60px",
-              "text-align": "center"
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/img_extHeader6.png"
             },
-            ".mbr-section-lead": {
-              "text-align": "center",
-              "font-size": "36px",
-              "color": "#efefef"
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
             },
-            ".mbr-section-title SPAN": {
-              "font-size": "60px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#ffffff"
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=rkMAJYuDKSw&list=FLOW3pkZlqfQCAo82MTXkWiA&index=2&t=0s",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             }
           },
-          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}",
-          "_anchor": "header1-9v"
+          "title": "LS6 Z06 ENGINE REBUILD",
+          "text": "GOLEN HIGH PERFORMANCE ENGINES",
+          "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-info\">DOWNLOAD FOR MAC</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader6",
+          "_anchor": "extHeader6-9w",
+          "_styles": {
+            "H3": {
+              "font-size": "46px",
+              "color": "#000000",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}"
         },
         {
           "_params": {

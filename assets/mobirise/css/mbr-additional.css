@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
 
 
@@ -1749,19 +1750,19 @@ h6,
 }
 #ext_menu-8e .link[aria-expanded="true"],
 #ext_menu-8e .dropdown-menu {
-  background: #262626;
+  background: #e6e6e6;
 }
 #ext_menu-8e .nav-dropdown-sm .link:focus,
 #ext_menu-8e .nav-dropdown-sm .link:hover,
 #ext_menu-8e .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-8e .nav-dropdown-sm .dropdown-item:hover {
-  background: #373737!important;
+  background: #f7f7f7!important;
 }
 #ext_menu-8e .navbar,
 #ext_menu-8e .nav-dropdown-sm,
 #ext_menu-8e .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-8e .nav-dropdown-sm .dropdown-menu {
-  background: #3f3f3f;
+  background: #ffffff;
 }
 #ext_menu-8e .bg-color.transparent .link {
   color: #ffffff;
@@ -1854,19 +1855,19 @@ h6,
 }
 #ext_menu-8h .link[aria-expanded="true"],
 #ext_menu-8h .dropdown-menu {
-  background: #262626;
+  background: #e6e6e6;
 }
 #ext_menu-8h .nav-dropdown-sm .link:focus,
 #ext_menu-8h .nav-dropdown-sm .link:hover,
 #ext_menu-8h .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-8h .nav-dropdown-sm .dropdown-item:hover {
-  background: #373737!important;
+  background: #f7f7f7!important;
 }
 #ext_menu-8h .navbar,
 #ext_menu-8h .nav-dropdown-sm,
 #ext_menu-8h .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-8h .nav-dropdown-sm .dropdown-menu {
-  background: #3f3f3f;
+  background: #ffffff;
 }
 #ext_menu-8h .bg-color.transparent .link {
   color: #ffffff;
@@ -1890,32 +1891,22 @@ h6,
 #ext_menu-8h .btn {
   font-size: 30px;
 }
-#header1-9v .mbr-section-title {
-  color: #efefef;
-  font-size: 60px;
-  text-align: center;
+#extHeader6-9w H3 {
+  font-size: 46px;
+  color: #000000;
+  font-family: 'PT Sans', sans-serif;
 }
-#header1-9v .mbr-section-lead {
-  text-align: center;
-  font-size: 36px;
-  color: #efefef;
-}
-#header1-9v .mbr-section-title SPAN {
-  font-size: 60px;
-  font-family: 'Oswald', sans-serif;
-  color: #ffffff;
-}
-#header1-9v .mbr-section-title {
+#extHeader6-9w .mbr-section-title {
   text-shadow: 2px 5px 15px black;
 }
-#header1-9v .mbr-section-title {
+#extHeader6-9w .mbr-section-title {
   -webkit-animation: blink 3.0s linear infinite;
   -moz-animation: blink 3.0s linear infinite;
   -ms-animation: blink 3.0s linear infinite;
   -o-animation: blink 3.0s linear infinite;
   animation: blink 3.0s linear infinite;
 }
-#header1-9v h1 {
+#extHeader6-9w h1 {
   filter: blur(2px);
   -webkit-filter: blur(2px);
 }
