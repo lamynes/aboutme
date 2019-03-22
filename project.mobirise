@@ -3333,11 +3333,11 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "showArrow": false,
-            "imageSize": "65",
+            "imageSize": "50",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/spark-spirit-512x512.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/x6xqkaxrfcx-2000x743.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -3347,7 +3347,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0"
           },
           "media": {
             "image": {
@@ -3375,7 +3375,14 @@
           ],
           "_name": "header2",
           "_anchor": "header2-9x",
-          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}\nh1{\n    \n}"
+          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}\nh1{\n    \n}",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ea8d02",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            }
+          }
         },
         {
           "_params": {
