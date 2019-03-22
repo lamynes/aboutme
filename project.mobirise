@@ -3337,7 +3337,7 @@
             "showArrow": false,
             "imageSize": "55",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2-1332x452.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/tilt-shift-1525037302313-876x657.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -3347,7 +3347,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
