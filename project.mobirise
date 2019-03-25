@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "c5-rebuild.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2899,31 +2899,37 @@
             "showButtons": false,
             "inverse": true,
             "showArrow": false,
-            "imageSize": "55",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/11qqpfd-1599x1062.jpg",
+            "imageSize": "41",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/ls32-2-1232x657.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/rkMAJYuDKSw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=rkMAJYuDKSw&list=FLOW3pkZlqfQCAo82MTXkWiA&index=2&t=0s",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.9"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/ls32-1-1232x657.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "https://www.youtube.com/watch?v=rkMAJYuDKSw&list=FLOW3pkZlqfQCAo82MTXkWiA&index=2&t=0s",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false,
-              "active": true
+              "loop": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
@@ -2955,6 +2961,9 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "46px"
+            },
+            ".mbr-section-title I": {
+              "color": "#ffffff"
             }
           },
           "_customCSS": "\n\n\n",
