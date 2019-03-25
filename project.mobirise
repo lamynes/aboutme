@@ -2899,7 +2899,7 @@
             "showButtons": false,
             "inverse": true,
             "showArrow": false,
-            "imageSize": "41",
+            "imageSize": "67",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/ls32-2-1232x657.png",
             "parallax": true,
@@ -2914,7 +2914,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -2922,14 +2922,14 @@
               "src": "@PROJECT_PATH@/assets/images/ls32-1-1232x657.png",
               "link": "",
               "alt": "",
-              "title": "",
-              "active": true
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/watch?v=rkMAJYuDKSw&list=FLOW3pkZlqfQCAo82MTXkWiA&index=2&t=0s",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false
+              "loop": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
@@ -2956,7 +2956,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-text H1": {
-              "color": "#9f9f9f",
+              "color": "#3d8eb9",
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
