@@ -1827,12 +1827,15 @@ h6,
 #ext_menu-8e .btn {
   font-size: 30px;
 }
+#header2-a2 {
+  text-shadow: 2px 2px 5px black;
+}
 #header2-a2 .mbr-section-text {
   font-size: 60px;
 }
 #header2-a2 .mbr-section-title {
   font-size: 72px;
-  color: #000000;
+  color: #ffffff;
   text-align: center;
   font-family: 'Oswald', sans-serif;
 }
@@ -1844,6 +1847,9 @@ h6,
 }
 #header2-a2 .mbr-section-title I {
   color: #f90909;
+}
+#header2-a2 .mbr-section-title SPAN {
+  color: #ffffff;
 }
 #extFeatures1-a6 .mbr-section-title {
   color: #fff;
