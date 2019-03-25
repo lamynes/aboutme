@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#9f9f9f",
         "#2e2e2e",
         "#353535",
         "#a3afa7",
         "#9dd3ef",
         "#ea8d02",
-        "#f90909",
-        "#f93f09"
+        "#f90909"
       ]
     },
     "versionFirst": "3.12.1",
@@ -81,17 +81,17 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.5",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#d14841",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -106,13 +106,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#d14841"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#d14841"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#d14841",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -126,16 +126,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#d14841",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -974,17 +974,17 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.5",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#d14841",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1108,17 +1108,17 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.5",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#d14841",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1361,17 +1361,17 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.5",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#d14841",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1474,17 +1474,17 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.5",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#d14841",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2158,17 +2158,17 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.5",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#d14841",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2374,17 +2374,17 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.5",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#d14841",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2666,17 +2666,17 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.5",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#d14841",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2885,17 +2885,17 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.5",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#d14841",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3031,17 +3031,17 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.5",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#d14841",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3056,13 +3056,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#d14841"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#d14841"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#d14841",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -3076,16 +3076,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#d14841",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3247,17 +3247,17 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.5",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#d14841",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">THE RIDES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">OLD SCHOOL MUSCLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1-CAMARO CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7-CORVETTE CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP CUSTOM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fun.html\">FUN TIMES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3272,13 +3272,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#d14841"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#d14841"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#d14841",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -3292,16 +3292,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#d14841",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
