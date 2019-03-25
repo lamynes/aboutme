@@ -1881,7 +1881,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
@@ -1901,7 +1901,7 @@
               "color": "#000000"
             }
           },
-          "_customCSS": "text-shadow: 0 0 20px #000000;",
+          "_customCSS": "",
           "_anchor": "social-buttons1-96"
         }
       ]
@@ -2102,7 +2102,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
@@ -2122,7 +2122,7 @@
               "color": "#000000"
             }
           },
-          "_customCSS": "text-shadow: 0 0 20px #000000;",
+          "_customCSS": "",
           "_anchor": "social-buttons1-96"
         }
       ]
@@ -2754,7 +2754,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
@@ -2774,7 +2774,7 @@
               "color": "#000000"
             }
           },
-          "_customCSS": "text-shadow: 0 0 20px #000000;",
+          "_customCSS": "",
           "_anchor": "social-buttons1-96"
         }
       ]
