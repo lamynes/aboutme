@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "c5-rebuild.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 362,
+    "uniqCompNum": 364,
     "versionPublish": "4.9.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -3335,19 +3335,19 @@
             "showButtons": false,
             "inverse": true,
             "showArrow": false,
-            "imageSize": "66",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/tilt-shift-1525037302313-876x657.jpg",
+            "imageSize": "55",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/11qqpfd-1599x1062.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.9"
           },
           "media": {
             "image": {
@@ -3367,34 +3367,34 @@
               "size": 250
             }
           },
-          "title": "THE REBUILD",
-          "text": "<h1><b>C5 Z06 - LS6</b></h1>",
+          "title": "<i>THE REBUILD</i>",
+          "text": "<h1>C5 Z06-LS6</h1>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-9y",
-          "_customCSS": "\n\n\n",
           "_styles": {
             ".mbr-section-text": {
               "font-size": "60px"
             },
             ".mbr-section-title": {
-              "font-size": "80px",
+              "font-size": "72px",
               "color": "#000000",
               "text-align": "center",
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-text H1": {
-              "color": "#000000",
+              "color": "#9f9f9f",
               "text-align": "center",
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "font-size": "60px"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "46px"
             }
-          }
+          },
+          "_customCSS": "\n\n\n",
+          "_anchor": "header2-a2"
         },
         {
           "_params": {
@@ -3404,7 +3404,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
@@ -3424,8 +3424,8 @@
               "color": "#000000"
             }
           },
-          "_anchor": "social-buttons1-8y",
-          "_customCSS": "text-shadow: 2px 2px 5px grey;"
+          "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_anchor": "social-buttons1-a3"
         }
       ]
     }
