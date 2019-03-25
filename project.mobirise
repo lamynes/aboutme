@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#2e2e2e",
         "#353535",
         "#a3afa7",
         "#9dd3ef",
         "#ea8d02",
         "#f90909",
-        "#f93f09",
-        "#d2f909"
+        "#f93f09"
       ]
     },
     "versionFirst": "3.12.1",
@@ -145,7 +145,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#000000!important"
             },
             "A": {
               "font-size": "12px",
@@ -173,8 +173,8 @@
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_customCSS": "text-shadow: 3px 5px 25px black;",
-          "_anchor": "ext_menu-a1"
+          "_anchor": "ext_menu-8e",
+          "_customCSS": "text-shadow: 2px 2px 5px black;"
         },
         {
           "_tags": [
@@ -1153,13 +1153,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#262626"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#373737!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3f3f3f"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1406,13 +1406,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#262626"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#373737!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3f3f3f"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2203,13 +2203,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#262626"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#373737!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3f3f3f"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2419,13 +2419,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#262626"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#373737!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3f3f3f"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2711,13 +2711,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#262626"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#373737!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3f3f3f"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2930,13 +2930,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#262626"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#373737!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3f3f3f"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3339,8 +3339,8 @@
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-8h",
-          "_customCSS": "text-shadow: 2px 2px 5px black;"
+          "_customCSS": "text-shadow: 2px 2px 5px black;",
+          "_anchor": "ext_menu-8e"
         },
         {
           "_params": {
@@ -3350,10 +3350,10 @@
             "inverse": true,
             "showArrow": false,
             "imageSize": "55",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/tilt-shift-1525037302313-876x657.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -3389,7 +3389,7 @@
           ],
           "_name": "header2",
           "_anchor": "header2-9y",
-          "_customCSS": ".mbr-section-title {\n  text-shadow: 15px 10px 25px black;\n}\n",
+          "_customCSS": "\n  text-shadow: 15px 10px 25px black;\n\n",
           "_styles": {
             ".mbr-section-text": {
               "font-size": "60px"
