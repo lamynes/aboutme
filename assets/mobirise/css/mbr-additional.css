@@ -798,34 +798,8 @@ h6,
   filter: blur(2px);
   -webkit-filter: blur(2px);
 }
-#header3-77 {
-  
-}
-#header3-77 .mbr-section-title,
-#header3-77 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-77 .mbr-section-subtitle {
-  color: #262626;
-}
-#header3-77 .mbr-section-title {
-  color: #262626;
-  font-size: 60px;
-}
-#header3-77 .mbr-section-title SPAN {
-  font-family: 'Oswald', sans-serif;
-  font-size: 72px;
-  color: #000000;
-}
-#header3-77 .mbr-section-subtitle I {
-  font-size: 20px;
-  color: #000000;
-}
-#header3-77 .mbr-section-title {
-  text-shadow: 0 0 20px #000000;
-}
 #extFeatures7-99 H4 {
-  font-size: 30px;
+  font-size: 20px;
 }
 #extFeatures7-99 SPAN {
   color: #ea8d02;
@@ -851,9 +825,7 @@ h6,
 #header3-7l .mbr-section-title SPAN {
   color: #ffffff;
   font-family: 'Oswald', sans-serif;
-}
-#social-buttons1-9u {
-  text-shadow: 0 0 20px #000000;
+  font-size: 60px;
 }
 #social-buttons1-9u .mbr-section-title {
   color: #000000;
@@ -1076,17 +1048,6 @@ h6,
 #firebase-blog-list-block-6t B {
   color: #cccccc;
 }
-#header3-7m .mbr-section-title,
-#header3-7m .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-7m .mbr-section-title {
-  color: #fac51c;
-  font-size: 72px;
-}
-#header3-7m .mbr-section-title SPAN {
-  color: #ffffff;
-}
 #social-buttons1-6w .mbr-section-title {
   color: #000000;
 }
@@ -1264,15 +1225,6 @@ h6,
 #slider3-9h h1 {
   filter: blur(2px);
   -webkit-filter: blur(2px);
-}
-#extFeatures7-9j H4 {
-  font-size: 30px;
-}
-#extFeatures7-9j SPAN {
-  color: #90a878;
-}
-#social-buttons1-9i {
-  text-shadow: 0 0 20px #000000;
 }
 #social-buttons1-9i .mbr-section-title {
   color: #000000;
@@ -1592,9 +1544,6 @@ h6,
 #ext_menu-8h .btn {
   font-size: 30px;
 }
-#social-buttons1-8y {
-  text-shadow: 0 0 20px #000000;
-}
 #social-buttons1-8y .mbr-section-title {
   color: #000000;
 }
@@ -1700,9 +1649,6 @@ h6,
 }
 #ext_menu-8h .btn {
   font-size: 30px;
-}
-#social-buttons1-8y {
-  text-shadow: 0 0 20px #000000;
 }
 #social-buttons1-8y .mbr-section-title {
   color: #000000;
@@ -1904,9 +1850,6 @@ h6,
   text-align: center;
   font-family: 'Oswald', sans-serif;
   font-size: 46px;
-}
-#social-buttons1-a3 {
-  text-shadow: 2px 2px 5px grey;
 }
 #social-buttons1-a3 .mbr-section-title {
   color: #000000;

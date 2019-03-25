@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "c5-rebuild.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -226,26 +226,6 @@
           "text": "BEAUTIFUL WEBSITES FOR ALL DEVICES",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extForm1-79\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\">BLOG</a>",
           "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-77",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
-          "title": "<span style=\"font-weight: normal;\">CURRENT PROJECTS</span>",
-          "meta": "<i>LAMYNES.PL</i>",
-          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n.mbr-section-title, .mbr-section-subtitle {\n  text-align: center;\n}\n.mbr-section-subtitle {\n  color: #262626;\n}\n.mbr-section-title {\n  color: #262626;\n  font-size: 60px;\n}\n.mbr-section-title SPAN {\n  font-family: 'Oswald', sans-serif;\n  font-size: 72px;\n  color: #000000;\n}\n.mbr-section-subtitle I {\n  font-size: 20px;\n  color: #000000;\n}\n.mbr-section-title {\n    text-shadow: 0 0 20px #000000;\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" data-rv-view=\"3\" style=\"background-color: rgb(255, 255, 255); padding-top: 60px; padding-bottom: 40px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"51\"><span style=\"font-weight: normal; font-size: 60px;\">CURRENT PROJECTS</span></h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"52\"><em>LAMYNES.PL</em></small>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true
         },
         {
           "_params": {
@@ -630,7 +610,7 @@
           "_name": "extFeatures7",
           "_styles": {
             "H4": {
-              "font-size": "30px"
+              "font-size": "20px"
             },
             "SPAN": {
               "color": "#ea8d02"
@@ -664,11 +644,11 @@
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/z06-wireframeao-1-1600x900.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "rawUrl": "https://www.youtube.com/watch?v=d5eXX9Hlmaw&index=16&list=FLOW3pkZlqfQCAo82MTXkWiA&t=0s",
@@ -697,7 +677,7 @@
               "color": "@primaryColor"
             }
           },
-          "title": "<i>DROP A MESSAGE</i>",
+          "title": "<span style=\"font-weight: normal;\">DROP A MESSAGE</span>",
           "media1": {
             "iconFont": {
               "active": true,
@@ -766,7 +746,8 @@
             ".mbr-section-title SPAN": {
               "color": "#ffffff",
               "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "60px"
             }
           },
           "_tags": [
@@ -776,8 +757,8 @@
           "_anchor": "header3-7l",
           "_params": {
             "showMeta": false,
-            "paddingTop": "5",
-            "paddingBottom": "5",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgColor": "#000000"
           },
           "title": "<span style=\"font-weight: normal;\">THANK YOU FOR VISITING</span>",
@@ -794,7 +775,7 @@
             "bgColor": "#efefef",
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.8",
             "facebook": true,
             "twitter": true,
             "google": true,
@@ -812,7 +793,7 @@
             }
           },
           "_anchor": "social-buttons1-9u",
-          "_customCSS": "text-shadow: 0 0 20px #000000;"
+          "_customCSS": ""
         }
       ]
     },
@@ -1282,33 +1263,6 @@
           "_anchor": "firebase-blog-list-block-6t"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#fac51c",
-              "font-size": "72px"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#000000"
-          },
-          "title": "<span style=\"font-weight: normal;\">THANK YOU FOR VISITING</span>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-7m"
-        },
-        {
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
@@ -1573,7 +1527,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "C7 CORVETTE<br>CUSTOM<br>",
+                "title": "<span style=\"font-weight: normal;\">C7 CORVETTE<br>CUSTOM</span><br>",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1587,7 +1541,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "JEEP CUSTOM",
+                "title": "<span style=\"font-weight: normal;\">JEEP CUSTOM</span>",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1601,7 +1555,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "DODGE VIPER",
+                "title": "<span style=\"font-weight: normal;\">DODGE VIPER</span>",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1615,7 +1569,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "1969 CAMARO<br>BLACK BETTY",
+                "title": "<span style=\"font-weight: normal;\">1969 CAMARO<br>BLACK BETTY</span>",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1630,7 +1584,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "DODGE VIPER",
+                "title": "<span style=\"font-weight: normal;\">DODGE VIPER</span>",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1645,7 +1599,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "OLD SCHOOL IS COOL",
+                "title": "<span style=\"font-weight: normal;\">OLD SCHOOL IS COOL</span>",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1703,403 +1657,13 @@
         },
         {
           "_params": {
-            "showTitle": false,
-            "showSubtitle": false,
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showIcons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/ls-674x638.png",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.7"
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/6pjmeinmsh-600x234.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "A&A CORVETTE SUPERCHARGERS",
-              "title": "A&A CORVETTE SUPERCHARGERS"
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/69z3czuf13-1-600x375.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "GOLEN ENGINE SERVICE",
-              "title": "GOLEN ENGINE SERVICE"
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/6ig8dsk4sm-600x245.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "THE LAMB & THE HOMELESS MAN",
-              "title": "THE LAMB & THE HOMELESS MAN"
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/atvrfsbuua-600x244.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "STOP-N-GO WASH",
-              "title": "STOP-N-GO WASH"
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/fhy3i7mkcg-600x375.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "LAMYNES.PL",
-              "title": "LAMYNES.PL"
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/shark-jaws-512x512.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title": "MOBIRISE FEATURES",
-          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
-          "title1": "A&amp;A CORVETTE SUPERCHARGERS",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "GOLEN ENGINE SERVICE",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "THE LAMB &amp; THE HOMELESS MAN",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "STOP-N-GO WASH",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "<span style=\"font-weight: normal;\">LAMYNES.PL</span>",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "media1_1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "dribbble",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media1_2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media1_3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media1_4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "linkedin",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media2_1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "dribbble",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media2_2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media2_3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media2_4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "linkedin",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media3_1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "dribbble",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media3_2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media3_3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media3_4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "linkedin",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media4_1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "dribbble",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media4_2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media4_3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media4_4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "linkedin",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media5_1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "dribbble",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media5_2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media5_3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media5_4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "linkedin",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media6_1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "dribbble",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media6_2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media6_3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media6_4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "linkedin",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures7",
-          "_styles": {
-            "H4": {
-              "font-size": "30px"
-            },
-            "SPAN": {
-              "color": "#90a878"
-            }
-          },
-          "_anchor": "extFeatures7-9j"
-        },
-        {
-          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
@@ -2121,7 +1685,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
-          "_customCSS": "text-shadow: 0 0 20px #000000;",
+          "_customCSS": "",
           "_anchor": "social-buttons1-9i"
         }
       ]
@@ -2755,7 +2319,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
@@ -2776,7 +2340,7 @@
             }
           },
           "_anchor": "social-buttons1-8y",
-          "_customCSS": "text-shadow: 0 0 20px #000000;"
+          "_customCSS": ""
         }
       ]
     },
@@ -2974,7 +2538,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
@@ -2995,7 +2559,7 @@
             }
           },
           "_anchor": "social-buttons1-8y",
-          "_customCSS": "text-shadow: 0 0 20px #000000;"
+          "_customCSS": ""
         }
       ]
     },
@@ -3424,7 +2988,7 @@
               "color": "#000000"
             }
           },
-          "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_customCSS": "",
           "_anchor": "social-buttons1-a3"
         }
       ]
