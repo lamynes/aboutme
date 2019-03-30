@@ -8,10 +8,10 @@
       "styling": {
         "primaryColor": "#303030",
         "secondaryColor": "#ea8d02",
-        "successColor": "#90a878",
+        "successColor": "#353535",
         "infoColor": "#ea8d02",
         "warningColor": "#000000",
-        "dangerColor": "#90a878",
+        "dangerColor": "#353535",
         "titleFont": "Oswald",
         "subtitleFont": "Oswald",
         "textFont": "Oswald",
