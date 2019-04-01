@@ -655,6 +655,9 @@
             },
             "I": {
               "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "extForm1-79",
@@ -668,12 +671,12 @@
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/z06-wireframeao-1-1600x900.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#cccccc",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/XVqrBbkdOWY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=XVqrBbkdOWY",
