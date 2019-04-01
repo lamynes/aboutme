@@ -1,8 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-
 
 
 
@@ -828,13 +826,6 @@ h6,
 }
 #header3-ab .mbr-section-title {
   text-shadow: 0 0 20px #000000;
-}
-#extFeatures7-ac H4 {
-  font-size: 30px;
-  font-family: 'PT Sans Narrow', sans-serif;
-}
-#extFeatures7-ac SPAN {
-  color: #90a878;
 }
 #extForm1-79 H2 {
   color: #000000;
