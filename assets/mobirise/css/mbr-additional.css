@@ -759,7 +759,7 @@ h6,
 }
 #ext_menu-8e .link[aria-expanded="true"],
 #ext_menu-8e .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #303030!important;
 }
 #ext_menu-8e A {
   font-size: 12px;
@@ -802,6 +802,10 @@ h6,
 }
 #extForm1-79 I {
   color: #000000;
+}
+#custom-html-a9 div {
+  height: 600px;
+  width: 100%;
 }
 #social-buttons1-a8 {
   text-shadow: 0 0 20px #000000;
