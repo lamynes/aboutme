@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "c5-rebuild.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2483,7 +2483,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f90909!important"
+              "color": "#303030!important"
             },
             "A": {
               "font-size": "12px",
@@ -2536,7 +2536,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
@@ -2578,7 +2578,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-text H1": {
-              "color": "#f90909",
+              "color": "#000000",
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -2591,7 +2591,7 @@
               "color": "#ffffff"
             }
           },
-          "_customCSS": "text-shadow: 2px 2px 5px black;\n\n\n",
+          "_customCSS": "text-shadow: 2px 2px 15px black;\n\n\n",
           "_anchor": "header2-a2"
         },
         {

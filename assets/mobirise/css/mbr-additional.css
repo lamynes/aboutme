@@ -1892,7 +1892,7 @@ h6,
 }
 #ext_menu-8e .link[aria-expanded="true"],
 #ext_menu-8e .dropdown-item[aria-expanded="true"] {
-  color: #f90909!important;
+  color: #303030!important;
 }
 #ext_menu-8e A {
   font-size: 12px;
@@ -1902,7 +1902,7 @@ h6,
   font-size: 30px;
 }
 #header2-a2 {
-  text-shadow: 2px 2px 5px black;
+  text-shadow: 2px 2px 15px black;
 }
 #header2-a2 .mbr-section-text {
   font-size: 60px;
@@ -1914,7 +1914,7 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #header2-a2 .mbr-section-text H1 {
-  color: #f90909;
+  color: #000000;
   text-align: center;
   font-family: 'Oswald', sans-serif;
   font-size: 46px;
