@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "c5-rebuild.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -285,8 +285,8 @@
           "_params": {
             "showTitle": true,
             "showContacts": false,
-            "showSubtitle": false,
-            "showText": false,
+            "showSubtitle": true,
+            "showText": true,
             "showIcons": false,
             "showForm": true,
             "inverse": false,
@@ -299,14 +299,14 @@
             "bgColor": "#cccccc",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/umPVVaDzFw8?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=umPVVaDzFw8",
+              "url": "https://www.youtube.com/embed/Z6wL5rIBhRU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=Z6wL5rIBhRU",
               "width": 1280,
               "height": 720
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.1",
+            "overlayOpacity": "0.2",
             "iconsColor": "#333333",
             "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-primary\">ADMIN</a>"
           },
