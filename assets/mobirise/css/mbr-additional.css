@@ -1925,6 +1925,9 @@ h6,
 #header2-a2 .mbr-section-title SPAN {
   color: #ffffff;
 }
+#header2-a2 .mbr-figure {
+  box-shadow: 10px 10px 15px black;
+}
 #social-buttons1-a3 .mbr-section-title {
   color: #000000;
 }

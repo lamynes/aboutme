@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "c5-rebuild.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -308,7 +308,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary mbr-editable-button\">CONTACT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
           },
           "media": {
             "image": {
@@ -2591,7 +2591,7 @@
               "color": "#ffffff"
             }
           },
-          "_customCSS": "text-shadow: 2px 2px 15px black;\n\n\n",
+          "_customCSS": "text-shadow: 2px 2px 15px black;\n.mbr-figure{\n    box-shadow: 10px 10px 15px black;\n}\n\n",
           "_anchor": "header2-a2"
         },
         {
