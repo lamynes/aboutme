@@ -381,7 +381,7 @@
             }
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>",
-          "_customCSS": "h2 {\n    text-shadow: 0 0 20px #000000;\n}"
+          "_customCSS": "h2 {\n    text-shadow: 0 0 20px #f00000;\n}"
         },
         {
           "_params": {
