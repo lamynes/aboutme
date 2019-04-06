@@ -894,6 +894,9 @@ h6,
 #extForm1-79 SPAN {
   color: #ffffff;
 }
+#extForm1-79 h2 {
+  text-shadow: 0 0 20px #000000;
+}
 #social-buttons1-a8 {
   text-shadow: 0 0 20px #000000;
 }
