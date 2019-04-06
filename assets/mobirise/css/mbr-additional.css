@@ -1299,6 +1299,24 @@ h6,
   filter: blur(2px);
   -webkit-filter: blur(2px);
 }
+#extMsg-box3-ai SPAN {
+  color: #000000;
+  font-size: 48px;
+}
+#extMsg-box3-ai .mbr-section-title {
+  text-shadow: 2px 5px 15px black;
+}
+#extMsg-box3-ai .mbr-section-title {
+  -webkit-animation: blink 3.0s linear infinite;
+  -moz-animation: blink 3.0s linear infinite;
+  -ms-animation: blink 3.0s linear infinite;
+  -o-animation: blink 3.0s linear infinite;
+  animation: blink 3.0s linear infinite;
+}
+#extMsg-box3-ai h1 {
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+}
 #social-buttons1-9i .mbr-section-title {
   color: #000000;
   font-family: 'Oswald', sans-serif;
@@ -1372,7 +1390,7 @@ h6,
 }
 #ext_menu-8e .link[aria-expanded="true"],
 #ext_menu-8e .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #303030!important;
 }
 #ext_menu-8e A {
   font-size: 12px;
