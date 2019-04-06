@@ -2591,7 +2591,7 @@
               "color": "#ffffff"
             }
           },
-          "_customCSS": "text-shadow: 2px 2px 15px black;\n.mbr-figure{\n    box-shadow: 10px 10px 15px black;\n}\n\n",
+          "_customCSS": "text-shadow: 2px 10px 15px black;\n.mbr-figure{\n    box-shadow: 10px 10px 15px black;\n}\n\n",
           "_anchor": "header2-a2"
         },
         {
