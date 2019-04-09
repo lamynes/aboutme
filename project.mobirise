@@ -9,7 +9,7 @@
         "primaryColor": "#303030",
         "secondaryColor": "#ea8d02",
         "successColor": "#353535",
-        "infoColor": "#ea8d02",
+        "infoColor": "#e25041",
         "warningColor": "#000000",
         "dangerColor": "#353535",
         "titleFont": "Oswald",
@@ -17,7 +17,7 @@
         "textFont": "Oswald",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
+        "isScrollToTopButton": false,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -2673,6 +2673,9 @@
             ".mbr-section-subtitle": {
               "color": "#303030",
               "font-size": "30px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#303030"
             }
           },
           "_params": {
@@ -2681,7 +2684,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<span style=\"font-weight: normal;\">ENGINE REBUILD</span><br>",
+          "title": "<span style=\"font-weight: normal;\">ENGINE REBUILD BY</span><br>",
           "meta": "<a href=\"https://golenengineservice.com/\" target=\"_blank\" class=\"text-info\">GOLEN HIGH PERFORMANCE ENGINES</a>",
           "_tags": [
             "Theme"

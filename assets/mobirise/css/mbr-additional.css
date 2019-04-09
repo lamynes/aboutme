@@ -87,7 +87,7 @@ h6,
   background-color: #353535 !important;
 }
 .bg-info {
-  background-color: #ea8d02 !important;
+  background-color: #e25041 !important;
 }
 .bg-warning {
   background-color: #000000 !important;
@@ -136,8 +136,8 @@ h6,
   border-color: #9e5f01 !important;
 }
 .btn-info {
-  background-color: #ea8d02;
-  border-color: #ea8d02;
+  background-color: #e25041;
+  border-color: #e25041;
   color: #ffffff;
 }
 .btn-info:hover,
@@ -146,14 +146,14 @@ h6,
 .btn-info:active,
 .btn-info.active {
   color: #ffffff;
-  background-color: #9e5f01;
-  border-color: #9e5f01;
+  background-color: #ba2b1c;
+  border-color: #ba2b1c;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #9e5f01 !important;
-  border-color: #9e5f01 !important;
+  background-color: #ba2b1c !important;
+  border-color: #ba2b1c !important;
 }
 .btn-success {
   background-color: #353535;
@@ -257,8 +257,8 @@ h6,
 }
 .btn-info-outline {
   background: none;
-  border-color: #855001;
-  color: #855001;
+  border-color: #a42619;
+  color: #a42619;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
@@ -266,14 +266,14 @@ h6,
 .btn-info-outline:active,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #ea8d02;
-  border-color: #ea8d02;
+  background-color: #e25041;
+  border-color: #e25041;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #ea8d02 !important;
-  border-color: #ea8d02 !important;
+  background-color: #e25041 !important;
+  border-color: #e25041 !important;
 }
 .btn-success-outline {
   background: none;
@@ -342,7 +342,7 @@ h6,
   color: #353535 !important;
 }
 .text-info {
-  color: #ea8d02 !important;
+  color: #e25041 !important;
 }
 .text-warning {
   color: #000000 !important;
@@ -354,7 +354,7 @@ h6,
   background-color: #353535;
 }
 .alert-info {
-  background-color: #ea8d02;
+  background-color: #e25041;
 }
 .alert-warning {
   background-color: #000000;
@@ -400,7 +400,7 @@ h6,
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #fee3ba;
+  color: #fdf3f2;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -413,6 +413,9 @@ h6,
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
   color: #303030;
+}
+.scrollToTop_wraper {
+  display: none;
 }
 .extCountdown1 .number,
 .extCountdown2 .number {
@@ -1956,6 +1959,9 @@ h6,
 #header3-ak .mbr-section-subtitle {
   color: #303030;
   font-size: 30px;
+}
+#header3-ak .mbr-section-title SPAN {
+  color: #303030;
 }
 #social-buttons1-a3 .mbr-section-title {
   color: #000000;
