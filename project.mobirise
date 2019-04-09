@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "c5-rebuild.html",
+    "currentPage": "muscle.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1514,7 +1514,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": "50",
             "paddingTop": "4",
@@ -1530,7 +1530,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0"
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -1561,7 +1561,7 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9f",
-          "_customCSS": "text-shadow: 2px 8px 15px black;\n\np{\n    text-shadow: 2px 5px 15px black;\n}"
+          "_customCSS": "text-shadow: 2px 2px 15px black;\n\np{\n    text-shadow: 2px 2px 15px black;\n}"
         },
         {
           "_params": {
