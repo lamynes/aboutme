@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "muscle.html",
+    "currentPage": "c5-rebuild.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2594,7 +2594,7 @@
             "showArrow": false,
             "imageSize": "46",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/flag-1-1023x682.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/17797-american-flag-close-up-pv-958x639.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -2607,7 +2607,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
