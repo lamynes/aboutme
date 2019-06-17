@@ -16,31 +16,17 @@
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/soundcloud-plugin/style.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/socicon/css/styles.css">
-  <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/shopping-cart/minicart-theme.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/animate.css/animate.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
   
 </head>
-
-<script src="https://www.gstatic.com/firebasejs/5.5.4/firebase.js"></script>
-<script>
-  // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyAspVKBmeLQuEZ4f4HTssIszdlNJwTRFAE",
-    authDomain: "golen-blog.firebaseapp.com",
-    databaseURL: "https://golen-blog.firebaseio.com",
-    projectId: "golen-blog",
-    storageBucket: "golen-blog.appspot.com",
-    messagingSenderId: "308818758160"
-  };
-  firebase.initializeApp(config);
-</script>
-  <body>
+<body>
 
 <!-- Google Analytics -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -55,7 +41,7 @@
 <!-- /Google Analytics -->
 
 
-  <section id="ext_menu-8e" data-rv-view="143">
+  <section id="ext_menu-8e" data-rv-view="31">
 
     <nav class="navbar navbar-dropdown transparent navbar-fixed-top bg-color">
         <div class="container">
@@ -75,7 +61,7 @@
                         <div class="hamburger-icon"></div>
                     </button>
 
-                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="blog.html">THE BLOG</a></li><li class="nav-item"><a class="nav-link link" href="c5-rebuild.html">THE REBUILD</a></li><li class="nav-item dropdown open"><a class="nav-link link dropdown-toggle" href="muscle.html" data-toggle="dropdown-submenu" aria-expanded="true">MUSCLE</a><div class="dropdown-menu"><a class="dropdown-item" href="muscle.html">69 CAMARO BB</a><a class="dropdown-item" href="c1-custom.html">C1 CORVETTE</a><a class="dropdown-item" href="c7-corvette-custom.html">C7 CORVETTE</a><a class="dropdown-item" href="lt1-camaro.html">LT1 CAMARO</a><a class="dropdown-item" href="jeep-custom.html">JEEP OVERKILL</a><a class="dropdown-item" href="fun.html">FUN TIMES</a></div></li></ul>
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="blog.html">THE BLOG</a></li><li class="nav-item"><a class="nav-link link" href="c5-rebuild.html">THE REBUILD</a></li><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle" href="muscle.html" data-toggle="dropdown-submenu" aria-expanded="false">MUSCLE</a><div class="dropdown-menu"><a class="dropdown-item" href="muscle.html">69 CAMARO BB</a><a class="dropdown-item" href="c1-custom.html">C1 CORVETTE</a><a class="dropdown-item" href="c7-corvette-custom.html">C7 CORVETTE</a><a class="dropdown-item" href="lt1-camaro.html">LT1 CAMARO</a><a class="dropdown-item" href="jeep-custom.html">JEEP OVERKILL</a><a class="dropdown-item" href="fun.html">FUN TIMES</a></div></li></ul>
                     <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
                         <div class="close-icon"></div>
                     </button>
@@ -88,7 +74,7 @@
 
 </section>
 
-<section class="mbr-section article mbr-parallax-background mbr-after-navbar" id="msg-box8-70" data-rv-view="145" style="background-image: url(assets/images/2015-chevrolet-corvette-stingray-z51-top-wallpaper-1600x1042.jpg); padding-top: 120px; padding-bottom: 120px;">
+<section class="mbr-section article mbr-parallax-background mbr-after-navbar" id="msg-box8-70" data-rv-view="33" style="background-image: url(assets/images/2015-chevrolet-corvette-stingray-z51-top-wallpaper-1600x1042.jpg); padding-top: 120px; padding-bottom: 120px;">
 
     <div class="mbr-overlay" style="opacity: 0.3; background-color: rgb(34, 34, 34);">
     </div>
@@ -104,73 +90,7 @@
 
 </section>
 
-<section class="mbr-section" id="firebase-blog-list-block-6t" data-rv-view="148" style="background-color: rgb(255, 255, 255); padding-top: 6rem; padding-bottom: 6rem;">
-  <style>
-    .spinner {
-      width: 40px;
-      height: 40px;
-      margin: 100px auto;
-      background-color: #333;
-
-      border-radius: 100%;
-      -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
-      animation: sk-scaleout 1.0s infinite ease-in-out;
-    }
-
-    @-webkit-keyframes sk-scaleout {
-      0% {
-        -webkit-transform: scale(0)
-      }
-      100% {
-        -webkit-transform: scale(1.0);
-        opacity: 0;
-      }
-    }
-
-    @keyframes sk-scaleout {
-      0% {
-        -webkit-transform: scale(0);
-        transform: scale(0);
-      }
-      100% {
-        -webkit-transform: scale(1.0);
-        transform: scale(1.0);
-        opacity: 0;
-      }
-    }
-  </style>
-  <div class="blog-header">
-    <div class="container">
-      <h1 class="blog-title">LAMYNES.PL BLOG</h1>
-      <p class="lead blog-description">GOOGLE FIREBASE - REALTIME DATABASE</p>
-    </div>
-  </div>
-  <div id="firebase-spinner" class="spinner" style="display: none"></div>
-
-  <div class="container">
-
-    <div class="row">
-
-      <div class="col-sm-12 blog-main" id="firebase-articles" data-show-author-image="true" data-articles-number="10" data-show-author-name="true" data-show-date="true" data-date-format="mm/dd/yyyy" data-header-bg-color="#3f3f3f" data-article-page="articles.html"></div>
-      <!-- /.blog-main -->
-
-    </div>
-    <!-- /.row -->
-
-  </div>
-  <!-- /.container -->
-
-  <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      var articles = document.getElementById('firebase-articles');
-      var articlesNum = articles.getAttribute("data-articles-number");
-      var recentPostsRef = firebase.database().ref('posts').orderByChild("order").limitToFirst(Number(articlesNum));
-      fetchPosts(articles, recentPostsRef);
-    });
-  </script>
-</section>
-
-<section class="mbr-section mbr-section-md-padding mbr-parallax-background" id="social-buttons1-6w" data-rv-view="150" style="background-image: url(assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg); padding-top: 90px; padding-bottom: 90px;">
+<section class="mbr-section mbr-section-md-padding mbr-parallax-background" id="social-buttons1-6w" data-rv-view="36" style="background-image: url(assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg); padding-top: 90px; padding-bottom: 90px;">
     <div class="mbr-overlay" style="background-color: rgb(0, 0, 0); opacity: 0.1;">
     </div>
     <div class="container">
@@ -207,12 +127,10 @@
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-  <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
   <script src="assets/smooth-scroll/smooth-scroll.js"></script>
-  <script src="assets/firebase-blocks-plugin/firebase-plugin.js"></script>
-  <script src="https://cdn.ckeditor.com/4.7.2/standard/ckeditor.js"></script>
-  <script src="assets/dropdown/js/script.min.js"></script>
-        <script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
+        <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
   <script src="assets/jarallax/jarallax.js"></script>
   <script src="assets/social-likes/social-likes.js"></script>
   <script src="assets/theme/js/script.js"></script>
