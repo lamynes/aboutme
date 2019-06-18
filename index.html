@@ -41,7 +41,21 @@ function clickCounter() {
 }
 </script>
 </head>
-<body>
+
+<script src="https://www.gstatic.com/firebasejs/5.5.4/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyAspVKBmeLQuEZ4f4HTssIszdlNJwTRFAE",
+    authDomain: "golen-blog.firebaseapp.com",
+    databaseURL: "https://golen-blog.firebaseio.com",
+    projectId: "golen-blog",
+    storageBucket: "golen-blog.appspot.com",
+    messagingSenderId: "308818758160"
+  };
+  firebase.initializeApp(config);
+</script>
+  <body>
 
 <!-- Google Analytics -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -164,7 +178,7 @@ function clickCounter() {
                                         <div hidden="" data-form-alert-success="true" class="alert alert-form alert-success text-xs-center">Thank you, I'll get back with you as soon as possible.</div>
                                     </div>
                                     <form action="https://mobirise.com/" method="post" data-form-title="DROP A MESSAGE">
-                                        <input type="hidden" value="sAS+EHfKiSBsYk+4Zr39KNQ+DY29unZESKC5RO6BAnMW5r7bTC/U33e0N0LkjrB29DJfHjOaEkA9O2Nc3ppbOjVO8X6Zy/NwhGAONZZXQXr4x9GBW0Uc2hmxIy4ym88k" data-form-email="true">
+                                        <input type="hidden" value="WdmH5eKOY4u5uZYquOTe+GHRI7h1jKYRRCL4TYojMPdyPhnBmMDNlir52GZVmBZPm+WHIfSyPgmFrPIMijnELJn+C9jbIIYOtbp74TnybAl2ClBzsYB9VuOFVdj+WdNA" data-form-email="true">
     
                                             <div class="col-xs-6">
                                                  <input type="text" class="form-control" name="name" required="" data-form-field="Name" placeholder="Name*">
@@ -234,7 +248,9 @@ function clickCounter() {
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="assets/dropdown/js/script.min.js"></script>
-        <script src="assets/smooth-scroll/smooth-scroll.js"></script>
+        <script src="assets/firebase-blocks-plugin/firebase-plugin.js"></script>
+  <script src="https://cdn.ckeditor.com/4.7.2/standard/ckeditor.js"></script>
+  <script src="assets/smooth-scroll/smooth-scroll.js"></script>
   <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
   <script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
   <script src="assets/jarallax/jarallax.js"></script>
