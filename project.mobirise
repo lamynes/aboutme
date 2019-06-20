@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "fun.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -308,7 +308,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary mbr-editable-button\">CONTACT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-success\">FOR WINDOWS</a>"
           },
           "media": {
             "image": {
@@ -1212,7 +1212,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/tkjgkwbxxs-1440x900.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -1224,6 +1224,49 @@
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/download-1004x500.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<span style=\"font-weight: normal;\">OLD SCHOOL IS COOL</span>",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/download-6-1440x900.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<span style=\"font-weight: normal;\">They all Rock!</span>",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/download-2-1440x900.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<span style=\"font-weight: normal;\">Awsesome Rides</span>",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
           },
