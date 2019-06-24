@@ -1866,7 +1866,7 @@ section.form .container {
   font-size: 30px;
 }
 #msg-box7-9g {
-  text-shadow: 2px 5px 15px #4b5320;
+  
 }
 #msg-box7-9g .mbr-section-title,
 #msg-box7-9g .lead p {
@@ -1881,9 +1881,24 @@ section.form .container {
   font-size: 30px;
 }
 #msg-box7-9g SPAN {
-  font-size: 48px;
+  font-size: 30px;
 }
-#msg-box7-9g p {
+#msg-box7-9g .mbr-section-title {
+  color: #efefef;
+  font-size: 60px;
+  text-align: center;
+}
+#msg-box7-9g .mbr-section-lead {
+  text-align: center;
+  font-size: 36px;
+  color: #efefef;
+}
+#msg-box7-9g .mbr-section-title SPAN {
+  font-size: 40px;
+  font-family: 'Oswald', sans-serif;
+  color: #f90909;
+}
+#msg-box7-9g .mbr-section-title {
   text-shadow: 2px 5px 15px black;
 }
 #msg-box7-9g .mbr-section-title {
@@ -1896,6 +1911,62 @@ section.form .container {
 #msg-box7-9g h1 {
   filter: blur(2px);
   -webkit-filter: blur(2px);
+}
+#msg-box7-9g #logos {
+  position: absolute;
+  top: 0px;
+  left: 150px;
+  -webkit-perspective: 200px;
+  perspective: 200px;
+}
+#msg-box7-9g #cube {
+  display: block;
+  position: relative;
+  margin: 40px auto;
+  height: 50px;
+  width: 50px;
+  -webkit-transform-style: preserve-3d;
+  -webkit-transform: rotateY(2deg);
+  transform-style: preserve-3d;
+  transform: rotateY(2deg);
+}
+#msg-box7-9g #front {
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  -webkit-backface-visibility: visible;
+  -webkit-transform: translateZ(100px);
+  backface-visibility: visible;
+  transform: translateZ(100px);
+}
+#msg-box7-9g #back {
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  -webkit-backface-visibility: visible;
+  -webkit-transform: rotateY(180deg) translateZ(100px);
+  backface-visibility: visible;
+  transform: rotateY(180deg) translateZ(100px);
+}
+#msg-box7-9g #cube {
+  -webkit-animation: upyourscache1554171966417 5s infinite linear;
+  animation: upyourscache1554171966417 5s infinite linear;
+}
+@-webkit-keyframes upyourscache1554171966417 {
+  0% {
+    -webkit-transform: rotateX(0) rotateY(0) rotateZ(0);
+  }
+  100% {
+    -webkit-transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+  }
+}
+@keyframes upyourscache1554171966417 {
+  0% {
+    transform: rotateX(0) rotateY(0) rotateZ(0);
+  }
+  100% {
+    transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+  }
 }
 .cid-rujLKuxFnm.popup-builder {
   background-color: #ffffff;
