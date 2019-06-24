@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 384,
+    "uniqCompNum": 385,
     "versionPublish": "4.10.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2449,7 +2449,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
