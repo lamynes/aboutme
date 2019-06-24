@@ -2423,7 +2423,8 @@
             },
             "P": {
               "text-align": "center",
-              "font-size": "30px"
+              "font-size": "30px",
+              "color": "#ffffff"
             },
             "SPAN": {
               "font-size": "30px"
