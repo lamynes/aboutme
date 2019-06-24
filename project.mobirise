@@ -2448,7 +2448,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
+            "overlayColor": "#ffffff",
             "overlayOpacity": "0.2"
           },
           "media": {
