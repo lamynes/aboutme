@@ -2439,7 +2439,7 @@
             "paddingTop": "4",
             "paddingBottom": "7",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/these-soldiers-go-up-in-the-ai-800x622.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/soldiers-flag-2000x1556.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
