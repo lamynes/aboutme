@@ -2448,7 +2448,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
