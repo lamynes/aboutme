@@ -2439,7 +2439,7 @@
             "paddingTop": "4",
             "paddingBottom": "7",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20190222-133300-2000x972-2-2000x972.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/soldiers-flag-2000x1556.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2448,8 +2448,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#303030",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
