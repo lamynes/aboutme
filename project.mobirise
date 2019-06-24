@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "fun.html",
+    "currentPage": "jeep-custom.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -308,7 +308,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-success\">FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MORE</a>"
           },
           "media": {
             "image": {
@@ -2438,7 +2438,7 @@
             "paddingTop": "4",
             "paddingBottom": "7",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hbwolzhebc-1440x900.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/these-soldiers-go-up-in-the-ai-800x622.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2447,8 +2447,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#181717",
-            "overlayOpacity": "0"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -2480,7 +2480,7 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9g",
-          "_customCSS": "text-shadow: 2px 5px 15px black;\n\np{\n   text-shadow: 2px 5px 15px black;\n}"
+          "_customCSS": "text-shadow: 2px 5px 15px black;\n\np{\n   text-shadow: 2px 5px 15px black;\n}\n.mbr-figure { \n    box-shadow: 5px 5px 35px rgba(0,0,0,0.3); \n}"
         },
         {
           "_params": {

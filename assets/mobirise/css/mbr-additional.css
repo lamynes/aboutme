@@ -1886,6 +1886,9 @@ section.form .container {
 #msg-box7-9g p {
   text-shadow: 2px 5px 15px black;
 }
+#msg-box7-9g .mbr-figure {
+  box-shadow: 5px 5px 35px rgba(0, 0, 0, 0.3);
+}
 #social-buttons1-96 .mbr-section-title {
   color: #000000;
 }
