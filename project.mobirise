@@ -159,7 +159,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/spark-spirit-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/golen-141x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -638,7 +638,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/spark-spirit-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/golen-141x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -772,7 +772,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/spark-spirit-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/golen-141x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -885,7 +885,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/spark-spirit-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/golen-141x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -1111,7 +1111,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/spark-spirit-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/golen-141x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -1515,7 +1515,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/spark-spirit-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/golen-141x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -1735,7 +1735,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/spark-spirit-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/golen-141x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -2028,7 +2028,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/spark-spirit-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/golen-141x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -2248,7 +2248,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/spark-spirit-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/golen-141x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -2394,7 +2394,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/spark-spirit-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/golen-141x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -2448,8 +2448,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.1"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
@@ -2910,7 +2910,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/spark-spirit-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/golen-141x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
