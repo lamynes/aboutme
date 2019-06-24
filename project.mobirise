@@ -638,7 +638,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/156138136040587260-607x596.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -772,7 +772,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/156138136040587260-607x596.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -885,7 +885,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/156138136040587260-607x596.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -1111,7 +1111,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/156138136040587260-607x596.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -1515,7 +1515,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/156138136040587260-607x596.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -1735,7 +1735,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/156138136040587260-607x596.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -2028,7 +2028,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/156138136040587260-607x596.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -2248,7 +2248,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/156138136040587260-607x596.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -2394,7 +2394,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/156138136040587260-607x596.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -2419,11 +2419,11 @@
             },
             "H3": {
               "color": "#b8312f",
-              "text-align": "left"
+              "text-align": "center"
             },
             "P": {
-              "text-align": "left",
-              "font-size": "17px"
+              "text-align": "center",
+              "font-size": "20px"
             },
             "SPAN": {
               "font-size": "60px"
@@ -2472,7 +2472,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">WIN a&nbsp;4.6L Jeep EFI Turn Key </span><br><span style=\"font-weight: normal;\">for 1971-1990 Jeeps</span>",
-          "text": "Pricing on 4.6L Jeep EFI Turn Key for 1971-1990 Jeeps:\n<br>1971-1990 year models.<br>",
+          "text": "4.6L Jeep EFI Turn Key for 1971-1990 Jeeps&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -2909,7 +2909,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/156138136040587260-607x596.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
