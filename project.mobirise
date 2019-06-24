@@ -2439,7 +2439,7 @@
             "paddingTop": "4",
             "paddingBottom": "7",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20190222-133301-2000x972.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20190222-133300-2000x972-1-2000x972.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2449,7 +2449,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
