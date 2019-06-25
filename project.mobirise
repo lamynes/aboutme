@@ -2432,7 +2432,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "44",
+            "imageSize": "35",
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": false,
@@ -2454,7 +2454,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raffle-text-1199x979.png",
+              "src": "@PROJECT_PATH@/assets/images/raffle-1-1004x987.png",
               "link": "",
               "alt": "",
               "title": "",
