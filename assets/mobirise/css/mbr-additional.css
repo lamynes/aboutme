@@ -1870,11 +1870,12 @@ section.form .container {
   color: #fff;
 }
 #msg-box7-ay P {
-  color: #efefef;
+  color: #ffffff;
   font-size: 30px;
 }
 #msg-box7-ay H3 {
   color: #ffffff;
+  text-align: left;
 }
 #extCountdown2-ap .mbr-section-title {
   color: #000000;

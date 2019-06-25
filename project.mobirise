@@ -2432,11 +2432,12 @@
               "color": "#fff"
             },
             "P": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "font-size": "30px"
             },
             "H3": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_params": {
@@ -2463,7 +2464,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raffle-text-1173x979.png",
+              "src": "@PROJECT_PATH@/assets/images/raffle-text-1199x979.png",
               "link": "",
               "alt": "",
               "title": "",
