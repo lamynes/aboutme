@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 394,
+    "uniqCompNum": 395,
     "versionPublish": "4.10.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -308,7 +308,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">LEARN MORE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">MORE</a>"
           },
           "media": {
             "image": {
@@ -2431,17 +2431,11 @@
             ".mbr-section-title, .lead p": {
               "color": "#fff"
             },
-            "H3": {
-              "color": "#b8312f",
-              "text-align": "center"
-            },
             "P": {
-              "text-align": "center",
-              "font-size": "25px",
-              "color": "#000000"
+              "color": "#efefef"
             },
-            "SPAN": {
-              "font-size": "30px"
+            "H3": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -2449,32 +2443,29 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "45",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "imageSize": "35",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/soldiers-flag-2000x1556-2-2000x1556.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20190222-133300-2000x972.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/2iOy7DQGQRA?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=2iOy7DQGQRA",
-              "width": 1280,
-              "height": 720
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raffle-text-1173x979.png",
-              "link": "https://golenengineservice.com/",
-              "alt": "GOLEN",
-              "title": "GOLEN",
+              "src": "@PROJECT_PATH@/assets/images/picture2-1-996x979.png",
+              "link": "",
+              "alt": "",
+              "title": "",
               "active": true
             },
             "video": {
@@ -2489,15 +2480,14 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">WIN a&nbsp;4.6L Jeep EFI Turn Key Engine</span><br><span style=\"font-weight: normal;\">for 1971-1990 Jeeps</span>",
-          "text": "<i>Buy a limited Raffle Ticket now for a chance to win our 4.6L Jeep EFI Turn Key Engine for 1971-1990 Jeeps!</i><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://golenengineservice.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "title": "WIN a 4.6L Jeep EFI Turn Key Engine\n<div>for 1971-1990 Jeeps</div>",
+          "text": "Buy a limited Raffle Ticket now for a chance to win our 4.6L Jeep EFI Turn Key Engine for 1971-1990 Jeeps!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box7",
-          "_anchor": "msg-box7-9g",
-          "_customCSS": ".mbr-section-title {\n  color: #000000;\n  font-size: 60px;\n  text-align: center;\n}\n.mbr-section-lead {\n  text-align: center;\n  font-size: 36px;\n  color: #000000;\n}\n.mbr-section-title SPAN {\n  font-size: 40px;\n  font-family: 'Oswald', sans-serif;\n  color: white;\n}\n.mbr-section-title {\n    text-shadow: 2px 15px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}"
+          "_anchor": "msg-box7-ay"
         },
         {
           "_params": {
@@ -2508,7 +2498,7 @@
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {

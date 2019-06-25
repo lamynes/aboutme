@@ -1865,50 +1865,15 @@ section.form .container {
 #ext_menu-8e .btn {
   font-size: 30px;
 }
-#msg-box7-9g .mbr-section-title,
-#msg-box7-9g .lead p {
+#msg-box7-ay .mbr-section-title,
+#msg-box7-ay .lead p {
   color: #fff;
 }
-#msg-box7-9g H3 {
-  color: #b8312f;
-  text-align: center;
+#msg-box7-ay P {
+  color: #efefef;
 }
-#msg-box7-9g P {
-  text-align: center;
-  font-size: 25px;
-  color: #000000;
-}
-#msg-box7-9g SPAN {
-  font-size: 30px;
-}
-#msg-box7-9g .mbr-section-title {
-  color: #000000;
-  font-size: 60px;
-  text-align: center;
-}
-#msg-box7-9g .mbr-section-lead {
-  text-align: center;
-  font-size: 36px;
-  color: #000000;
-}
-#msg-box7-9g .mbr-section-title SPAN {
-  font-size: 40px;
-  font-family: 'Oswald', sans-serif;
-  color: white;
-}
-#msg-box7-9g .mbr-section-title {
-  text-shadow: 2px 15px 15px black;
-}
-#msg-box7-9g .mbr-section-title {
-  -webkit-animation: blink 3.0s linear infinite;
-  -moz-animation: blink 3.0s linear infinite;
-  -ms-animation: blink 3.0s linear infinite;
-  -o-animation: blink 3.0s linear infinite;
-  animation: blink 3.0s linear infinite;
-}
-#msg-box7-9g h1 {
-  filter: blur(2px);
-  -webkit-filter: blur(2px);
+#msg-box7-ay H3 {
+  color: #ffffff;
 }
 #extCountdown2-ap .mbr-section-title {
   color: #000000;
