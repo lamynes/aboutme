@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "fun.html",
+    "currentPage": "jeep-custom.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -308,7 +308,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-success\">FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">MORE</a>"
           },
           "media": {
             "image": {
@@ -2432,7 +2432,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "35",
+            "imageSize": "44",
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": false,
@@ -2454,7 +2454,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raffle-1-1004x987.png",
+              "src": "@PROJECT_PATH@/assets/images/raffle-text-1199x979.png",
               "link": "",
               "alt": "",
               "title": "",
