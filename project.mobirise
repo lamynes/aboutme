@@ -2463,7 +2463,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
