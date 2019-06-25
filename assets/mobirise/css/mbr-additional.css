@@ -1969,41 +1969,8 @@ section.form .container {
     transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
   }
 }
-#custom-html-as * {
-  box-sizing: border-box;
-}
-#custom-html-as body {
-  margin: 0;
-  font-family: Arial;
-  font-size: 17px;
-}
-#custom-html-as #myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
-}
-#custom-html-as .content {
-  position: fixed;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.5);
-  color: #f1f1f1;
-  width: 100%;
-  padding: 20px;
-}
-#custom-html-as #myBtn {
-  width: 200px;
-  font-size: 18px;
-  padding: 10px;
-  border: none;
-  background: #000;
-  color: #fff;
-  cursor: pointer;
-}
-#custom-html-as #myBtn:hover {
-  background: #ddd;
-  color: black;
+#extCountdown2-ap .mbr-section-title {
+  color: #000000;
 }
 #social-buttons1-96 .mbr-section-title {
   color: #000000;
