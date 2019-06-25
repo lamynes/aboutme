@@ -2433,18 +2433,19 @@
             },
             "P": {
               "color": "#ffffff",
-              "font-size": "30px"
+              "font-size": "30px",
+              "text-align": "right"
             },
             "H3": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "right"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "35",
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -2462,7 +2463,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
