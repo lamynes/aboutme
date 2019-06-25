@@ -1345,6 +1345,14 @@ section.form .container {
   filter: blur(2px);
   -webkit-filter: blur(2px);
 }
+#custom-html-b1 {
+  /* Type valid CSS here */
+}
+#custom-html-b1 div {
+  padding: 50px 0;
+  color: #777;
+  text-align: center;
+}
 #extMsg-box3-ai SPAN {
   color: #000000;
   font-size: 48px;
