@@ -2448,18 +2448,21 @@
             "imageSize": "35",
             "paddingTop": "4",
             "paddingBottom": "4",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/20190222-133301-2000x972.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/0YRowTOLq-Y?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=0YRowTOLq-Y",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -2495,7 +2498,7 @@
           "_params": {
             "showTitle": true,
             "countdown": "07/04/2019",
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
@@ -2522,7 +2525,8 @@
           "_anchor": "extCountdown2-ap",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "36px"
             }
           }
         }
