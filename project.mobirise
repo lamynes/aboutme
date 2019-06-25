@@ -2451,13 +2451,13 @@
             "inverse": true,
             "imageSize": "45",
             "paddingTop": "2",
-            "paddingBottom": "5",
-            "bgImageRadio": true,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/soldiers-flag-2000x1556-2-2000x1556.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/2iOy7DQGQRA?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=2iOy7DQGQRA",
@@ -2465,8 +2465,8 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
