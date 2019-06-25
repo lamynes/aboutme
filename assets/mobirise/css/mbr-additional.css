@@ -1969,10 +1969,13 @@ section.form .container {
     transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
   }
 }
-#custom-html-as {
-  /* Style the video: 100% width and height to cover the entire window */
-  /* Add some content at the bottom of the video/page */
-  /* Style the button used to pause/play the video */
+#custom-html-as * {
+  box-sizing: border-box;
+}
+#custom-html-as body {
+  margin: 0;
+  font-family: Arial;
+  font-size: 17px;
 }
 #custom-html-as #myVideo {
   position: fixed;

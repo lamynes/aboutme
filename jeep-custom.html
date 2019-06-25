@@ -25,7 +25,9 @@
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js">
+</script>
+
 </head>
 
 <script src="https://www.gstatic.com/firebasejs/5.5.4/firebase.js"></script>
@@ -124,22 +126,20 @@
 
 </section>
 
-<div id="custom-html-as"><!-- Type valid HTML here -->
-<!-- The video -->
-<container>
-    
+<div id="custom-html-as"><meta name="viewport" content="width=device-width, initial-scale=1">
+
 <video autoplay="" muted="" loop="" id="myVideo">
-  <source src="https://www.youtube.com/watch?v=2iOy7DQGQRA" type="video/mp4">
+  <source src="https://youtu.be/c4HyKnScyw0" type="video/mp4">
+  Your browser does not support HTML5 video.
 </video>
 
-<!-- Optional: some overlay text to describe the video -->
 <div class="content">
-  <h1>JEEP 4.6L Engine</h1>
-  <p>BUY RAFFLE TO WIN</p>
-  <!-- Use a button to pause/play the video with JavaScript -->
+  <h1>Heading</h1>
+  <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei. Id qui nemore latine molestiae, ad mutat oblique delicatissimi pro.</p>
   <button id="myBtn" onclick="myFunction()">Pause</button>
 </div>
-    </container></div>
+
+</div>
 
 <section class="mbr-section extCountdown2" id="extCountdown2-ap" data-rv-view="23" style="background-color: rgb(233, 233, 233); padding-top: 120px; padding-bottom: 120px;">
 
@@ -195,7 +195,20 @@
   <script src="assets/mobirise3-blocks-plugin/js/script.js"></script>
   <script src="assets/theme/js/script.js"></script>
   
-  
+  <script>
+var video = document.getElementById("myVideo");
+var btn = document.getElementById("myBtn");
+
+function myFunction() {
+  if (video.paused) {
+    video.play();
+    btn.innerHTML = "Pause";
+  } else {
+    video.pause();
+    btn.innerHTML = "Play";
+  }
+}
+</script>
   <input name="animation" type="hidden">
   </body>
 </html>

@@ -2317,8 +2317,8 @@
         "meta_descr": "Jeep Custom",
         "title": "Jeep Custom",
         "order": 2,
-        "header_custom": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js\"></script>",
-        "footer_custom": ""
+        "header_custom": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js\">\n</script>\n",
+        "footer_custom": "<script>\nvar video = document.getElementById(\"myVideo\");\nvar btn = document.getElementById(\"myBtn\");\n\nfunction myFunction() {\n  if (video.paused) {\n    video.play();\n    btn.innerHTML = \"Pause\";\n  } else {\n    video.pause();\n    btn.innerHTML = \"Play\";\n  }\n}\n</script>"
       },
       "components": [
         {
@@ -2502,8 +2502,8 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<!-- The video -->\n<container>\n    \n<video autoplay=\"\" muted=\"\" loop=\"\" id=\"myVideo\">\n  <source src=\"https://www.youtube.com/watch?v=2iOy7DQGQRA\" type=\"video/mp4\">\n</video>\n\n<!-- Optional: some overlay text to describe the video -->\n<div class=\"content\">\n  <h1>JEEP 4.6L Engine</h1>\n  <p>BUY RAFFLE TO WIN</p>\n  <!-- Use a button to pause/play the video with JavaScript -->\n  <button id=\"myBtn\" onclick=\"myFunction()\">Pause</button>\n</div>\n    </container>",
-          "_customCSS": "/* Style the video: 100% width and height to cover the entire window */\n#myVideo {\n  position: fixed;\n  right: 0;\n  bottom: 0;\n  min-width: 100%; \n  min-height: 100%;\n}\n\n/* Add some content at the bottom of the video/page */\n.content {\n  position: fixed;\n  bottom: 0;\n  background: rgba(0, 0, 0, 0.5);\n  color: #f1f1f1;\n  width: 100%;\n  padding: 20px;\n}\n\n/* Style the button used to pause/play the video */\n#myBtn {\n  width: 200px;\n  font-size: 18px;\n  padding: 10px;\n  border: none;\n  background: #000;\n  color: #fff;\n  cursor: pointer;\n}\n\n#myBtn:hover {\n  background: #ddd;\n  color: black;\n}",
+          "_customHTML": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n<video autoplay=\"\" muted=\"\" loop=\"\" id=\"myVideo\">\n  <source src=\"https://youtu.be/c4HyKnScyw0\" type=\"video/mp4\">\n  Your browser does not support HTML5 video.\n</video>\n\n<div class=\"content\">\n  <h1>Heading</h1>\n  <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei. Id qui nemore latine molestiae, ad mutat oblique delicatissimi pro.</p>\n  <button id=\"myBtn\" onclick=\"myFunction()\">Pause</button>\n</div>\n\n",
+          "_customCSS": "* {\n  box-sizing: border-box;\n}\n\nbody {\n  margin: 0;\n  font-family: Arial;\n  font-size: 17px;\n}\n\n#myVideo {\n  position: fixed;\n  right: 0;\n  bottom: 0;\n  min-width: 100%; \n  min-height: 100%;\n}\n\n.content {\n  position: fixed;\n  bottom: 0;\n  background: rgba(0, 0, 0, 0.5);\n  color: #f1f1f1;\n  width: 100%;\n  padding: 20px;\n}\n\n#myBtn {\n  width: 200px;\n  font-size: 18px;\n  padding: 10px;\n  border: none;\n  background: #000;\n  color: #fff;\n  cursor: pointer;\n}\n\n#myBtn:hover {\n  background: #ddd;\n  color: black;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
