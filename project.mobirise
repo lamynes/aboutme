@@ -308,7 +308,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">LEARN MORE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">LEARN MORE</a>"
           },
           "media": {
             "image": {
@@ -2452,12 +2452,12 @@
             "imageSize": "45",
             "paddingTop": "2",
             "paddingBottom": "3",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/soldiers-flag-2000x1556-2-2000x1556.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/2iOy7DQGQRA?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=2iOy7DQGQRA",
@@ -2465,13 +2465,13 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#2e2e2e",
+            "overlayColor": "#000000",
             "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raffle-text-1044x988.png",
+              "src": "@PROJECT_PATH@/assets/images/raffle-text-1172x979.png",
               "link": "https://golenengineservice.com/",
               "alt": "GOLEN",
               "title": "GOLEN",
@@ -2491,7 +2491,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">WIN a&nbsp;4.6L Jeep EFI Turn Key Engine</span><br><span style=\"font-weight: normal;\">for 1971-1990 Jeeps</span>",
           "text": "<i>Buy a limited Raffle Ticket now for a chance to win our 4.6L Jeep EFI Turn Key Engine for 1971-1990 Jeeps!</i><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://golenengineservice.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://golenengineservice.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
