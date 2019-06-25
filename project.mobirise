@@ -2432,7 +2432,8 @@
               "color": "#fff"
             },
             "P": {
-              "color": "#efefef"
+              "color": "#efefef",
+              "font-size": "30px"
             },
             "H3": {
               "color": "#ffffff"
@@ -2447,7 +2448,7 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20190222-133300-2000x972.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20181209-92054-2000x972.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2457,7 +2458,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
