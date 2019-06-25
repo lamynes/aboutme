@@ -2434,11 +2434,11 @@
             "P": {
               "color": "#ffffff",
               "font-size": "30px",
-              "text-align": "right"
+              "text-align": "center"
             },
             "H3": {
               "color": "#ffffff",
-              "text-align": "right"
+              "text-align": "center"
             }
           },
           "_params": {
@@ -2447,8 +2447,8 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": "35",
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/20190222-133301-2000x972.jpg",
             "parallax": true,
@@ -2486,7 +2486,7 @@
               "size": 250
             }
           },
-          "title": "WIN a GOLEN ENGINE<br><span style=\"font-weight: normal;\"><i>4.6L Jeep EFI Turn Key Engine\n</i></span><div><span style=\"font-weight: normal;\"><i>for 1971-1990 Jeeps</i></span></div>",
+          "title": "<span style=\"font-weight: normal;\"><i>WIN a GOLEN ENGINE</i></span><br><span style=\"font-weight: normal;\"><i><br></i></span><br><span style=\"font-weight: normal;\"><i>4.6L Jeep EFI Turn Key Engine\n</i></span><div><span style=\"font-weight: normal;\"><i>for 1971-1990 Jeeps</i></span></div>",
           "text": "Buy a limited Raffle Ticket now for a chance to win our 4.6L Jeep EFI Turn Key Engine for 1971-1990 Jeeps!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://golenengineservice.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_tags": [
