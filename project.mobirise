@@ -2418,7 +2418,7 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "56",
+            "imageSize": "42",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
