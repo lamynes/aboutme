@@ -2416,11 +2416,11 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "showArrow": true,
             "imageSize": "36",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/soldiers-flag-2000x1556-2-2000x1556.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -2429,8 +2429,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.4"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
