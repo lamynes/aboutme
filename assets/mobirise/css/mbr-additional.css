@@ -1889,6 +1889,9 @@ section.form .container {
   font-size: 48px;
   font-family: 'Open Sans Condensed', sans-serif;
 }
+#header2-b2 .btn {
+  font-size: 14px;
+}
 #extCountdown2-ap {
   text-shadow: 2px 4px 15px grey;
 }
