@@ -1873,6 +1873,9 @@ section.form .container {
 #ext_menu-8e .btn {
   font-size: 30px;
 }
+#msg-box7-ay {
+  text-shadow: 2px 10px 15px black;
+}
 #msg-box7-ay .mbr-section-title,
 #msg-box7-ay .lead p {
   color: #fff;
@@ -1885,6 +1888,9 @@ section.form .container {
 #msg-box7-ay H3 {
   color: #ffffff;
   text-align: center;
+}
+#extCountdown2-ap {
+  text-shadow: 2px 10px 15px black;
 }
 #extCountdown2-ap .mbr-section-title {
   color: #000000;
