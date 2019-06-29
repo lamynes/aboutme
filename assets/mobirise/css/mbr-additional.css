@@ -1879,6 +1879,12 @@ section.form .container {
 #header2-b2 .mbr-section-title {
   color: #ffffff;
 }
+#header2-b2 .mbr-section-text {
+  font-size: 20px;
+}
+#header2-b2 .mbr-section-title I {
+  font-size: 48px;
+}
 #extCountdown2-ap {
   text-shadow: 2px 10px 15px black;
 }
