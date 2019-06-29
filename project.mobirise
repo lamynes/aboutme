@@ -2430,7 +2430,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -2466,7 +2466,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "25px"
             },
             ".mbr-section-title I": {
               "font-size": "48px"
