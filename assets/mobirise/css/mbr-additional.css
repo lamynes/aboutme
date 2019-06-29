@@ -1873,6 +1873,9 @@ section.form .container {
 #ext_menu-8e .btn {
   font-size: 30px;
 }
+#header2-b2 {
+  text-shadow: 2px 10px 15px black;
+}
 #header2-b2 .mbr-section-title {
   color: #ffffff;
 }

@@ -2465,7 +2465,8 @@
             ".mbr-section-title": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_customCSS": "text-shadow: 2px 10px 15px black;"
         },
         {
           "_params": {
