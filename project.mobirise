@@ -2420,7 +2420,7 @@
             "showArrow": true,
             "imageSize": "36",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/soldiers-flag-2000x1556-2-2000x1556.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/these-soldiers-go-up-in-the-ai-800x622.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -2432,14 +2432,14 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/picture1-992x889.png",
+              "src": "@PROJECT_PATH@/assets/images/picture12-992x889.png",
               "link": "",
               "alt": "",
               "title": ""
