@@ -308,7 +308,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">BUY NOW!</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">BUY RAFFLE TICKET HERE</a>"
           },
           "media": {
             "image": {
@@ -2438,8 +2438,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/picture12-992x889.png",
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "GOLEN ENGINE",
+              "title": "GOLEN ENGINE"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -2455,7 +2455,7 @@
           },
           "title": "WIN a 4.6L Jeep Complete Engine for 1991-2006 fuel injected Jeeps",
           "text": "Buy a limited Raffle Ticket now for a chance to win our 4.6L Jeep Complete Engine for 1991-2006 fuel injected Jeeps",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY NOW!</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://golenengineservice.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY RAFFLE TICKET HERE</a>",
           "_tags": [
             "Theme"
           ],
@@ -2473,6 +2473,9 @@
               "font-size": "48px",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
             }
           },
           "_customCSS": "text-shadow: 4px 15px 15px black;"
