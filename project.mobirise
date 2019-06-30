@@ -2418,7 +2418,7 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "42",
+            "imageSize": "39",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
@@ -2466,7 +2466,7 @@
               "color": "#faaf40"
             },
             ".mbr-section-text": {
-              "font-size": "25px",
+              "font-size": "30px",
               "color": "#ffffff"
             },
             ".mbr-section-title I": {
