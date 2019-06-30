@@ -2328,8 +2328,8 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
