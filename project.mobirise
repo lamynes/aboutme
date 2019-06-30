@@ -159,7 +159,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/vector-decal-star-jeep-128x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -208,7 +208,7 @@
           "text": "BEAUTIFUL WEBSITES FOR ALL DEVICES",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extForm1-79\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\">BLOG</a>",
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n.mbr-section-title {\n  color: #efefef;\n  font-size: 60px;\n  text-align: center;\n}\n.mbr-section-lead {\n  text-align: center;\n  font-size: 36px;\n  color: #efefef;\n}\n.mbr-section-title SPAN {\n  font-size: 60px;\n  font-family: 'Oswald', sans-serif;\n  color: #f90909;\n}\n.mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}\n#logos {\n  position:absolute;  top: 0px;  left: 150px;  -webkit-perspective: 200px;\n   perspective: 200px; \n}\n#cube {\n  display: block;  position: relative;  margin: 40px auto;\n  height: 50px;  width: 50px;\n  -webkit-transform-style: preserve-3d;\n  -webkit-transform:  rotateY(2deg);\n  transform-style: preserve-3d;\n  transform:  rotateY(2deg);\n\n}\n#front {\n  position: absolute;  height: 150px;  width: 150px;\n  -webkit-backface-visibility: visible;\n  -webkit-transform:  translateZ(100px);\n  backface-visibility: visible;\n  transform:  translateZ(100px);\n}\n#back {\n  position: absolute;  height: 150px;  width: 150px;\n  -webkit-backface-visibility: visible;\n  -webkit-transform:  rotateY(180deg) translateZ(100px);\n  backface-visibility: visible;\n  transform: rotateY(180deg) translateZ(100px);\n}\n#cube {\n  -webkit-animation: upyourscache1554171966417 5s infinite linear;\n  animation: upyourscache1554171966417 5s infinite linear;\n\n}\n@-webkit-keyframes upyourscache1554171966417 {\n  0% { -webkit-transform: rotateX(0) rotateY(0) rotateZ(0) ;}\n  100% { -webkit-transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg) ;}\n}\n@keyframes upyourscache1554171966417 {\n  0% { transform: rotateX(0) rotateY(0) rotateZ(0) ;}\n  100% { transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg) ;}\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"59\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/download-4-1440x900.png&quot;);\">\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"9\"><span style=\"font-weight: normal;\">MODERN &amp; MOBILE READY</span></h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"10\">BEAUTIFUL WEBSITES FOR ALL DEVICES</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"index.html#extForm1-79\" code-editable-id=\"11\">CONTACT</a> <a class=\"btn btn-lg btn-white btn-white-outline mbr-editable-button\" href=\"blog.html\" code-editable-id=\"12\">BLOG</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"59\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/download-4-1440x900.png&quot;);\">\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"47\"><span style=\"font-weight: normal;\">MODERN &amp; MOBILE READY</span></h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"48\">BEAUTIFUL WEBSITES FOR ALL DEVICES</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"index.html#extForm1-79\" code-editable-id=\"49\">CONTACT</a> <a class=\"btn btn-lg btn-white btn-white-outline mbr-editable-button\" href=\"blog.html\" code-editable-id=\"50\">BLOG</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -308,7 +308,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BUY A TICKET NOW FOR A CHANCE TO WIN!</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
           },
           "media": {
             "image": {
@@ -638,7 +638,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/vector-decal-star-jeep-128x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -772,7 +772,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/vector-decal-star-jeep-128x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -885,7 +885,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/vector-decal-star-jeep-128x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -1111,7 +1111,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/vector-decal-star-jeep-128x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -1515,7 +1515,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/vector-decal-star-jeep-128x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -1735,7 +1735,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/vector-decal-star-jeep-128x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -2028,7 +2028,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/vector-decal-star-jeep-128x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -2248,7 +2248,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/vector-decal-star-jeep-128x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -2326,7 +2326,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2394,7 +2394,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/vector-decal-star-jeep-128x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -2418,28 +2418,25 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "44",
+            "imageSize": "42",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/17797-american-flag-close-up-pv-958x639.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "",
-              "rawUrl": "",
-              "width": 1280,
-              "height": 720
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#000",
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/picture12-992x889.png",
+              "src": "@PROJECT_PATH@/assets/images/picture1-992x889.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -2456,9 +2453,9 @@
               "size": 250
             }
           },
-          "title": "WIN a 4.6L Jeep Complete Engine for 1991-2006 fuel injected Jeeps",
+          "title": "<i>WIN a 4.6L Jeep Complete Engine for 1991-2006 fuel injected Jeeps</i>",
           "text": "Buy a limited Raffle Ticket now for a chance to win our 4.6L Jeep Complete Engine for 1991-2006 fuel injected Jeeps",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://golenengineservice.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY A TICKET NOW FOR A CHANCE TO WIN!</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -2469,21 +2466,13 @@
               "color": "#ffffff"
             },
             ".mbr-section-text": {
-              "font-size": "30px",
-              "color": "#ffffff",
-              "text-align": "left"
+              "font-size": "25px",
+              "color": "#ffffff"
             },
             ".mbr-section-title I": {
               "font-size": "48px",
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
-            },
-            ".btn": {
-              "font-size": "14px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             }
           },
           "_customCSS": "text-shadow: 2px 10px 15px black;"
@@ -2623,7 +2612,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/vector-decal-star-jeep-128x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
