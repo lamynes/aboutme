@@ -2329,7 +2329,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
