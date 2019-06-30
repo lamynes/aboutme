@@ -2314,7 +2314,7 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "39",
+            "imageSize": "49",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1280x1920.jpg",
             "parallax": true,
@@ -2328,8 +2328,8 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.1"
+            "overlayColor": "#353535",
+            "overlayOpacity": "0"
           },
           "media": {
             "image": {
@@ -2362,7 +2362,8 @@
           "_anchor": "header2-b2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#d14841"
+              "color": "#e25041",
+              "font-size": "60px"
             },
             ".mbr-section-text": {
               "font-size": "30px",
