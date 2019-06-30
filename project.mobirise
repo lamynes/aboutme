@@ -2315,12 +2315,12 @@
             "inverse": true,
             "showArrow": true,
             "imageSize": "39",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/Wr4YCz5VOpY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=Wr4YCz5VOpY",
@@ -2329,7 +2329,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0"
           },
           "media": {
             "image": {
