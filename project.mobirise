@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#ff9a2a",
         "#ea8d02",
         "#a5ddfa",
         "#f90909",
         "#303030",
         "#9f9f9f",
-        "#2e2e2e"
+        "#2e2e2e",
+        "#353535"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 399,
+    "uniqCompNum": 400,
     "versionPublish": "4.10.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2303,8 +2303,8 @@
         "meta_descr": "Jeep Custom",
         "title": "Jeep Custom",
         "order": 2,
-        "header_custom": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js\">\n</script>\n",
-        "footer_custom": "<script>\nvar video = document.getElementById(\"myVideo\");\nvar btn = document.getElementById(\"myBtn\");\n\nfunction myFunction() {\n  if (video.paused) {\n    video.play();\n    btn.innerHTML = \"Pause\";\n  } else {\n    video.pause();\n    btn.innerHTML = \"Play\";\n  }\n}\n</script>"
+        "header_custom": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js\">\n</script>\n<script async src=\"//cdn.embedly.com/widgets/platform.js\" charset=\"UTF-8\"></script>",
+        "footer_custom": ""
       },
       "components": [
         {
@@ -2329,7 +2329,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
