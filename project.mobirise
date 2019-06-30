@@ -308,7 +308,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">BUY RAFFLE TICKET HERE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BUY RAFFLE TICKET HERE</a>"
           },
           "media": {
             "image": {
@@ -2303,7 +2303,7 @@
         "meta_descr": "Jeep Custom",
         "title": "Jeep Custom",
         "order": 2,
-        "header_custom": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js\">\n</script>\n<script async src=\"//cdn.embedly.com/widgets/platform.js\" charset=\"UTF-8\"></script>",
+        "header_custom": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js\">\n</script>",
         "footer_custom": ""
       },
       "components": [
@@ -2314,7 +2314,7 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "49",
+            "imageSize": "43",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
             "parallax": true,
@@ -2354,7 +2354,7 @@
           },
           "title": "WIN a 4.6L Complete Engine for 1991-2006 fuel injected Jeeps",
           "text": "Buy a limited Raffle Ticket now for a chance to win our 4.6L Jeep Complete Engine for 1991-2006 fuel injected Jeeps",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://golenengineservice.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY RAFFLE TICKET HERE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://golenengineservice.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY RAFFLE TICKET HERE</a>",
           "_tags": [
             "Theme"
           ],
@@ -2363,7 +2363,8 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#d14841",
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "center"
             },
             ".mbr-section-text": {
               "font-size": "30px",

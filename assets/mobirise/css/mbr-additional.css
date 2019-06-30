@@ -1804,6 +1804,7 @@ section.form .container {
 #header2-b2 .mbr-section-title {
   color: #d14841;
   font-size: 60px;
+  text-align: center;
 }
 #header2-b2 .mbr-section-text {
   font-size: 30px;
