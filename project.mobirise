@@ -2430,13 +2430,13 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/picture1-992x889.png",
+              "src": "@PROJECT_PATH@/assets/images/picture12-992x889.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -2463,7 +2463,7 @@
           "_anchor": "header2-b2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#faaf40"
             },
             ".mbr-section-text": {
               "font-size": "25px",
