@@ -2377,7 +2377,7 @@
               "font-size": "20px"
             }
           },
-          "_customCSS": "text-shadow: 4px 15px 15px black;"
+          "_customCSS": "text-shadow: 5px 10px 10px black;"
         },
         {
           "_params": {
