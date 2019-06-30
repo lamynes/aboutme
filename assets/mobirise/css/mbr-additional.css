@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 
 
 
@@ -1801,6 +1802,7 @@ section.form .container {
 
 
 
+
 #ext_menu-8e {
   text-shadow: 2px 2px 5px grey;
 }
@@ -1882,8 +1884,9 @@ section.form .container {
   color: #ffffff;
 }
 #header2-b2 .mbr-section-text {
-  font-size: 25px;
+  font-size: 30px;
   color: #ffffff;
+  text-align: left;
 }
 #header2-b2 .mbr-section-title I {
   font-size: 48px;
@@ -1891,6 +1894,9 @@ section.form .container {
 }
 #header2-b2 .btn {
   font-size: 14px;
+}
+#header2-b2 .mbr-section-title SPAN {
+  font-family: 'Titillium Web', sans-serif;
 }
 #extCountdown2-ap {
   text-shadow: 2px 4px 15px grey;
