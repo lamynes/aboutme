@@ -2316,7 +2316,7 @@
             "showArrow": true,
             "imageSize": "49",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/10565238-781599335194727-5827541658416495113-n-960x720.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
