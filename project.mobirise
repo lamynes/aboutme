@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#d6b37c",
         "#ea8d02",
         "#a5ddfa",
         "#f90909",
         "#303030",
         "#9f9f9f",
-        "#2e2e2e"
+        "#2e2e2e",
+        "#353535"
       ]
     },
     "versionFirst": "3.12.1",
@@ -2389,7 +2389,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "countdown": "07/04/2019",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -2418,7 +2418,7 @@
           "_anchor": "extCountdown2-ap",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "36px"
             }
           },
