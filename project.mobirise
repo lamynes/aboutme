@@ -2314,15 +2314,15 @@
             "showButtons": true,
             "showArrow": true,
             "inverse": false,
-            "imageSize": "52",
+            "imageSize": "50",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extMsg-box1_bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#cccccc",
             "bgText": "VALUED OVER $7K",
             "bgTextStyle": "Oswald",
-            "bgTextColor": "#ffffff",
+            "bgTextColor": "#efefef",
             "bgTextSize": "300",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -2367,6 +2367,9 @@
           "_styles": {
             "H3": {
               "color": "#303030"
+            },
+            "P": {
+              "font-size": "25px"
             }
           }
         },
