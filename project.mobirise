@@ -2328,8 +2328,8 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#000000",
             "overlayOpacity": "0.2"
           },
           "media": {
@@ -2366,7 +2366,7 @@
           "_customCSS": "text-shadow: 2px 15px 15px black;",
           "_styles": {
             "H3": {
-              "color": "#fdab30"
+              "color": "#ffffff"
             },
             "P": {
               "font-size": "25px",
