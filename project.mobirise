@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#d6b37c",
         "#ea8d02",
         "#a5ddfa",
         "#f90909",
         "#303030",
         "#9f9f9f",
-        "#2e2e2e",
-        "#353535"
+        "#2e2e2e"
       ]
     },
     "versionFirst": "3.12.1",
@@ -308,7 +308,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">BUY RAFFLE TICKET HERE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BUY RAFFLE TICKET HERE</a>"
           },
           "media": {
             "image": {
@@ -2316,7 +2316,7 @@
             "showArrow": true,
             "imageSize": "39",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/e63f506e52fa9d05520dbcc4e2452e2b-tiltshift-1024x682-5-1024x682.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/e63f506e52fa9d05520dbcc4e2452e2b-tiltshift-1024x682-6-1024x682.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -2354,7 +2354,7 @@
           },
           "title": "<i>WIN a 4.6L Complete Engine for 1991-2006 fuel injected Jeeps</i>",
           "text": "Buy a limited Raffle Ticket now for a chance to <b>WIN</b> our <b>4.6L Jeep Complete Engine</b> for 1991-2006 fuel injected Jeeps",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://golenengineservice.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY RAFFLE TICKET HERE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://golenengineservice.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY RAFFLE TICKET HERE</a>",
           "_tags": [
             "Theme"
           ],
@@ -2362,7 +2362,7 @@
           "_anchor": "header2-b2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#faaf40",
+              "color": "#f90909",
               "font-size": "48px",
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
