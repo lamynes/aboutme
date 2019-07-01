@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#ddf5c4",
         "#ea8d02",
         "#a5ddfa",
         "#f90909",
         "#303030",
         "#9f9f9f",
-        "#2e2e2e"
+        "#2e2e2e",
+        "#353535"
       ]
     },
     "versionFirst": "3.12.1",
@@ -2362,7 +2362,7 @@
           "_anchor": "header2-b2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ddf5c4",
+              "color": "#faaf40",
               "font-size": "48px",
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
