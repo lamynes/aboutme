@@ -1800,18 +1800,16 @@ section.form .container {
   text-shadow: 2px 4px 15px grey;
 }
 #extHeader12-b3 H3 {
-  color: #b8312f;
-  font-size: 46px;
+  color: #303030;
 }
 #extHeader12-b3 P {
-  font-size: 20px;
-  text-align: left;
+  font-size: 25px;
 }
 #extCountdown2-ap {
   text-shadow: 2px 4px 15px grey;
 }
 #extCountdown2-ap .mbr-section-title {
-  color: #b8312f;
+  color: #000000;
   font-size: 36px;
 }
 
