@@ -308,7 +308,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BUY RAFFLE TICKET HERE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">BUY RAFFLE TICKET HERE</a>"
           },
           "media": {
             "image": {
@@ -2312,11 +2312,11 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
+            "inverse": true,
             "showArrow": true,
             "imageSize": "39",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tj-suspension-7-tiltshift-875x549.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/e63f506e52fa9d05520dbcc4e2452e2b-tiltshift-1024x682.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -2329,7 +2329,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
@@ -2354,7 +2354,7 @@
           },
           "title": "WIN a 4.6L Complete Engine for 1991-2006 fuel injected Jeeps",
           "text": "Buy a limited Raffle Ticket now for a chance to <b>WIN</b> our <b>4.6L Jeep Complete Engine</b> for 1991-2006 fuel injected Jeeps",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://golenengineservice.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY RAFFLE TICKET HERE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://golenengineservice.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY RAFFLE TICKET HERE</a>",
           "_tags": [
             "Theme"
           ],
