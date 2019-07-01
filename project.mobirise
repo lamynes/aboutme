@@ -2312,11 +2312,11 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
+            "inverse": true,
             "showArrow": true,
             "imageSize": "43",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tj-suspension-3-tiltshift-875x549.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tj-suspension-tiltshift-875x549.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -2327,9 +2327,9 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
