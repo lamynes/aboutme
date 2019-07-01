@@ -2354,7 +2354,7 @@
             }
           },
           "title": "WIN a 4.6L Jeep Complete Engine for 1991-2006 fuel injected Jeeps",
-          "text": "Peak Horsepower: <b>270hp\n</b><br>Peak Torque: <b>300 ft lbs +</b>\n<br>Compression <b>Ratio: 9.5:1\n</b><br>Operating Range:<b> Idle to 5200 rpm\n</b><br>Required Fuel: <b>89 Octane +</b>",
+          "text": "<i>Peak Horsepower: <b>270hp\n</b><br>Peak Torque: <b>300 ft lbs +</b>\n<br>Compression <b>Ratio: 9.5:1\n</b><br>Operating Range:<b> Idle to 5200 rpm\n</b><br>Required Fuel: <b>89 Octane +</b></i>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BUY RAFFLE TICKET HERE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
@@ -2371,7 +2371,7 @@
             },
             "P": {
               "font-size": "20px",
-              "text-align": "center"
+              "text-align": "left"
             }
           }
         },
