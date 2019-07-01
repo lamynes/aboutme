@@ -2329,7 +2329,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
@@ -2362,9 +2362,11 @@
           "_anchor": "header2-b2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#90a878",
-              "font-size": "60px",
-              "text-align": "center"
+              "color": "#ffffff",
+              "font-size": "48px",
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-text": {
               "font-size": "30px",
@@ -2377,6 +2379,10 @@
             },
             ".btn": {
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             }
           },
           "_customCSS": "text-shadow: 5px 10px 10px black;"
