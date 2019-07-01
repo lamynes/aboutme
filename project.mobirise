@@ -2316,7 +2316,7 @@
             "inverse": true,
             "imageSize": "44",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1280x1920.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/image-3240-1025x769.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#cccccc",
@@ -2328,7 +2328,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.1"
           },
