@@ -2352,7 +2352,7 @@
               "size": 250
             }
           },
-          "title": "WIN a 4.6L Complete Engine for 1991-2006 fuel injected Jeeps",
+          "title": "<i>WIN a 4.6L Complete Engine for 1991-2006 fuel injected Jeeps</i>",
           "text": "Buy a limited Raffle Ticket now for a chance to <b>WIN</b> our <b>4.6L Jeep Complete Engine</b> for 1991-2006 fuel injected Jeeps",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://golenengineservice.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY RAFFLE TICKET HERE</a>",
           "_tags": [
@@ -2369,7 +2369,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-text": {
-              "font-size": "30px",
+              "font-size": "25px",
               "color": "#ffffff"
             },
             ".mbr-section-title I": {
