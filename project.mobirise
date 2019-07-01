@@ -2314,9 +2314,9 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "46",
+            "imageSize": "43",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tj-suspension-875x549.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/e63f506e52fa9d05520dbcc4e2452e2b-1024x682.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -2329,7 +2329,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.1"
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -2362,7 +2362,7 @@
           "_anchor": "header2-b2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#d14841",
+              "color": "#90a878",
               "font-size": "60px",
               "text-align": "center"
             },
