@@ -2336,7 +2336,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/picture14-2-996x893.png",
+              "src": "@PROJECT_PATH@/assets/images/picture14-4-996x893.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -2366,7 +2366,7 @@
           "_customCSS": "text-shadow: 2px 4px 15px black;",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#faaf40"
             },
             "P": {
               "font-size": "25px",
