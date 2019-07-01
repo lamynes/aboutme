@@ -1797,13 +1797,14 @@ section.form .container {
   color: #000000;
 }
 #extHeader12-b3 {
-  text-shadow: 2px 4px 15px grey;
+  text-shadow: 2px 4px 15px black;
 }
 #extHeader12-b3 H3 {
-  color: #303030;
+  color: #ffffff;
 }
 #extHeader12-b3 P {
   font-size: 25px;
+  color: #ffffff;
 }
 #extCountdown2-ap {
   text-shadow: 2px 4px 15px grey;

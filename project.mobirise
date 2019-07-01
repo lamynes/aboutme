@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#d2c5b0",
         "#ea8d02",
         "#a5ddfa",
         "#f90909",
         "#303030",
         "#9f9f9f",
-        "#2e2e2e"
+        "#2e2e2e",
+        "#353535"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 402,
+    "uniqCompNum": 399,
     "versionPublish": "4.10.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2313,12 +2313,12 @@
             "showText": true,
             "showButtons": true,
             "showArrow": true,
-            "inverse": false,
-            "imageSize": "50",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extMsg-box1_bg.jpg",
+            "inverse": true,
+            "imageSize": "49",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/image-3240-1025x769.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#cccccc",
             "bgText": "VALUED OVER $7K",
             "bgTextStyle": "Oswald",
@@ -2328,15 +2328,15 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.7
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/picture12-992x889.png",
+              "src": "@PROJECT_PATH@/assets/images/picture14-2-996x893.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -2363,13 +2363,14 @@
           ],
           "_name": "extHeader12",
           "_anchor": "extHeader12-b3",
-          "_customCSS": "text-shadow: 2px 4px 15px grey;",
+          "_customCSS": "text-shadow: 2px 4px 15px black;",
           "_styles": {
             "H3": {
-              "color": "#303030"
+              "color": "#ffffff"
             },
             "P": {
-              "font-size": "25px"
+              "font-size": "25px",
+              "color": "#ffffff"
             }
           }
         },
