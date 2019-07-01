@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#d2c5b0",
         "#ea8d02",
         "#a5ddfa",
         "#f90909",
         "#303030",
         "#9f9f9f",
-        "#2e2e2e",
-        "#353535"
+        "#2e2e2e"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 399,
+    "uniqCompNum": 400,
     "versionPublish": "4.10.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -308,7 +308,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BUY RAFFLE TICKET HERE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">BUY RAFFLE TICKET HERE</a>"
           },
           "media": {
             "image": {
@@ -2312,24 +2312,25 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
             "showArrow": true,
-            "imageSize": "39",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/e63f506e52fa9d05520dbcc4e2452e2b-tiltshift-1024x682-6-1024x682.jpg",
+            "inverse": false,
+            "imageSize": "52",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extMsg-box1_bg.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgText": "RAFFLE",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#ffffff",
+            "bgTextSize": "300",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/Wr4YCz5VOpY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=Wr4YCz5VOpY",
-              "width": 1280,
-              "height": 720
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0"
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
           },
           "media": {
             "image": {
@@ -2337,11 +2338,11 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/picture12-992x889.png",
               "link": "",
-              "alt": "GOLEN ENGINE",
-              "title": "GOLEN ENGINE"
+              "alt": "",
+              "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -2352,44 +2353,21 @@
               "size": 250
             }
           },
-          "title": "<i>WIN a 4.6L Complete Engine for 1991-2006 fuel injected Jeeps</i>",
-          "text": "Buy a limited Raffle Ticket now for a chance to <b>WIN</b> our <b>4.6L Jeep Complete Engine</b> for 1991-2006 fuel injected Jeeps",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://golenengineservice.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY RAFFLE TICKET HERE</a>",
+          "title": "WIN a 4.6L Complete Engine for 1991-2006 fuel injected Jeeps",
+          "text": "Buy a limited Raffle Ticket now for a chance to WIN our 4.6L Jeep Complete Engine for 1991-2006 fuel injected Jeeps",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BUY RAFFLE TICKET HERE</a>",
+          "bgTextP": "ANIMATED TEXT BACKGROUND",
+          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "header2",
-          "_anchor": "header2-b2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#f90909",
-              "font-size": "48px",
-              "text-align": "center",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-section-text": {
-              "font-size": "25px",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title I": {
-              "font-size": "48px",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            ".btn": {
-              "font-size": "20px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
-            }
-          },
-          "_customCSS": "text-shadow: 5px 10px 10px black;"
+          "_name": "extHeader12",
+          "_anchor": "extHeader12-b3",
+          "_customCSS": "text-shadow: 2px 4px 15px grey;"
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "countdown": "07/04/2019",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -2409,7 +2387,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "RAFFLE DRAWING HELD IN",
+          "title": "RAFFLE DRAWING IN",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -2418,7 +2396,7 @@
           "_anchor": "extCountdown2-ap",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-size": "36px"
             }
           },
