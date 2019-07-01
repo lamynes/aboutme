@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#fdab30",
-        "#f29d1e",
         "#ea8d02",
         "#a5ddfa",
         "#f90909",
         "#303030",
-        "#9f9f9f"
+        "#9f9f9f",
+        "#2e2e2e",
+        "#353535"
       ]
     },
     "versionFirst": "3.12.1",
@@ -2328,9 +2328,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0"
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
