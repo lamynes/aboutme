@@ -2371,6 +2371,9 @@
             "P": {
               "font-size": "25px",
               "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "20px"
             }
           }
         },

@@ -1806,6 +1806,9 @@ section.form .container {
   font-size: 25px;
   color: #ffffff;
 }
+#extHeader12-b3 .btn {
+  font-size: 20px;
+}
 #extCountdown2-ap {
   text-shadow: 2px 4px 15px grey;
 }
