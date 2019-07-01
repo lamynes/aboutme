@@ -2320,8 +2320,8 @@
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
-            "bgText": "WIN A $7K ENGINE",
-            "bgTextStyle": "Montserrat",
+            "bgText": "VALUED OVER $7K",
+            "bgTextStyle": "Oswald",
             "bgTextColor": "#ffffff",
             "bgTextSize": "300",
             "bgVideoRadio": false,
@@ -2353,7 +2353,7 @@
               "size": 250
             }
           },
-          "title": "WIN a 4.6L Complete Engine for 1991-2006 fuel injected Jeeps",
+          "title": "WIN a 4.6L Jeep Stroker Engine with its 270hp and 300 ft lbs of torque",
           "text": "Buy a limited Raffle Ticket now for a chance to WIN our 4.6L Jeep Complete Engine for 1991-2006 fuel injected Jeeps",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BUY RAFFLE TICKET HERE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
