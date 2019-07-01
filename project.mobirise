@@ -2363,7 +2363,12 @@
           ],
           "_name": "extHeader12",
           "_anchor": "extHeader12-b3",
-          "_customCSS": "text-shadow: 2px 4px 15px grey;"
+          "_customCSS": "text-shadow: 2px 4px 15px grey;",
+          "_styles": {
+            "H3": {
+              "color": "#303030"
+            }
+          }
         },
         {
           "_params": {

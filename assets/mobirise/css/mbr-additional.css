@@ -1799,6 +1799,9 @@ section.form .container {
 #extHeader12-b3 {
   text-shadow: 2px 4px 15px grey;
 }
+#extHeader12-b3 H3 {
+  color: #303030;
+}
 #extCountdown2-ap {
   text-shadow: 2px 4px 15px grey;
 }
