@@ -2329,14 +2329,14 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
+            "overlayColor": "#ffffff",
             "overlayOpacity": "0"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/picture14-4-996x893.png",
+              "src": "@PROJECT_PATH@/assets/images/picture12-992x889.png",
               "link": "",
               "alt": "",
               "title": ""
