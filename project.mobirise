@@ -2316,7 +2316,7 @@
             "inverse": true,
             "imageSize": "44",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/image-3240-1025x769.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/e63f506e52fa9d05520dbcc4e2452e2b-tiltshift-1024x682-5-1024x682.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#cccccc",
