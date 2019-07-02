@@ -2316,7 +2316,7 @@
             "inverse": true,
             "imageSize": "44",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/e63f506e52fa9d05520dbcc4e2452e2b-tiltshift-1024x682-5-1024x682.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/customer-built-jeep-brute-pickup-truck-conversion-40-engine-wrangler-4x4-jk8-jk-4-tiltshift-640x480.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#cccccc",
@@ -2330,7 +2330,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
