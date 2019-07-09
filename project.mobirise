@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 400,
+    "uniqCompNum": 399,
     "versionPublish": "4.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1340,8 +1340,8 @@
             "bgColor": "#efefef",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/45haF_I_D2g?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=45haF_I_D2g",
+              "url": "https://www.youtube.com/embed/uwBOE4AVCVE?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/uwBOE4AVCVE",
               "width": 1280,
               "height": 720
             },
