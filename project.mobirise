@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "fun.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -299,8 +299,8 @@
             "bgColor": "#cccccc",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/Z6wL5rIBhRU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=Z6wL5rIBhRU",
+              "url": "https://www.youtube.com/embed/yLsKoVsd2AY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/yLsKoVsd2AY",
               "width": 1280,
               "height": 720
             },
@@ -308,7 +308,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-success\">FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary mbr-editable-button\">CONTACT</a>"
           },
           "media": {
             "image": {
