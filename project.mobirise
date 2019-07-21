@@ -59,7 +59,14 @@
       "counterBack": "#e25041",
       "checkoutButton": "Check out with",
       "email": "lamynes.pl@gmail.com"
-    }
+    },
+    "PWA": {
+      "enabled": true,
+      "name": "",
+      "icon": "@PROJECT_PATH@/assets/images/s-l300-1-300x189-512x512_1.png",
+      "themeColor": "#303030"
+    },
+    "pwa-switcher": "on"
   },
   "pages": {
     "index.html": {
