@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 399,
+    "uniqCompNum": 401,
     "versionPublish": "4.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2442,40 +2442,45 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "countdown": "07/30/2019",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
             "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/c4HyKnScyw0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=c4HyKnScyw0",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": false,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
-          "title": "RAFFLE DRAWING IN",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extCountdown2",
-          "_anchor": "extCountdown2-ap",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-size": "36px"
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/golen-141x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
             }
           },
-          "_customCSS": "text-shadow: 2px 4px 15px grey;"
+          "text1": "<strong>Address</strong><br>17 Dracut Rd\n<br>Hudson, NH 03051<br>",
+          "text2": "<strong>Contacts</strong><br>Local: <a href=\"tel:603-239-3667\" class=\"text-info\">603-239-3667</a> | for Sales: Ext. #1 | for Tech: Ext. #2<br>",
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-info\" href=\"https://golenengineservice.com/jeep-engines/\" target=\"_blank\">Jeep Engines</a><br><a href=\"https://golenengineservice.com/jeep-build-gallery/\" target=\"_blank\" class=\"text-info\">Jeep Build</a><br>\n<a class=\"text-info\" href=\"https://golenengineservice.com/jeep-technical-instructions/\" target=\"_blank\">Jeep Tech</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-b4",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
