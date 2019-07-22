@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "jeep-custom.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -42,7 +42,7 @@
     "siteUrl": "https://lamynes.github.io/aboutme/",
     "firebaseSnippet": "<script src=\"https://www.gstatic.com/firebasejs/5.5.4/firebase.js\"></script>\r\n<script>\r\n  // Initialize Firebase\r\n  var config = {\r\n    apiKey: \"AIzaSyAspVKBmeLQuEZ4f4HTssIszdlNJwTRFAE\",\r\n    authDomain: \"golen-blog.firebaseapp.com\",\r\n    databaseURL: \"https://golen-blog.firebaseio.com\",\r\n    projectId: \"golen-blog\",\r\n    storageBucket: \"golen-blog.appspot.com\",\r\n    messagingSenderId: \"308818758160\"\r\n  };\r\n  firebase.initializeApp(config);\r\n</script>",
     "siteFonts": [],
-    "gdpr": "",
+    "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
@@ -66,7 +66,16 @@
       "icon": "@PROJECT_PATH@/assets/images/s-l300-1-300x189-512x512_1.png",
       "themeColor": "#303030"
     },
-    "pwa-switcher": "on"
+    "pwa-switcher": "on",
+    "customCookies": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    }
   },
   "pages": {
     "index.html": {
@@ -315,7 +324,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary mbr-editable-button\">CONTACT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">BUY RAFFLE TICKET HERE</a>"
           },
           "media": {
             "image": {
@@ -2364,13 +2373,13 @@
             "inverse": true,
             "imageSize": "44",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/e63f506e52fa9d05520dbcc4e2452e2b-tiltshift-1-1024x682.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#cccccc",
+            "bgColor": "#ffffff",
             "bgText": "VALUED OVER $7K",
             "bgTextStyle": "Oswald",
-            "bgTextColor": "#efefef",
+            "bgTextColor": "#ffffff",
             "bgTextSize": "300",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -2378,7 +2387,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0"
+            "overlayOpacity": "0.9"
           },
           "media": {
             "image": {
@@ -2401,9 +2410,9 @@
               "size": 250
             }
           },
-          "title": "WIN a 4.6L Jeep Stroker Engine with 270hp and 300 ft lbs of torque!",
+          "title": "<i>WIN a 4.6L Jeep Stroker Engine with 270hp and 300 ft lbs of torque!</i>",
           "text": "Buy a limited Raffle Ticket now for a chance to WIN our 4.6L Jeep Complete Engine for 1991-2006 fuel injected Jeeps",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"https://golenengineservice.com\" target=\"_blank\">BUY RAFFLE TICKET HERE</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" href=\"https://golenengineservice.com\" target=\"_blank\">BUY RAFFLE TICKET HERE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -2411,24 +2420,30 @@
           ],
           "_name": "extHeader12",
           "_anchor": "extHeader12-b3",
-          "_customCSS": "text-shadow: 2px 15px 15px black;",
+          "_customCSS": "text-shadow: 2px 10px 15px black;",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#faaf40",
+              "font-size": "36px"
             },
             "P": {
               "font-size": "25px",
-              "color": "#ffffff"
+              "color": "#353535"
             },
             ".btn": {
               "font-size": "20px"
+            },
+            "I": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "48px"
             }
           }
         },
         {
           "_params": {
             "showTitle": true,
-            "countdown": "07/04/2019",
+            "countdown": "07/30/2019",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
