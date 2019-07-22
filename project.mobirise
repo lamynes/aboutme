@@ -9,7 +9,7 @@
         "primaryColor": "#303030",
         "secondaryColor": "#faaf40",
         "successColor": "#353535",
-        "infoColor": "#e25041",
+        "infoColor": "#ea8d02",
         "warningColor": "#000000",
         "dangerColor": "#353535",
         "titleFont": "Oswald",
@@ -2424,7 +2424,7 @@
           "_styles": {
             "H3": {
               "color": "#faaf40",
-              "font-size": "46px"
+              "font-size": "48px"
             },
             "P": {
               "font-size": "25px",
@@ -2478,7 +2478,8 @@
           "_anchor": "contacts1-b4",
           "_styles": {
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "20px"
             }
           }
         }
