@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "blog.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -414,7 +414,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">CONTACT</a>"
           },
           "media": {
             "image": {
@@ -1053,7 +1053,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.1"
           },
           "title": "<span style=\"font-weight: normal;\">BLOG POSTS</span>",
           "text": "<p>Article header with background image and parallax effect.</p>",
@@ -2740,7 +2740,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
@@ -2777,7 +2777,7 @@
             },
             ".mbr-section-title": {
               "font-size": "72px",
-              "color": "#000000",
+              "color": "#a5ddfa",
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
@@ -2813,7 +2813,7 @@
               "color": "#303030"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             }
           },
           "_params": {
@@ -2822,7 +2822,7 @@
             "paddingBottom": 1,
             "bgColor": "#0e0e0e"
           },
-          "title": "<span style=\"font-weight: normal;\">ENGINE REBUILD BY</span><br>",
+          "title": "ENGINE REBUILD BY<br>",
           "meta": "<a href=\"https://golenengineservice.com/\" target=\"_blank\" class=\"text-info\">GOLEN HIGH PERFORMANCE ENGINES</a>",
           "_tags": [
             "Theme"
