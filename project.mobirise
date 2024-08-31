@@ -371,12 +371,12 @@
             "bgColor": "#0e0e0e",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://lamynes.github.io/aboutme/",
-              "rawUrl": "https://lamynes.github.io/aboutme/",
+              "url": "https://www.youtube.com/embed/fQIkZLJKObg?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=fQIkZLJKObg",
               "width": 1280,
               "height": 720
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1"
           },
