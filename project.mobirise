@@ -371,12 +371,12 @@
             "bgColor": "#0e0e0e",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/fQIkZLJKObg?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=fQIkZLJKObg",
+              "url": "https://lamynes.github.io/aboutme/",
+              "rawUrl": "https://lamynes.github.io/aboutme/",
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1"
           },
@@ -468,8 +468,8 @@
             "bgTextSize": "300",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/noIOjMHSfHA?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=noIOjMHSfHA",
+              "url": "https://www.youtube.com/embed/-E3ANWCBudU?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/-E3ANWCBudU",
               "width": 1280,
               "height": 720
             },
