@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "c5-rebuild.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -534,7 +534,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">CONTACT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
           },
           "media": {
             "image": {
@@ -2843,7 +2843,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "showArrow": false,
             "imageSize": "70",
             "bgImageRadio": true,
@@ -2859,8 +2859,8 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0"
           },
           "media": {
             "image": {
@@ -2893,7 +2893,7 @@
           "_styles": {
             ".mbr-section-text": {
               "font-size": "60px",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
               "font-size": "72px",
@@ -2943,7 +2943,7 @@
             "bgColor": "#0e0e0e"
           },
           "title": "ENGINE REBUILD BY<br>",
-          "meta": "<a href=\"https://golenengineservice.com/\" target=\"_blank\" class=\"text-info\">GOLEN HIGH PERFORMANCE ENGINES</a>",
+          "meta": "<a href=\"https://golenengineservice.com/\" target=\"_blank\" class=\"text-danger\">GOLEN HIGH PERFORMANCE ENGINES</a>",
           "_tags": [
             "Theme"
           ],
