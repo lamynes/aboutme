@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "jeep-custom.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,28 +21,26 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#232323",
+        "#0e0e0e",
         "#ea8d02",
         "#a5ddfa",
         "#f90909",
         "#303030",
-        "#9f9f9f",
-        "#2e2e2e",
-        "#353535"
+        "#9f9f9f"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 401,
-    "versionPublish": "4.10.5",
+    "uniqCompNum": 403,
+    "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": false,
     "noImageResize": "",
-    "cookiesAlert": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126637041-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-126637041-1');\r\n</script>",
     "siteUrl": "https://lamynes.github.io/aboutme/",
     "firebaseSnippet": "<script src=\"https://www.gstatic.com/firebasejs/5.5.4/firebase.js\"></script>\r\n<script>\r\n  // Initialize Firebase\r\n  var config = {\r\n    apiKey: \"AIzaSyAspVKBmeLQuEZ4f4HTssIszdlNJwTRFAE\",\r\n    authDomain: \"golen-blog.firebaseapp.com\",\r\n    databaseURL: \"https://golen-blog.firebaseio.com\",\r\n    projectId: \"golen-blog\",\r\n    storageBucket: \"golen-blog.appspot.com\",\r\n    messagingSenderId: \"308818758160\"\r\n  };\r\n  firebase.initializeApp(config);\r\n</script>",
     "siteFonts": [],
-    "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
@@ -67,15 +65,11 @@
       "themeColor": "#303030"
     },
     "pwa-switcher": "on",
-    "customCookies": {
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "#ffffff",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
-    }
+    "imageResize": true,
+    "mbrsiteDomain": "y8svlpjgjq",
+    "cookiesAlert": false,
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -92,12 +86,12 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
               "name": "Oswald",
@@ -107,7 +101,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -142,13 +136,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -175,11 +169,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -187,10 +182,11 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-8e",
-          "_customCSS": "text-shadow: 2px 2px 5px grey;"
+          "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_tags": [
@@ -202,10 +198,10 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": false,
+            "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/download-4-1440x900.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -216,30 +212,79 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.4"
           },
           "title": "<span style=\"font-weight: normal;\">MODERN &amp; MOBILE READY</span>",
           "text": "BEAUTIFUL WEBSITES FOR ALL DEVICES",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extForm1-79\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\">BLOG</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#extForm1-79\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\">BLOG</a>",
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n.mbr-section-title {\n  color: #efefef;\n  font-size: 60px;\n  text-align: center;\n}\n.mbr-section-lead {\n  text-align: center;\n  font-size: 36px;\n  color: #efefef;\n}\n.mbr-section-title SPAN {\n  font-size: 60px;\n  font-family: 'Oswald', sans-serif;\n  color: #f90909;\n}\n.mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}\n#logos {\n  position:absolute;  top: 0px;  left: 150px;  -webkit-perspective: 200px;\n   perspective: 200px; \n}\n#cube {\n  display: block;  position: relative;  margin: 40px auto;\n  height: 50px;  width: 50px;\n  -webkit-transform-style: preserve-3d;\n  -webkit-transform:  rotateY(2deg);\n  transform-style: preserve-3d;\n  transform:  rotateY(2deg);\n\n}\n#front {\n  position: absolute;  height: 150px;  width: 150px;\n  -webkit-backface-visibility: visible;\n  -webkit-transform:  translateZ(100px);\n  backface-visibility: visible;\n  transform:  translateZ(100px);\n}\n#back {\n  position: absolute;  height: 150px;  width: 150px;\n  -webkit-backface-visibility: visible;\n  -webkit-transform:  rotateY(180deg) translateZ(100px);\n  backface-visibility: visible;\n  transform: rotateY(180deg) translateZ(100px);\n}\n#cube {\n  -webkit-animation: upyourscache1554171966417 5s infinite linear;\n  animation: upyourscache1554171966417 5s infinite linear;\n\n}\n@-webkit-keyframes upyourscache1554171966417 {\n  0% { -webkit-transform: rotateX(0) rotateY(0) rotateZ(0) ;}\n  100% { -webkit-transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg) ;}\n}\n@keyframes upyourscache1554171966417 {\n  0% { transform: rotateX(0) rotateY(0) rotateZ(0) ;}\n  100% { transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg) ;}\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"59\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/download-4-1440x900.png&quot;);\">\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"47\"><span style=\"font-weight: normal;\">MODERN &amp; MOBILE READY</span></h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"48\">BEAUTIFUL WEBSITES FOR ALL DEVICES</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"index.html#extForm1-79\" code-editable-id=\"49\">CONTACT</a> <a class=\"btn btn-lg btn-white btn-white-outline mbr-editable-button\" href=\"blog.html\" code-editable-id=\"50\">BLOG</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"59\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/download-4-1440x900.png&quot;);\">\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"9\"><span style=\"font-weight: normal;\">MODERN &amp; MOBILE READY</span></h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"10\">BEAUTIFUL WEBSITES FOR ALL DEVICES</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"index.html#extForm1-79\" code-editable-id=\"11\">CONTACT</a> <a class=\"btn btn-lg btn-white btn-white-outline mbr-editable-button\" href=\"blog.html\" code-editable-id=\"12\">BLOG</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_sourceTheme": "mobirise3",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "36px",
+              "color": "#a5ddfa"
+            },
+            ".btn": {
+              "font-size": "46px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "84px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "countdown": "2024/12/31",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#0e0e0e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "END OF YEAR COUNTDOWN",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCountdown1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "extCountdown1-b5",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#cccccc"
+            }
+          }
         },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": "3",
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#0e0e0e"
           },
           "title": "<span style=\"font-weight: normal;\">CURRENT PROJECTS</span>",
           "meta": "<i>LAMYNES.PL</i>",
@@ -252,14 +297,15 @@
           "_customTemplate": true,
           "_anchor": "header3-ab",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
             "showText": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#0e0e0e"
           },
           "media": {
             "image": {
@@ -278,7 +324,51 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-af"
+          "_anchor": "image2-af",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#0e0e0e",
+            "bgText": "LAMYNESPL",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#a5ddfa",
+            "bgTextSize": "300",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "MODERN WEBSITE DESIGN",
+          "text": "Each site is unique to the Customer's Brand",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"tel:972-768-1227\" data-toolbar=\"-mbrBtnMove\">972-768-1227</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "extMsg-box4-b6",
+          "_styles": {
+            "P": {
+              "font-size": "36px"
+            },
+            ".btn": {
+              "font-size": "30px"
+            }
+          }
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -311,9 +401,9 @@
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/z06-wireframeao-1-1600x900.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": true,
+            "bgColorRadio": true,
+            "bgColor": "#0e0e0e",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/yLsKoVsd2AY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://youtu.be/yLsKoVsd2AY",
@@ -324,16 +414,17 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">BUY RAFFLE TICKET HERE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "media": {
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/ls-2-674x638.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "size": 0,
@@ -397,7 +488,8 @@
             }
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>",
-          "_customCSS": "h2 {\n    text-shadow: 0 0 20px red;\n}"
+          "_customCSS": "h2 {\n    text-shadow: 0 0 20px red;\n}",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -407,7 +499,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#0e0e0e",
             "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
@@ -424,11 +516,12 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#efefef"
             }
           },
           "_customCSS": "text-shadow: 0 0 20px #000000;",
-          "_anchor": "social-buttons1-a8"
+          "_anchor": "social-buttons1-a8",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -439,6 +532,112 @@
         "order": 11
       },
       "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#efefef",
+            "fontSize": "1.6",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.733rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#303030!important"
+            },
+            "A": {
+              "font-size": "12px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".btn": {
+              "font-size": "30px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-74",
+          "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_sourceTheme": "mobirise3"
+        },
         {
           "_styles": {
             ".mbr-section-title, p": {
@@ -457,10 +656,10 @@
             "showTitle": true,
             "showText": false,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2015-chevrolet-corvette-stingray-z51-top-wallpaper-1600x1042.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -479,7 +678,8 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-71"
+          "_anchor": "msg-box8-71",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -516,7 +716,8 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-72"
+          "_anchor": "header3-72",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -541,11 +742,11 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgColor": "#0e0e0e",
             "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
@@ -562,21 +763,31 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#efefef"
             }
           },
-          "_anchor": "social-buttons1-6n"
-        },
+          "_anchor": "social-buttons1-6n",
+          "_sourceTheme": "mobirise3"
+        }
+      ]
+    },
+    "admin.html": {
+      "settings": {
+        "meta_descr": "Login to manage blog posts.",
+        "title": "admin",
+        "order": 10
+      },
+      "components": [
         {
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
               "name": "Oswald",
@@ -586,7 +797,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -654,11 +865,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -666,20 +878,12 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-74",
-          "_customCSS": "text-shadow: 2px 2px 5px grey;"
-        }
-      ]
-    },
-    "admin.html": {
-      "settings": {
-        "meta_descr": "Login to manage blog posts.",
-        "title": "admin",
-        "order": 10
-      },
-      "components": [
+          "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_sourceTheme": "mobirise3"
+        },
         {
           "_params": {
             "showFacebookLogin": false,
@@ -700,110 +904,6 @@
           ],
           "_name": "firebase-admin-block",
           "_anchor": "firebase-admin-block-6o"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "1.6",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "20px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.6rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.733rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#303030!important"
-            },
-            "A": {
-              "font-size": "12px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".btn": {
-              "font-size": "30px"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
-              "height": 128,
-              "alt": "",
-              "link": "index.html",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-74",
-          "_customCSS": "text-shadow: 2px 2px 5px grey;"
         }
       ]
     },
@@ -818,12 +918,12 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
               "name": "Oswald",
@@ -833,7 +933,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -901,11 +1001,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -913,10 +1014,11 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-8e",
-          "_customCSS": "text-shadow: 2px 2px 5px grey;"
+          "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -925,7 +1027,7 @@
             },
             ".mbr-section-title": {
               "text-align": "left",
-              "color": "#90a878",
+              "color": "#000000",
               "font-size": "60px"
             },
             ".mbr-section-title SPAN": {
@@ -936,10 +1038,10 @@
             "showTitle": true,
             "showText": false,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2015-chevrolet-corvette-stingray-z51-top-wallpaper-1600x1042.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-6668780e-4d6d-44e0-a20f-bcb12e7b756b-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -948,7 +1050,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
+            "overlayColor": "#ffffff",
             "overlayOpacity": "0.3"
           },
           "title": "<span style=\"font-weight: normal;\">BLOG POSTS</span>",
@@ -958,7 +1060,8 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-70"
+          "_anchor": "msg-box8-70",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -1005,11 +1108,11 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgColor": "#0e0e0e",
             "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
@@ -1026,10 +1129,11 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#efefef"
             }
           },
-          "_anchor": "social-buttons1-6w"
+          "_anchor": "social-buttons1-6w",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -1044,12 +1148,12 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
               "name": "Oswald",
@@ -1059,7 +1163,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1074,13 +1178,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#efefef",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -1094,16 +1198,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#060606!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#0e0e0e"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1127,11 +1231,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1139,10 +1244,11 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-7t",
-          "_customCSS": "text-shadow: 2px 2px 5px grey;"
+          "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -1289,14 +1395,15 @@
             "I": {
               "color": "#ea8d02"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
             "showText": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#0e0e0e"
           },
           "media": {
             "image": {
@@ -1317,21 +1424,8 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-9l"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<div>\n<iframe src=\"https://letschangetheplanet.com\" width=\"100%\" height=\"400\"></iframe>\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 50px 0;\n  color: #777;\n  text-align: center;\n}\n",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-b1",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_anchor": "image2-9l",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "header1",
@@ -1372,7 +1466,8 @@
             "Theme"
           ],
           "_name": "header5",
-          "_anchor": "header5-b3"
+          "_anchor": "header5-b3",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -1391,7 +1486,7 @@
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#0e0e0e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1435,11 +1530,12 @@
           "_anchor": "extMsg-box3-ai",
           "_styles": {
             "SPAN": {
-              "color": "#000000",
+              "color": "#efefef",
               "font-size": "48px"
             }
           },
-          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}"
+          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -1449,7 +1545,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#0e0e0e",
             "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
@@ -1466,13 +1562,14 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#efefef",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_customCSS": "",
-          "_anchor": "social-buttons1-9i"
+          "_anchor": "social-buttons1-9i",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -1489,12 +1586,12 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
               "name": "Oswald",
@@ -1504,7 +1601,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1572,11 +1669,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1584,10 +1682,11 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-8e",
-          "_customCSS": "text-shadow: 2px 2px 5px grey;"
+          "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "msg-box5",
@@ -1628,7 +1727,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.3"
           },
@@ -1661,7 +1760,8 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9f",
-          "_customCSS": "text-shadow: 2px 2px 15px black;\n\np{\n    text-shadow: 2px 2px 15px black;\n}"
+          "_customCSS": "text-shadow: 2px 2px 15px black;\n\np{\n    text-shadow: 2px 2px 15px black;\n}",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -1692,7 +1792,8 @@
             }
           },
           "_customCSS": "",
-          "_anchor": "social-buttons1-96"
+          "_anchor": "social-buttons1-96",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -1709,12 +1810,12 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
               "name": "Oswald",
@@ -1724,7 +1825,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1792,11 +1893,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1804,10 +1906,11 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-8e",
-          "_customCSS": "text-shadow: 2px 2px 5px grey;"
+          "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "msg-box5",
@@ -1882,7 +1985,8 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9a",
-          "_customCSS": "text-shadow: 2px 5px 15px black;\np{\n    text-shadow: 2px 5px 15px black;\n}"
+          "_customCSS": "text-shadow: 2px 5px 15px black;\np{\n    text-shadow: 2px 5px 15px black;\n}",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -1913,7 +2017,8 @@
             }
           },
           "_customCSS": "",
-          "_anchor": "social-buttons1-96"
+          "_anchor": "social-buttons1-96",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -1924,6 +2029,112 @@
         "order": 8
       },
       "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#efefef",
+            "fontSize": "1.6",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.733rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#303030!important"
+            },
+            "A": {
+              "font-size": "12px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".btn": {
+              "font-size": "30px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8h",
+          "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_sourceTheme": "mobirise3"
+        },
         {
           "_inherit": "msg-box5",
           "_styles": {
@@ -1996,18 +2207,60 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9b",
-          "_customCSS": "text-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}"
+          "_customCSS": "text-shadow: 2px 2px 5px black;\n\np{\n    text-shadow: 2px 2px 5px black;\n}",
+          "_sourceTheme": "mobirise3"
         },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.1",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "social-buttons1-8y",
+          "_customCSS": "",
+          "_sourceTheme": "mobirise3"
+        }
+      ]
+    },
+    "c7-corvette-custom.html": {
+      "settings": {
+        "meta_descr": "C7 Corvette Custom",
+        "title": "C7 Corvette Custom",
+        "order": 6
+      },
+      "components": [
         {
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
               "name": "Oswald",
@@ -2017,7 +2270,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2085,11 +2338,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2097,51 +2351,12 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-8h",
-          "_customCSS": "text-shadow: 2px 2px 5px grey;"
+          "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_sourceTheme": "mobirise3"
         },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": false,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.1",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "SHARE THIS PAGE!",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "social-buttons1-8y",
-          "_customCSS": ""
-        }
-      ]
-    },
-    "c7-corvette-custom.html": {
-      "settings": {
-        "meta_descr": "C7 Corvette Custom",
-        "title": "C7 Corvette Custom",
-        "order": 6
-      },
-      "components": [
         {
           "_inherit": "msg-box5",
           "_styles": {
@@ -2216,111 +2431,8 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-9b",
-          "_customCSS": "text-shadow: 2px 2px 5px #000000;\n\np{\n    text-shadow: 2px 2px 5px black;\n}"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "1.6",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "20px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.6rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.733rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#303030!important"
-            },
-            "A": {
-              "font-size": "12px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".btn": {
-              "font-size": "30px"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
-              "height": 128,
-              "alt": "",
-              "link": "index.html",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-8h",
-          "_customCSS": "text-shadow: 2px 2px 5px grey;"
+          "_customCSS": "text-shadow: 2px 2px 5px #000000;\n\np{\n    text-shadow: 2px 2px 5px black;\n}",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -2351,7 +2463,8 @@
             }
           },
           "_anchor": "social-buttons1-8y",
-          "_customCSS": ""
+          "_customCSS": "",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -2368,7 +2481,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true,
             "inverse": true,
             "imageSize": "44",
@@ -2438,7 +2551,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "48px"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -2481,7 +2595,8 @@
               "color": "#000000",
               "font-size": "20px"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -2498,12 +2613,12 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
               "name": "Oswald",
@@ -2513,7 +2628,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2581,11 +2696,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-l300-1-300x189.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2593,10 +2709,11 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-8e",
-          "_customCSS": "text-shadow: 2px 2px 5px grey;"
+          "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -2605,9 +2722,9 @@
             "showButtons": false,
             "inverse": true,
             "showArrow": false,
-            "imageSize": "46",
+            "imageSize": "70",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/17797-american-flag-close-up-pv-958x639.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-beb13e9f-ce95-446a-b5a9-8e04c80f779f-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -2619,8 +2736,8 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.1"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -2652,11 +2769,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-text": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "color": "#000000"
             },
             ".mbr-section-title": {
               "font-size": "72px",
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
@@ -2676,7 +2794,8 @@
             }
           },
           "_customCSS": "text-shadow: 2px 10px 15px black;\n.mbr-figure{\n    box-shadow: 10px 10px 15px black;\n}\n\n",
-          "_anchor": "header2-a2"
+          "_anchor": "header2-a2",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -2689,13 +2808,16 @@
             },
             ".mbr-section-title SPAN": {
               "color": "#303030"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#0e0e0e"
           },
           "title": "<span style=\"font-weight: normal;\">ENGINE REBUILD BY</span><br>",
           "meta": "<a href=\"https://golenengineservice.com/\" target=\"_blank\" class=\"text-info\">GOLEN HIGH PERFORMANCE ENGINES</a>",
@@ -2703,14 +2825,15 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-ak"
+          "_anchor": "header3-ak",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
             "showText": false,
             "paddingTop": 4,
             "paddingBottom": 4,
-            "bgColor": "#fff"
+            "bgColor": "#0e0e0e"
           },
           "media": {
             "image": {
@@ -2730,7 +2853,8 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-aj"
+          "_anchor": "image2-aj",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -2740,7 +2864,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#0e0e0e",
             "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
@@ -2757,11 +2881,12 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_customCSS": "",
-          "_anchor": "social-buttons1-a3"
+          "_anchor": "social-buttons1-a3",
+          "_sourceTheme": "mobirise3"
         }
       ]
     }
