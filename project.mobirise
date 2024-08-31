@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -736,7 +736,8 @@
             "Extension"
           ],
           "_name": "firebase-article-block",
-          "_anchor": "firebase-article-block-6g"
+          "_anchor": "firebase-article-block-6g",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -903,7 +904,8 @@
             "Extension"
           ],
           "_name": "firebase-admin-block",
-          "_anchor": "firebase-admin-block-6o"
+          "_anchor": "firebase-admin-block-6o",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -1102,7 +1104,8 @@
               "color": "#cccccc"
             }
           },
-          "_anchor": "firebase-blog-list-block-6t"
+          "_anchor": "firebase-blog-list-block-6t",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {

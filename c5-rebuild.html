@@ -17,12 +17,13 @@
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/animatecss/animate.min.css">
+  <link rel="stylesheet" href="assets/shopping-cart/minicart-theme.css">
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Oswald:400,300,700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:400,300,700&display=swap"></noscript>
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=w22yK8"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=w22yK8" type="text/css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=DARNXD"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=DARNXD" type="text/css">
 
   
   
@@ -41,7 +42,21 @@ function clickCounter() {
 }
 </script>
 </head>
-<body>
+
+<script src="https://www.gstatic.com/firebasejs/5.5.4/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyAspVKBmeLQuEZ4f4HTssIszdlNJwTRFAE",
+    authDomain: "golen-blog.firebaseapp.com",
+    databaseURL: "https://golen-blog.firebaseio.com",
+    projectId: "golen-blog",
+    storageBucket: "golen-blog.appspot.com",
+    messagingSenderId: "308818758160"
+  };
+  firebase.initializeApp(config);
+</script>
+  <body>
 
 <!-- Analytics -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -57,7 +72,7 @@ function clickCounter() {
 
 
   
-  <section id="ext_menu-8e" data-rv-view="95">
+  <section id="ext_menu-8e" data-rv-view="123">
 
     <nav class="navbar navbar-dropdown bg-color transparent navbar-fixed-top">
         <div class="container">
@@ -90,7 +105,7 @@ function clickCounter() {
 
 </section>
 
-<section class="mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar" id="header2-a2" data-rv-view="97" style="background-image: url(assets/images/-beb13e9f-ce95-446a-b5a9-8e04c80f779f-1024x1024.jpg);">
+<section class="mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar" id="header2-a2" data-rv-view="125" style="background-image: url(assets/images/-beb13e9f-ce95-446a-b5a9-8e04c80f779f-1024x1024.jpg);">
 
     <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(255, 255, 255);">
     </div>
@@ -131,7 +146,7 @@ function clickCounter() {
 
 </section>
 
-<section class="mbr-section mbr-section__container article" id="header3-ak" data-rv-view="100" style="background-color: rgb(14, 14, 14); padding-top: 20px; padding-bottom: 20px;">
+<section class="mbr-section mbr-section__container article" id="header3-ak" data-rv-view="128" style="background-color: rgb(14, 14, 14); padding-top: 20px; padding-bottom: 20px;">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
@@ -142,7 +157,7 @@ function clickCounter() {
     </div>
 </section>
 
-<section class="mbr-section mbr-section__container" id="image2-aj" data-rv-view="102" style="background-color: rgb(14, 14, 14); padding-top: 80px; padding-bottom: 80px;">
+<section class="mbr-section mbr-section__container" id="image2-aj" data-rv-view="130" style="background-color: rgb(14, 14, 14); padding-top: 80px; padding-bottom: 80px;">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
@@ -157,7 +172,7 @@ function clickCounter() {
     </div>
 </section>
 
-<section class="mbr-section mbr-section-md-padding" id="social-buttons1-a3" data-rv-view="104" style="background-color: rgb(14, 14, 14); padding-top: 30px; padding-bottom: 30px;">
+<section class="mbr-section mbr-section-md-padding" id="social-buttons1-a3" data-rv-view="132" style="background-color: rgb(14, 14, 14); padding-top: 30px; padding-bottom: 30px;">
     
     <div class="container">
         <div class="row">
@@ -191,7 +206,9 @@ function clickCounter() {
   <script src="assets/web/assets/bootstrap4-migrate/bootstrap.min.js"></script>
   <script src="assets/smooth-scroll/smooth-scroll.js"></script>
   <script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
-  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/firebase-blocks-plugin/firebase-plugin.js"></script>
+  <script src="https://cdn.ckeditor.com/4.7.2/standard/ckeditor.js"></script>
+        <script src="assets/dropdown/js/script.min.js"></script>
   <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
   <script src="assets/jarallax/jarallax.js"></script>
   <script src="assets/social-likes/social-likes.js"></script>
