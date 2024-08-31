@@ -360,7 +360,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "countdown": "2024/12/31",
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -371,14 +371,14 @@
             "bgColor": "#0e0e0e",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/9MJ-ZCyf2xo?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/9MJ-ZCyf2xo",
+              "url": "https://www.youtube.com/embed/fQIkZLJKObg?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=fQIkZLJKObg",
               "width": 1280,
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
           },
           "title": "2024 END OF YEAR COUNTDOWN",
           "alias": "mobirise3-blocks/components",
@@ -390,7 +390,7 @@
           "_anchor": "extCountdown1-b5",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#cccccc"
+              "color": "#ffffff"
             }
           }
         },
