@@ -378,7 +378,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.1"
           },
           "title": "2024 END OF YEAR COUNTDOWN",
           "alias": "mobirise3-blocks/components",
@@ -460,19 +460,22 @@
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#0e0e0e",
             "bgText": "LAMYNESPL",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#a5ddfa",
             "bgTextSize": "300",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/Z6wL5rIBhRU?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=Z6wL5rIBhRU",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.1
+            "overlayOpacity": "0.2"
           },
           "title": "MODERN WEBSITE DESIGN",
           "text": "Each site is unique to the Customer's Brand",
