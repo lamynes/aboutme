@@ -66,7 +66,7 @@
     },
     "pwa-switcher": "on",
     "imageResize": true,
-    "mbrsiteDomain": "q1w9chpedl",
+    "mbrsiteDomain": "rk5hpfccnl",
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true
@@ -79,8 +79,7 @@
         "meta_descr": "Web Designer / Software Engineer / Car Enthusiast",
         "header_custom": "<script>\nfunction clickCounter() {\n    if(typeof(Storage) !== \"undefined\") {\n        if (localStorage.clickcount) {\n            localStorage.clickcount = Number(localStorage.clickcount)+1;\n        } else {\n            localStorage.clickcount = 1;\n        }\n        document.getElementById(\"test\").value= localStorage.clickcount;\n    } else {\n        document.getElementById(\"result\").innerHTML = \"Sorry, your browser does not support web storage...\";\n    }\n}\n</script>",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg"
+        "html_before": ""
       },
       "components": [
         {
@@ -213,7 +212,7 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1"
           },
@@ -246,8 +245,8 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -264,7 +263,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2024-08-30-212426-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/newarc-ai-gr-qicvlsqo2ylnlfgqzsihyfpehclps5y5-removebg-preview-600x393.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -275,7 +274,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2024-08-30-212450-600x342.jpg",
+              "src": "@PROJECT_PATH@/assets/images/inniovative-auto-detail-removebg-preview-copy-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -286,7 +285,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2024-08-30-212509-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm-w-1-min-600x535.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -297,7 +296,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2024-08-30-212555-600x339.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logoshadow-372x128-81-2-3-600x206.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -308,7 +307,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2024-08-30-212614-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/278606874-102288189137099-949451906700332832-n-2-removebg-preview-600x331.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -319,7 +318,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2024-08-30-212643-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/roush-asphalt-1-7-600x412.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -363,8 +362,8 @@
           "_params": {
             "showTitle": true,
             "countdown": "2024/12/31",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
             "parallax": false,
@@ -378,7 +377,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "END OF YEAR COUNTDOWN",
+          "title": "2024 END OF YEAR COUNTDOWN",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -1172,7 +1171,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.1"
           },
@@ -2859,7 +2858,7 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0"
           },
