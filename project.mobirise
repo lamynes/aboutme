@@ -376,7 +376,7 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1"
           },
@@ -468,8 +468,8 @@
             "bgTextSize": "300",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/Z6wL5rIBhRU?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=Z6wL5rIBhRU",
+              "url": "https://www.youtube.com/embed/aySJ1Un-yRw?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=aySJ1Un-yRw",
               "width": 1280,
               "height": 720
             },
