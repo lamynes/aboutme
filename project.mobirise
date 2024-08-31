@@ -246,8 +246,8 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -264,7 +264,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/newarc-ai-gr-qicvlsqo2ylnlfgqzsihyfpehclps5y5-removebg-preview-600x393.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2024-08-30-212426-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -275,7 +275,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/inniovative-auto-detail-removebg-preview-copy-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2024-08-30-212450-600x342.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -286,7 +286,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm-w-1-min-600x535.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2024-08-30-212509-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -297,7 +297,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logoshadow-372x128-81-2-3-600x206.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2024-08-30-212555-600x339.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -308,7 +308,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/278606874-102288189137099-949451906700332832-n-2-removebg-preview-600x331.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2024-08-30-212614-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -319,7 +319,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-asphalt-1-7-600x412.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2024-08-30-212643-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
