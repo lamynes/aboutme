@@ -468,8 +468,8 @@
             "bgTextSize": "300",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/-E3ANWCBudU?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/-E3ANWCBudU",
+              "url": "https://www.youtube.com/embed/RdAZiGosi_E?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/RdAZiGosi_E",
               "width": 1280,
               "height": 720
             },
