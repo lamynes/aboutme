@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "blog.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -66,7 +66,7 @@
     },
     "pwa-switcher": "on",
     "imageResize": true,
-    "mbrsiteDomain": "8nhvw9cohd",
+    "mbrsiteDomain": "q1w9chpedl",
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true
@@ -79,7 +79,8 @@
         "meta_descr": "Web Designer / Software Engineer / Car Enthusiast",
         "header_custom": "<script>\nfunction clickCounter() {\n    if(typeof(Storage) !== \"undefined\") {\n        if (localStorage.clickcount) {\n            localStorage.clickcount = Number(localStorage.clickcount)+1;\n        } else {\n            localStorage.clickcount = 1;\n        }\n        document.getElementById(\"test\").value= localStorage.clickcount;\n    } else {\n        document.getElementById(\"result\").innerHTML = \"Sorry, your browser does not support web storage...\";\n    }\n}\n</script>",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg"
       },
       "components": [
         {
@@ -534,7 +535,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">CONTACT</a>"
           },
           "media": {
             "image": {
