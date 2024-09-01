@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "fun.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#56cdf4",
         "#0c0c0c",
         "#232323",
         "#0e0e0e",
         "#ea8d02",
         "#a5ddfa",
-        "#f90909",
-        "#303030"
+        "#f90909"
       ]
     },
     "versionFirst": "3.12.1",
@@ -228,7 +228,7 @@
           "_styles": {
             ".mbr-section-lead": {
               "font-size": "36px",
-              "color": "#a5ddfa"
+              "color": "#56cdf4"
             },
             ".btn": {
               "font-size": "46px"
@@ -1288,6 +1288,9 @@
           "_styles": {
             ".btn": {
               "font-size": "48px"
+            },
+            ".mbr-section-title": {
+              "color": "#56cdf4"
             }
           }
         },
@@ -1539,7 +1542,7 @@
             "animText3": "NEW APP",
             "typeSpeed": "80",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-f78f18ff-bd0e-43d4-97ee-50aa77b02d56-1024x1024.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-b4e094eb-41c3-4dcd-a507-22f1403f636e-1024x1024.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1549,7 +1552,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0"
           },
           "title": "OUR ",
           "title2": "IS COMING SOON!",
@@ -1600,12 +1603,15 @@
           "_styles": {
             "P": {
               "font-size": "48px",
-              "color": "#a5ddfa"
+              "color": "#ffffff"
             },
             "B": {
               "font-size": "30px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".display-2": {
+              "color": "#56cdf4"
             }
           }
         },

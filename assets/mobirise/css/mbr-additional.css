@@ -806,7 +806,7 @@ section.form .container {
 }
 #header1-33 .mbr-section-lead {
   font-size: 36px;
-  color: #a5ddfa;
+  color: #56cdf4;
 }
 #header1-33 .btn {
   font-size: 46px;
@@ -1030,6 +1030,9 @@ section.form .container {
 #header1-bg .btn {
   font-size: 48px;
 }
+#header1-bg .mbr-section-title {
+  color: #56cdf4;
+}
 #firebase-blog-list-block-6t .mbr-section-title {
   text-align: center;
   font-family: 'Indie Flower', cursive;
@@ -1123,11 +1126,14 @@ section.form .container {
 }
 #extHeader15-bb P {
   font-size: 48px;
-  color: #a5ddfa;
+  color: #ffffff;
 }
 #extHeader15-bb B {
   font-size: 30px;
   font-family: 'Oswald', sans-serif;
+}
+#extHeader15-bb .display-2 {
+  color: #56cdf4;
 }
 #extMsg-box4-bf .btn {
   font-size: 48px;
