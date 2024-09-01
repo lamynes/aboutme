@@ -1394,7 +1394,7 @@
             "animText3": "NEW APP",
             "typeSpeed": 60,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-b4e094eb-41c3-4dcd-a507-22f1403f636e-1024x1024.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-ab544443-9776-41ed-a320-e93561a0246b-1024x1024.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1404,7 +1404,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.6
+            "overlayOpacity": "0.3"
           },
           "title": "OUR ",
           "title2": "IS COMING SOON!",
@@ -1492,7 +1492,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": true,
-            "bgColor": "#fff",
+            "bgColor": "#0e0e0e",
             "timeout": 5,
             "slides": [
               {
