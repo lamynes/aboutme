@@ -1278,7 +1278,7 @@
           },
           "title": "LAMYNESPL BLOG",
           "text": "This is my FIREBASE backend page, Fairly simple to omplement",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">972-768-1227</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FUN TIMES</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:972-768-1227\" data-toolbar=\"-mbrBtnMove\">972-768-1227</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"fun.html\" data-toolbar=\"-mbrBtnMove\">FUN TIMES</a>",
           "_tags": [
             "Theme"
           ],
