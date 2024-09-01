@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "fun.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 405,
+    "uniqCompNum": 406,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -201,7 +201,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/_53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -263,7 +263,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/newarc-ai-gr-qicvlsqo2ylnlfgqzsihyfpehclps5y5-removebg-preview-600x393.png",
+              "src": "@PROJECT_PATH@/assets/images/newarc_ai_gr_qicvlsqo2ylnlfgqzsihyfpehclps5y5-removebg-preview-600x393.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -274,7 +274,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/inniovative-auto-detail-removebg-preview-copy-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/inniovative-auto-detail-removebg-preview%20-%20copy-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -296,7 +296,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logoshadow-372x128-81-2-3-600x206.png",
+              "src": "@PROJECT_PATH@/assets/images/logoshadow-372x128-81-2%20(3)-600x206.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -307,7 +307,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/278606874-102288189137099-949451906700332832-n-2-removebg-preview-600x331.png",
+              "src": "@PROJECT_PATH@/assets/images/278606874_102288189137099_949451906700332832_n__2_-removebg-preview-600x331.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -318,7 +318,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-asphalt-1-7-600x412.png",
+              "src": "@PROJECT_PATH@/assets/images/roush%20asphalt-1%20(7)-600x412.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -540,7 +540,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">CONTACT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-success\">DOWNLOAD FOR WINDOWS</a>"
           },
           "media": {
             "image": {
@@ -785,7 +785,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/_53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1169,7 +1169,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-6668780e-4d6d-44e0-a20f-bcb12e7b756b-1024x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/_6668780e-4d6d-44e0-a20f-bcb12e7b756b-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1380,152 +1380,38 @@
           "_sourceTheme": "mobirise3"
         },
         {
+          "_inherit": "header1",
           "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/u4ttqbsfuc-1440x900.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\">C7 CORVETTE<br>CUSTOM</span><br>",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/ydjrws-h-3-1440x900.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\">JEEP CUSTOM</span>",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/nyglcg17mt-1440x900.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\">DODGE VIPER</span>",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/download-1440x900.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\">1969 CAMARO</span>",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/x6xqkaxrfcx-2000x743.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\">C5 Z06</span>",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/tkjgkwbxxs-1440x900.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\">OLD SCHOOL IS COOL</span>",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/download-1004x500.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\">OLD SCHOOL IS COOL</span>",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/download-42-1324x828.png",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\">MY GIRL'S FAV</span>",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ]
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/TYkv_vFvRWQ?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/TYkv_vFvRWQ",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
           },
-          "articleLayout": false,
+          "title": "VIDEO BACKGROUND",
+          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "slider3",
-          "_anchor": "slider3-9h",
-          "_customCSS": ".mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}",
-          "_styles": {
-            "H2": {
-              "text-align": "center",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef"
-            },
-            "I": {
-              "color": "#ea8d02"
-            }
-          },
-          "_sourceTheme": "mobirise3"
+          "_name": "header4",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header4-b9"
         },
         {
           "_params": {
@@ -2853,7 +2739,7 @@
             "showArrow": false,
             "imageSize": "70",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-beb13e9f-ce95-446a-b5a9-8e04c80f779f-1024x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/_beb13e9f-ce95-446a-b5a9-8e04c80f779f-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
