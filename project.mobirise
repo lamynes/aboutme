@@ -1488,7 +1488,7 @@
         {
           "_params": {
             "autoplay": true,
-            "fullScreen": true,
+            "fullScreen": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": true,
@@ -1496,23 +1496,8 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/-9f672edf-840f-42fb-b3af-d75166e7fa66-1024x1024.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "KENBURNS & PARALLAX SLIDER",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Fullscreen slider with breath-taking pan & zoom also known as \"KenBurns\" effect and parallax transition between slides.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/-b4e094eb-41c3-4dcd-a507-22f1403f636e-1024x1024.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1617,7 +1602,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-aa43e051-5c6f-4dcc-8586-6e357bca52b6-1024x1024.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
