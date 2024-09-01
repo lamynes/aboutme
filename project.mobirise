@@ -1367,7 +1367,7 @@
             "animText3": "NEW APP",
             "typeSpeed": 60,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-add13b11-33e1-4f7b-9e28-086b75098fcc-1024x1024.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-f78f18ff-bd0e-43d4-97ee-50aa77b02d56-1024x1024.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1387,7 +1387,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
+              "src": "@PROJECT_PATH@/assets/images/dhyl9iyitd-1440x900.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
