@@ -1394,14 +1394,14 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/TYkv_vFvRWQ?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/TYkv_vFvRWQ",
+              "url": "https://www.youtube.com/embed/RdAZiGosi_E?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/RdAZiGosi_E",
               "width": 1280,
               "height": 720
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.1"
           },
           "title": "VIDEO BACKGROUND",
           "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
