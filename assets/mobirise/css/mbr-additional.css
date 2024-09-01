@@ -1061,9 +1061,6 @@ section.form .container {
 
 
 
-#extHeader15-bb P {
-  font-size: 48px;
-}
 #ext_menu-7t .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1133,6 +1130,13 @@ section.form .container {
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-7t .btn {
+  font-size: 30px;
+}
+#extHeader15-bb P {
+  font-size: 48px;
+  color: #a5ddfa;
+}
+#extHeader15-bb B {
   font-size: 30px;
 }
 #header3-bc .mbr-section-title,
