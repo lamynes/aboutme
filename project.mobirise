@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "fun.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1552,7 +1552,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0"
+            "overlayOpacity": "0.1"
           },
           "title": "OUR ",
           "title2": "IS COMING SOON!",
@@ -1611,7 +1611,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".display-2": {
-              "color": "#56cdf4"
+              "color": "#ffffff"
             }
           }
         },
