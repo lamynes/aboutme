@@ -1385,7 +1385,7 @@
             "showTitle": true,
             "showText": true,
             "showCountdown": true,
-            "showForm": true,
+            "showForm": false,
             "showArrow": true,
             "imageSize": "42",
             "countdown": "2024/12/31",
