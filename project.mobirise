@@ -1531,10 +1531,10 @@
           "_params": {
             "showLogo": true,
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showCountdown": true,
             "showForm": false,
-            "showArrow": true,
+            "showArrow": false,
             "imageSize": "22",
             "countdown": "2024/12/31",
             "animText1": "AWESOME SITE",
