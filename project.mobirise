@@ -1626,10 +1626,10 @@
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#3d3d3d",
+            "bgColor": "#0e0e0e",
             "bgText": "LAMYNESPL - WEB DESIGN",
-            "bgTextStyle": "Montserrat",
-            "bgTextColor": "#0e0e0e",
+            "bgTextStyle": "Lato",
+            "bgTextColor": "#232323",
             "bgTextSize": "300",
             "bgVideoRadio": false,
             "bgVideo": {
