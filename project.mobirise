@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "blog.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17,7 +17,7 @@
         "textFont": "Oswald",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -66,7 +66,7 @@
     },
     "pwa-switcher": "on",
     "imageResize": true,
-    "mbrsiteDomain": "rk5hpfccnl",
+    "mbrsiteDomain": "n3oqmkoope",
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true
