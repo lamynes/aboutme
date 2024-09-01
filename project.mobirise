@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "fun.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -425,33 +425,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#0e0e0e"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=pCve1w1GFOs&list=FLOW3pkZlqfQCAo82MTXkWiA&index=2",
-              "autoplay": "on",
-              "loop": "on",
-              "active": true
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-af",
-          "_sourceTheme": "mobirise3"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
@@ -521,7 +494,7 @@
             "showText": false,
             "showIcons": false,
             "showForm": true,
-            "inverse": true,
+            "inverse": false,
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -540,7 +513,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-primary\">ADMIN</a>"
           },
           "media": {
             "image": {
@@ -548,7 +521,7 @@
               "class": "central-image",
               "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
               "link": "",
-              "alt": "",
+              "alt": "LAMYNESPL",
               "title": "",
               "linkInNewWindow": false
             },
