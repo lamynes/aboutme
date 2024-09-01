@@ -1163,7 +1163,7 @@
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "showButton": false,
             "paddingTop": "5",
@@ -1387,19 +1387,19 @@
             "showButtons": false,
             "showArrow": false,
             "contentAlign": "right",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-fbc7eec8-02a0-44a4-8a79-28f82bcb8522-1024x1024.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/RdAZiGosi_E?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://youtu.be/RdAZiGosi_E",
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
             "overlayOpacity": "0.1"
           },
