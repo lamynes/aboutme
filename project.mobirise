@@ -201,7 +201,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/_53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -263,7 +263,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/newarc_ai_gr_qicvlsqo2ylnlfgqzsihyfpehclps5y5-removebg-preview-600x393.png",
+              "src": "@PROJECT_PATH@/assets/images/newarc-ai-gr-qicvlsqo2ylnlfgqzsihyfpehclps5y5-removebg-preview-600x393.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -274,7 +274,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/inniovative-auto-detail-removebg-preview%20-%20copy-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/inniovative-auto-detail-removebg-preview-copy-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -296,7 +296,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logoshadow-372x128-81-2%20(3)-600x206.png",
+              "src": "@PROJECT_PATH@/assets/images/logoshadow-372x128-81-2-3-600x206.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -307,7 +307,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/278606874_102288189137099_949451906700332832_n__2_-removebg-preview-600x331.png",
+              "src": "@PROJECT_PATH@/assets/images/278606874-102288189137099-949451906700332832-n-2-removebg-preview-600x331.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -318,7 +318,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush%20asphalt-1%20(7)-600x412.png",
+              "src": "@PROJECT_PATH@/assets/images/roush-asphalt-1-7-600x412.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -785,7 +785,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/_53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1169,7 +1169,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/_6668780e-4d6d-44e0-a20f-bcb12e7b756b-1024x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-6668780e-4d6d-44e0-a20f-bcb12e7b756b-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1382,10 +1382,10 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2739,7 +2739,7 @@
             "showArrow": false,
             "imageSize": "70",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/_beb13e9f-ce95-446a-b5a9-8e04c80f779f-1024x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-beb13e9f-ce95-446a-b5a9-8e04c80f779f-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
