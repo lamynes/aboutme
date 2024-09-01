@@ -1030,17 +1030,8 @@ section.form .container {
 #ext_menu-8e .btn {
   font-size: 30px;
 }
-#msg-box8-70 .mbr-section-title,
-#msg-box8-70 p {
-  color: #fff;
-}
-#msg-box8-70 .mbr-section-title {
-  text-align: left;
-  color: #000000;
-  font-size: 60px;
-}
-#msg-box8-70 .mbr-section-title SPAN {
-  color: #ffffff;
+#header1-bg .btn {
+  font-size: 48px;
 }
 #firebase-blog-list-block-6t .mbr-section-title {
   text-align: center;
