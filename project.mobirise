@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "blog.html",
+    "currentPage": "fun.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -214,7 +214,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.1"
+            "overlayOpacity": "0.3"
           },
           "title": "<span style=\"font-weight: normal;\">MODERN &amp; MOBILE READY</span>",
           "text": "BEAUTIFUL WEBSITES FOR ALL DEVICES",
@@ -1272,7 +1272,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
@@ -1290,7 +1290,7 @@
               "font-size": "48px"
             },
             ".mbr-section-title": {
-              "color": "#56cdf4"
+              "color": "#ffffff"
             }
           }
         },
@@ -1552,7 +1552,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.1"
+            "overlayOpacity": "0.3"
           },
           "title": "OUR ",
           "title2": "IS COMING SOON!",
