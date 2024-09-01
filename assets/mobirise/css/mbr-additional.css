@@ -1061,6 +1061,9 @@ section.form .container {
 
 
 
+#extHeader15-bb P {
+  font-size: 48px;
+}
 #ext_menu-7t .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1131,6 +1134,16 @@ section.form .container {
 }
 #ext_menu-7t .btn {
   font-size: 30px;
+}
+#header3-bc .mbr-section-title,
+#header3-bc .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-bc .mbr-section-title {
+  color: #ffffff;
+}
+#header3-bc .mbr-section-subtitle {
+  color: #a5ddfa;
 }
 #header5-b3 .mbr-section-title {
   color: #000;
