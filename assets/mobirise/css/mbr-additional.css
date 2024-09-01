@@ -1141,6 +1141,12 @@ section.form .container {
   font-size: 30px;
   font-family: 'Oswald', sans-serif;
 }
+#extMsg-box4-bf .btn {
+  font-size: 48px;
+}
+#extCounters1-be .mbr-section-title {
+  color: #fff;
+}
 #header3-bc .mbr-section-title,
 #header3-bc .mbr-section-subtitle {
   text-align: center;

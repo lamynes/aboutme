@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 410,
+    "uniqCompNum": 412,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1387,7 +1387,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dhyl9iyitd-1440x900.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -1436,6 +1436,151 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3d3d3d",
+            "bgText": "LAMYNESPL - WEB DESIGN",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#0e0e0e",
+            "bgTextSize": "300",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "CUSTOM WEBSITES - MOBILE READY",
+          "text": "Ready to build the perfect website for your business? Our team of experts can develop the site that truly models your business, beautifully.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"tel:972-768-1227\" data-toolbar=\"-mbrBtnMove\">972-768-1227</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "extMsg-box4-bf",
+          "_styles": {
+            ".btn": {
+              "font-size": "48px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "pictures",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "mobile",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "video",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "edit",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title1": "Pictures",
+          "title2": "Mobiles",
+          "title3": "Desktops",
+          "title4": "Videos",
+          "subtitle1": "subtitle",
+          "subtitle2": "subtitle",
+          "subtitle3": "subtitle",
+          "subtitle4": "subtitle",
+          "number1": "899",
+          "number2": "1783",
+          "number3": "1247",
+          "number4": "3777",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCounters1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "extCounters1-be"
         },
         {
           "_styles": {
