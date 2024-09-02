@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 415,
+    "uniqCompNum": 416,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -184,8 +184,8 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-8e",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_anchor": "ext_menu-bj",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -627,7 +627,7 @@
             "showTitle": true,
             "showLogo": true,
             "progress": "100",
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
@@ -642,8 +642,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "title": "LAMYNESPL",
+          "list": "",
+          "title": "<a href=\"index.html\" class=\"text-primary\">LAMYNESPL</a>",
           "media": {
             "image": {
               "active": true,
@@ -695,7 +695,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -730,13 +730,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -778,8 +778,8 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-74",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_anchor": "ext_menu-bj",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -919,7 +919,7 @@
             "showTitle": true,
             "showLogo": true,
             "progress": "100",
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
@@ -934,8 +934,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "title": "LAMYNESPL",
+          "list": "",
+          "title": "<a href=\"index.html\" class=\"text-primary\">LAMYNESPL</a>",
           "media": {
             "image": {
               "active": true,
@@ -987,7 +987,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1022,13 +1022,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1070,8 +1070,8 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-74",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_anchor": "ext_menu-bj",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -1101,7 +1101,7 @@
             "showTitle": true,
             "showLogo": true,
             "progress": "100",
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
@@ -1116,8 +1116,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "title": "LAMYNESPL",
+          "list": "",
+          "title": "<a href=\"index.html\" class=\"text-primary\">LAMYNESPL</a>",
           "media": {
             "image": {
               "active": true,
@@ -1204,13 +1204,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1252,8 +1252,8 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-8e",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_anchor": "ext_menu-bj",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -1372,7 +1372,7 @@
             "showTitle": true,
             "showLogo": true,
             "progress": "100",
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
@@ -1387,8 +1387,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "title": "LAMYNESPL",
+          "list": "",
+          "title": "<a href=\"index.html\" class=\"text-primary\">LAMYNESPL</a>",
           "media": {
             "image": {
               "active": true,
@@ -1455,13 +1455,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -1475,16 +1475,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#060606!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1523,8 +1523,8 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-7t",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_anchor": "ext_menu-bj",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -1807,8 +1807,8 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
-                "overlay": false,
+                "title": "C7 PERFORMANCE SERIES",
+                "overlay": true,
                 "contentAlign": "left",
                 "text": "Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -1822,8 +1822,8 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDE",
-                "overlay": false,
+                "title": "SUPER C5 Z06",
+                "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -1837,8 +1837,8 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDE",
-                "overlay": false,
+                "title": "C7 RENDERED",
+                "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -1852,8 +1852,8 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDE",
-                "overlay": false,
+                "title": "HOT WHEELS SERIES",
+                "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -1867,8 +1867,8 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDE",
-                "overlay": false,
+                "title": "SLIGHTLY MODIFIED C7",
+                "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -1882,8 +1882,8 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDE",
-                "overlay": false,
+                "title": "SUPER C7 SERIES",
+                "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -1897,8 +1897,8 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDE",
-                "overlay": false,
+                "title": "C7 RENDERED",
+                "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -1912,8 +1912,8 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDE",
-                "overlay": false,
+                "title": "IMAGINATION C7",
+                "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -1927,8 +1927,8 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
-                "overlay": false,
+                "title": "C7 WIDEBODY",
+                "overlay": true,
                 "contentAlign": "left",
                 "text": "Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -1942,8 +1942,8 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
-                "overlay": false,
+                "title": "C8 CANDY",
+                "overlay": true,
                 "contentAlign": "left",
                 "text": "Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -1957,8 +1957,8 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
-                "overlay": false,
+                "title": "C7 RACING SERIES",
+                "overlay": true,
                 "contentAlign": "left",
                 "text": "Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -1966,14 +1966,14 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-fae15fcd-59ea-4249-b224-35311b72dfea-1024x1024.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
-                "overlay": false,
+                "title": "C7 RACING",
+                "overlay": true,
                 "contentAlign": "left",
                 "text": "Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -1987,8 +1987,8 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
-                "overlay": false,
+                "title": "C8 REIMAGINED",
+                "overlay": true,
                 "contentAlign": "left",
                 "text": "Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -2002,8 +2002,8 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
-                "overlay": false,
+                "title": "C7 RACE TEAM",
+                "overlay": true,
                 "contentAlign": "left",
                 "text": "Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -2011,14 +2011,14 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-b92ff7be-b8c8-4f5d-b355-c4997683cedd-1024x1024.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
-                "overlay": false,
+                "title": "C7 CUSTOM - SUPER MODIFIED",
+                "overlay": true,
                 "contentAlign": "left",
                 "text": "Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -2034,123 +2034,6 @@
           "_name": "extSlider1",
           "_sourceTheme": "mobirise3",
           "_anchor": "extSlider1-ba"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#0c0c0c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/dhyl9iyitd-1440x900.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/6ig8dsk4sm-1130x461.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/atvrfsbuua-600x244.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/ydjrws-h-3-1440x900.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/tkjgkwbxxs-1440x900.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/vwto9sg0pp-1440x900.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-bd",
-          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -2296,7 +2179,7 @@
             "showTitle": true,
             "showLogo": true,
             "progress": "100",
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
@@ -2311,8 +2194,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "title": "LAMYNESPL",
+          "list": "",
+          "title": "<a href=\"index.html\" class=\"text-primary\">LAMYNESPL</a>",
           "media": {
             "image": {
               "active": true,
@@ -2361,7 +2244,7 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
@@ -2400,7 +2283,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2435,13 +2318,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2483,8 +2366,8 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-8e",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_anchor": "ext_menu-bj",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -2599,7 +2482,7 @@
             "showTitle": true,
             "showLogo": true,
             "progress": "100",
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
@@ -2614,8 +2497,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "title": "LAMYNESPL",
+          "list": "",
+          "title": "<a href=\"index.html\" class=\"text-primary\">LAMYNESPL</a>",
           "media": {
             "image": {
               "active": true,
@@ -2669,7 +2552,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2704,13 +2587,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2752,8 +2635,8 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-8e",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_anchor": "ext_menu-bj",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -2869,7 +2752,7 @@
             "showTitle": true,
             "showLogo": true,
             "progress": "100",
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
@@ -2884,8 +2767,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "title": "LAMYNESPL",
+          "list": "",
+          "title": "<a href=\"index.html\" class=\"text-primary\">LAMYNESPL</a>",
           "media": {
             "image": {
               "active": true,
@@ -2937,7 +2820,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2972,13 +2855,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -3020,8 +2903,8 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-8h",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_anchor": "ext_menu-bj",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -3136,7 +3019,7 @@
             "showTitle": true,
             "showLogo": true,
             "progress": "100",
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
@@ -3151,8 +3034,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "title": "LAMYNESPL",
+          "list": "",
+          "title": "<a href=\"index.html\" class=\"text-primary\">LAMYNESPL</a>",
           "media": {
             "image": {
               "active": true,
@@ -3204,7 +3087,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3239,13 +3122,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -3287,8 +3170,8 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-8h",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_anchor": "ext_menu-bj",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -3405,7 +3288,7 @@
             "showTitle": true,
             "showLogo": true,
             "progress": "100",
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
@@ -3420,8 +3303,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "title": "LAMYNESPL",
+          "list": "",
+          "title": "<a href=\"index.html\" class=\"text-primary\">LAMYNESPL</a>",
           "media": {
             "image": {
               "active": true,
@@ -3456,6 +3339,112 @@
         "footer_custom": ""
       },
       "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#efefef",
+            "fontSize": "1.6",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.733rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#303030!important"
+            },
+            "A": {
+              "font-size": "12px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".btn": {
+              "font-size": "30px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
+          "_name": "ext.menu",
+          "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_anchor": "ext_menu-bj",
+          "_sourceTheme": "mobirise3"
+        },
         {
           "_params": {
             "showTitle": true,
@@ -3582,7 +3571,7 @@
             "showTitle": true,
             "showLogo": true,
             "progress": "100",
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
@@ -3597,8 +3586,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "title": "LAMYNESPL",
+          "list": "",
+          "title": "<a href=\"index.html\" class=\"text-primary\">LAMYNESPL</a>",
           "media": {
             "image": {
               "active": true,
@@ -3652,7 +3641,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">THE BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">THE REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-custom.html\">JEEP OVERKILL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3687,13 +3676,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -3735,8 +3724,8 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-8e",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
+          "_anchor": "ext_menu-bj",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -3917,7 +3906,7 @@
             "showTitle": true,
             "showLogo": true,
             "progress": "100",
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
@@ -3932,8 +3921,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "title": "LAMYNESPL",
+          "list": "",
+          "title": "<a href=\"index.html\" class=\"text-primary\">LAMYNESPL</a>",
           "media": {
             "image": {
               "active": true,
