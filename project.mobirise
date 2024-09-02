@@ -475,7 +475,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD AI Screensaver</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://drive.google.com/file/d/1x-wYkLYzyUSzEp2jYPjdgbnL9LReJYQ_/view?usp=drive_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD AI Screensaver</a> ",
           "_tags": [
             "Theme"
           ],
