@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "fun.html",
+    "currentPage": "c5-rebuild.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#303030",
+        "primaryColor": "#c1c1c1",
         "secondaryColor": "#faaf40",
         "successColor": "#353535",
         "infoColor": "#ea8d02",
@@ -90,7 +90,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
@@ -684,7 +684,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
@@ -976,7 +976,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
@@ -1158,7 +1158,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
@@ -2272,7 +2272,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
@@ -2541,7 +2541,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
@@ -2809,7 +2809,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
@@ -3076,7 +3076,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
@@ -3347,7 +3347,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
@@ -3630,7 +3630,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#efefef",
             "fontSize": "1.6",
             "fontName": {
@@ -3737,7 +3737,7 @@
             "showArrow": false,
             "imageSize": "70",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-beb13e9f-ce95-446a-b5a9-8e04c80f779f-1024x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-c15069c6-9937-4a9c-a223-a7662805a762-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -3773,8 +3773,8 @@
               "size": 250
             }
           },
-          "title": "THE REBUILD",
-          "text": "<h1>C5 Z06-LS6</h1>",
+          "title": "GOLEN C5/LS6 REBUILD",
+          "text": "<h1><b><i>C5 Z06-LS6</i></b></h1>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3787,7 +3787,7 @@
             },
             ".mbr-section-title": {
               "font-size": "72px",
-              "color": "#a5ddfa",
+              "color": "#ffffff",
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
@@ -3823,7 +3823,7 @@
               "color": "#303030"
             },
             ".mbr-section-title": {
-              "color": "#cccccc"
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -3833,7 +3833,7 @@
             "bgColor": "#0e0e0e"
           },
           "title": "ENGINE REBUILD BY<br>",
-          "meta": "<a href=\"https://golenengineservice.com/\" target=\"_blank\" class=\"text-danger\">GOLEN HIGH PERFORMANCE ENGINES</a>",
+          "meta": "<a href=\"https://golenengineservice.com/\" target=\"_blank\" class=\"text-primary\">GOLEN HIGH PERFORMANCE ENGINES</a>",
           "_tags": [
             "Theme"
           ],
