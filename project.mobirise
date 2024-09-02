@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "blog.html",
+    "currentPage": "c5-rebuild.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2437,8 +2437,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "50",
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/hjjfoauzxq-1440x900.png",
             "parallax": true,
@@ -2448,7 +2448,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.3"
           },
@@ -2707,7 +2707,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "50",
-            "paddingTop": "3",
+            "paddingTop": "5",
             "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/sexbvr-4sv-1440x900.png",
@@ -2719,8 +2719,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#181717",
-            "overlayOpacity": "0"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -2973,8 +2973,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "50",
-            "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/hxicqdwy-n-1004x500.png",
             "parallax": true,
@@ -2984,9 +2984,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0"
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -3242,8 +3242,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "50",
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "5",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dhyl9iyitd-1440x900.png",
             "parallax": true,
@@ -3254,8 +3254,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#181717",
-            "overlayOpacity": "0"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -3789,7 +3789,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0"
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
