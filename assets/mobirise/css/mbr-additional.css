@@ -733,44 +733,6 @@ section.form .container {
 .theme-border {
   border: 1px solid #c1c1c1;
 }
-#header1-33 .mbr-section-lead {
-  font-size: 36px;
-  color: #56cdf4;
-}
-#header1-33 .btn {
-  font-size: 46px;
-}
-#header1-33 .mbr-section-title SPAN {
-  font-size: 84px;
-}
-#extCountdown1-b5 .mbr-section-title {
-  color: #ffffff;
-}
-#header3-ab .mbr-section-title,
-#header3-ab .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-ab .mbr-section-title {
-  color: #efefef;
-}
-#extMsg-box4-b6 P {
-  font-size: 36px;
-}
-#extMsg-box4-b6 .btn {
-  font-size: 30px;
-}
-#extForm1-79 H2 {
-  color: #000000;
-}
-#extForm1-79 I {
-  color: #000000;
-}
-#extForm1-79 SPAN {
-  color: #ffffff;
-}
-#social-buttons1-a8 .mbr-section-title {
-  color: #efefef;
-}
 #ext_menu-bj .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -842,10 +804,122 @@ section.form .container {
 #ext_menu-bj .btn {
   font-size: 30px;
 }
+#header1-33 .mbr-section-lead {
+  font-size: 36px;
+  color: #56cdf4;
+}
+#header1-33 .btn {
+  font-size: 46px;
+}
+#header1-33 .mbr-section-title SPAN {
+  font-size: 84px;
+}
+#extCountdown1-b5 .mbr-section-title {
+  color: #ffffff;
+}
+#header3-ab .mbr-section-title,
+#header3-ab .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-ab .mbr-section-title {
+  color: #efefef;
+}
+#extMsg-box4-b6 P {
+  font-size: 36px;
+}
+#extMsg-box4-b6 .btn {
+  font-size: 30px;
+}
+#buttons1-bk .btn {
+  font-size: 30px;
+}
+#extForm1-79 H2 {
+  color: #000000;
+}
+#extForm1-79 I {
+  color: #000000;
+}
+#extForm1-79 SPAN {
+  color: #ffffff;
+}
+#social-buttons1-a8 .mbr-section-title {
+  color: #efefef;
+}
 
 
 
 
+#ext_menu-bj .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-bj .navbar-caption {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-bj .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-bj .close-icon::before,
+#ext_menu-bj .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-bj .link,
+#ext_menu-bj .dropdown-item {
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-bj .link {
+  font-size: 1.6rem;
+}
+#ext_menu-bj .dropdown-item,
+#ext_menu-bj .nav-dropdown-sm .link {
+  font-size: 1.733rem;
+}
+#ext_menu-bj .link:hover,
+#ext_menu-bj .dropdown-item:hover,
+#ext_menu-bj .link:focus,
+#ext_menu-bj .dropdown-item:focus {
+  color: #c1c1c1;
+}
+#ext_menu-bj .link[aria-expanded="true"],
+#ext_menu-bj .dropdown-menu {
+  background: #d6d6d6;
+}
+#ext_menu-bj .nav-dropdown-sm .link:focus,
+#ext_menu-bj .nav-dropdown-sm .link:hover,
+#ext_menu-bj .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-bj .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#ext_menu-bj .navbar,
+#ext_menu-bj .nav-dropdown-sm,
+#ext_menu-bj .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-bj .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#ext_menu-bj .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-bj .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-bj .bg-color.transparent.opened .link:hover,
+#ext_menu-bj .bg-color.transparent.opened .link:focus {
+  color: #c1c1c1;
+}
+#ext_menu-bj .link[aria-expanded="true"],
+#ext_menu-bj .dropdown-item[aria-expanded="true"] {
+  color: #303030!important;
+}
+#ext_menu-bj A {
+  font-size: 12px;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-bj .btn {
+  font-size: 30px;
+}
 #msg-box8-71 .mbr-section-title,
 #msg-box8-71 p {
   color: #fff;
@@ -881,6 +955,10 @@ section.form .container {
 #social-buttons1-6n .mbr-section-title {
   color: #efefef;
 }
+
+
+
+
 #ext_menu-bj .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -952,84 +1030,6 @@ section.form .container {
 #ext_menu-bj .btn {
   font-size: 30px;
 }
-
-
-
-#ext_menu-bj .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-bj .navbar-caption {
-  color: #ffffff;
-  font-size: 20px;
-  font-family: 'Oswald', sans-serif;
-}
-#ext_menu-bj .navbar-toggler {
-  color: #000000;
-}
-#ext_menu-bj .close-icon::before,
-#ext_menu-bj .close-icon::after {
-  background-color: #000000;
-}
-#ext_menu-bj .link,
-#ext_menu-bj .dropdown-item {
-  color: #000000;
-  font-family: 'Oswald', sans-serif;
-}
-#ext_menu-bj .link {
-  font-size: 1.6rem;
-}
-#ext_menu-bj .dropdown-item,
-#ext_menu-bj .nav-dropdown-sm .link {
-  font-size: 1.733rem;
-}
-#ext_menu-bj .link:hover,
-#ext_menu-bj .dropdown-item:hover,
-#ext_menu-bj .link:focus,
-#ext_menu-bj .dropdown-item:focus {
-  color: #c1c1c1;
-}
-#ext_menu-bj .link[aria-expanded="true"],
-#ext_menu-bj .dropdown-menu {
-  background: #d6d6d6;
-}
-#ext_menu-bj .nav-dropdown-sm .link:focus,
-#ext_menu-bj .nav-dropdown-sm .link:hover,
-#ext_menu-bj .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-bj .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
-}
-#ext_menu-bj .navbar,
-#ext_menu-bj .nav-dropdown-sm,
-#ext_menu-bj .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-bj .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
-}
-#ext_menu-bj .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#ext_menu-bj .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-bj .bg-color.transparent.opened .link:hover,
-#ext_menu-bj .bg-color.transparent.opened .link:focus {
-  color: #c1c1c1;
-}
-#ext_menu-bj .link[aria-expanded="true"],
-#ext_menu-bj .dropdown-item[aria-expanded="true"] {
-  color: #303030!important;
-}
-#ext_menu-bj A {
-  font-size: 12px;
-  font-family: 'Oswald', sans-serif;
-}
-#ext_menu-bj .btn {
-  font-size: 30px;
-}
-
-
-
-
 #header1-bg .btn {
   font-size: 48px;
 }
@@ -1051,6 +1051,11 @@ section.form .container {
 #social-buttons1-6w .mbr-section-title {
   color: #efefef;
 }
+
+
+
+
+
 #ext_menu-bj .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1122,11 +1127,6 @@ section.form .container {
 #ext_menu-bj .btn {
   font-size: 30px;
 }
-
-
-
-
-
 #extHeader15-bb P {
   font-size: 48px;
   color: #ffffff;
@@ -1155,6 +1155,10 @@ section.form .container {
 }
 #header3-bc .mbr-section-subtitle {
   color: #a5ddfa;
+  font-size: 46px;
+}
+#buttons1-bl .btn {
+  font-size: 36px;
 }
 #header5-b3 .mbr-section-title {
   color: #000;
@@ -1170,6 +1174,10 @@ section.form .container {
   color: #ffffff;
   font-family: 'Oswald', sans-serif;
 }
+
+
+
+
 #ext_menu-bj .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1241,10 +1249,6 @@ section.form .container {
 #ext_menu-bj .btn {
   font-size: 30px;
 }
-
-
-
-
 #msg-box7-9f .mbr-section-title,
 #msg-box7-9f .lead p {
   color: #fff;
@@ -1266,6 +1270,9 @@ section.form .container {
 #social-buttons1-96 .mbr-section-title {
   color: #000000;
 }
+
+
+
 #ext_menu-bj .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1337,9 +1344,6 @@ section.form .container {
 #ext_menu-bj .btn {
   font-size: 30px;
 }
-
-
-
 #msg-box7-9a .mbr-section-title,
 #msg-box7-9a .lead p {
   color: #fff;
@@ -1363,6 +1367,9 @@ section.form .container {
 #social-buttons1-96 .mbr-section-title {
   color: #000000;
 }
+
+
+
 #ext_menu-bj .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1434,9 +1441,6 @@ section.form .container {
 #ext_menu-bj .btn {
   font-size: 30px;
 }
-
-
-
 #msg-box7-9b .mbr-section-title,
 #msg-box7-9b .lead p {
   color: #fff;
@@ -1458,6 +1462,10 @@ section.form .container {
 #social-buttons1-8y .mbr-section-title {
   color: #000000;
 }
+
+
+
+
 #ext_menu-bj .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1529,10 +1537,6 @@ section.form .container {
 #ext_menu-bj .btn {
   font-size: 30px;
 }
-
-
-
-
 #msg-box7-9b .mbr-section-title,
 #msg-box7-9b .lead p {
   color: #fff;
@@ -1555,6 +1559,10 @@ section.form .container {
 #social-buttons1-8y .mbr-section-title {
   color: #000000;
 }
+
+
+
+
 #ext_menu-bj .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1626,10 +1634,6 @@ section.form .container {
 #ext_menu-bj .btn {
   font-size: 30px;
 }
-
-
-
-
 #extHeader12-b3 H3 {
   color: #faaf40;
   font-size: 48px;
@@ -1649,6 +1653,11 @@ section.form .container {
   color: #000000;
   font-size: 20px;
 }
+
+
+
+
+
 #ext_menu-bj .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1720,11 +1729,6 @@ section.form .container {
 #ext_menu-bj .btn {
   font-size: 30px;
 }
-
-
-
-
-
 #header2-a2 .mbr-section-text {
   font-size: 60px;
   color: #ffffff;
@@ -1763,75 +1767,4 @@ section.form .container {
 }
 #social-buttons1-a3 .mbr-section-title {
   color: #ffffff;
-}
-#ext_menu-bj .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-bj .navbar-caption {
-  color: #ffffff;
-  font-size: 20px;
-  font-family: 'Oswald', sans-serif;
-}
-#ext_menu-bj .navbar-toggler {
-  color: #000000;
-}
-#ext_menu-bj .close-icon::before,
-#ext_menu-bj .close-icon::after {
-  background-color: #000000;
-}
-#ext_menu-bj .link,
-#ext_menu-bj .dropdown-item {
-  color: #000000;
-  font-family: 'Oswald', sans-serif;
-}
-#ext_menu-bj .link {
-  font-size: 1.6rem;
-}
-#ext_menu-bj .dropdown-item,
-#ext_menu-bj .nav-dropdown-sm .link {
-  font-size: 1.733rem;
-}
-#ext_menu-bj .link:hover,
-#ext_menu-bj .dropdown-item:hover,
-#ext_menu-bj .link:focus,
-#ext_menu-bj .dropdown-item:focus {
-  color: #c1c1c1;
-}
-#ext_menu-bj .link[aria-expanded="true"],
-#ext_menu-bj .dropdown-menu {
-  background: #d6d6d6;
-}
-#ext_menu-bj .nav-dropdown-sm .link:focus,
-#ext_menu-bj .nav-dropdown-sm .link:hover,
-#ext_menu-bj .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-bj .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
-}
-#ext_menu-bj .navbar,
-#ext_menu-bj .nav-dropdown-sm,
-#ext_menu-bj .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-bj .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
-}
-#ext_menu-bj .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#ext_menu-bj .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-bj .bg-color.transparent.opened .link:hover,
-#ext_menu-bj .bg-color.transparent.opened .link:focus {
-  color: #c1c1c1;
-}
-#ext_menu-bj .link[aria-expanded="true"],
-#ext_menu-bj .dropdown-item[aria-expanded="true"] {
-  color: #303030!important;
-}
-#ext_menu-bj A {
-  font-size: 12px;
-  font-family: 'Oswald', sans-serif;
-}
-#ext_menu-bj .btn {
-  font-size: 30px;
 }

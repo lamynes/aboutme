@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "c5-rebuild.html",
+    "currentPage": "fun.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 416,
+    "uniqCompNum": 418,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -464,6 +464,25 @@
             "P": {
               "font-size": "36px"
             },
+            ".btn": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD AI Screensaver</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "buttons1-bk",
+          "_styles": {
             ".btn": {
               "font-size": "30px"
             }
@@ -1631,7 +1650,7 @@
             "bgColor": "#0e0e0e",
             "bgText": "LAMYNESPL - WEB DESIGN",
             "bgTextStyle": "Lato",
-            "bgTextColor": "#232323",
+            "bgTextColor": "#c0a375",
             "bgTextSize": "300",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -1673,7 +1692,7 @@
             "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#e9e9e9",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1771,13 +1790,14 @@
               "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
-              "color": "#a5ddfa"
+              "color": "#a5ddfa",
+              "font-size": "46px"
             }
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgColor": "#0c0c0c"
           },
           "title": "CORVETTE DESIGNS USING AI",
@@ -2034,6 +2054,25 @@
           "_name": "extSlider1",
           "_sourceTheme": "mobirise3",
           "_anchor": "extSlider1-ba"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://drive.google.com/file/d/1x-wYkLYzyUSzEp2jYPjdgbnL9LReJYQ_/view?usp=drive_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD CORVETTE SCREENSAVER FOR WIN</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "buttons1-bl",
+          "_styles": {
+            ".btn": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_params": {
