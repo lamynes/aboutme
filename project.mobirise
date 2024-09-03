@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "blog.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -363,11 +363,11 @@
           "_params": {
             "showBullets": true,
             "fullWidth": true,
-            "spacing": 1,
+            "spacing": "1",
             "paddingTop": 1,
             "paddingBottom": 1,
             "filterBgColor": true,
-            "bgColor": "#0c0c0c",
+            "bgColor": "#ffffff",
             "showText": false,
             "filter": false,
             "images": [
