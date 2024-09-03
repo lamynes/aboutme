@@ -460,6 +460,54 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dfd08351-9b3e-4f08-bb94-c019919844cd-removebg-preview-500x500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/dfd08351-9b3e-4f08-bb94-c019919844cd-removebg-preview-500x500-500x500.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-32a77561-b8bb-4cda-a253-bf635e6d988a-removebg-preview-500x500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/32a77561-b8bb-4cda-a253-bf635e6d988a-removebg-preview-500x500-500x500.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-a1892e25-47bc-4f95-ad49-7a5e9049cb80-removebg-preview-500x500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/a1892e25-47bc-4f95-ad49-7a5e9049cb80-removebg-preview-500x500-500x500.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-03501737-1749-4163-9d00-86153bcb5da8-removebg-preview-500x500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/03501737-1749-4163-9d00-86153bcb5da8-removebg-preview-500x500-500x500.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -651,7 +699,7 @@
                 "itemSubtitle": "could be your best friend",
                 "itemDescription": "Our Cool Corvette Photos generated with AI prompts. Enjoy!<br>",
                 "itemPriceTitle": "From: ",
-                "itemPrice": "$36.00",
+                "itemPrice": "$26.00",
                 "onsale": "-50%",
                 "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=26.00&amp;item_name=Cool%20Corvettes%20Screensaver&amp;currency_code=USD\" class=\"btn btn-warning\">Buy now!</a>",
                 "image": "@PROJECT_PATH@/assets/images/_00ce6616-b14a-42a2-9b79-f922f245eb08-1024x1024.png",
