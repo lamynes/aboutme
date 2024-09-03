@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#999999",
         "#56cdf4",
         "#0c0c0c",
         "#232323",
         "#0e0e0e",
         "#ea8d02",
-        "#a5ddfa",
-        "#f90909"
+        "#a5ddfa"
       ]
     },
     "versionFirst": "3.12.1",
@@ -589,7 +589,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
@@ -603,8 +603,8 @@
             "bgTextSize": "300",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/RdAZiGosi_E?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/RdAZiGosi_E",
+              "url": "https://www.youtube.com/embed/1culRgWy9lM?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/1culRgWy9lM?si=sjeXGXYpK4NQOmbv",
               "width": 1280,
               "height": 720
             },
@@ -612,8 +612,8 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "MODERN WEBSITE DESIGN",
-          "text": "Each site is unique to the Customer's Brand",
+          "title": "Corvette Photos Screensaver",
+          "text": "Download and Enjoy!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"tel:972-768-1227\" data-toolbar=\"-mbrBtnMove\">972-768-1227</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -664,10 +664,12 @@
               "font-family": "@titleFont"
             },
             ".item-subtitle": {
-              "font-family": "@subtitleFont"
+              "font-family": "@subtitleFont",
+              "font-size": "19px"
             },
             ".card-description": {
-              "font-family": "@textFont"
+              "font-family": "@textFont",
+              "font-size": "24px"
             },
             ".shop-item-price": {
               "font-family": "@titleFont"
@@ -696,7 +698,7 @@
                 "tags": "Awesome",
                 "bestSeller": false,
                 "itemTitle": "Corvette Photos Screensaver",
-                "itemSubtitle": "could be your best friend",
+                "itemSubtitle": "Very cool screensavers",
                 "itemDescription": "Our Cool Corvette Photos generated with AI prompts. Enjoy!<br>",
                 "itemPriceTitle": "From: ",
                 "itemPrice": "$26.00",

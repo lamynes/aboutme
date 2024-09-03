@@ -863,9 +863,11 @@ section.form .container {
 }
 #extShop1-bo .item-subtitle {
   font-family: Oswald;
+  font-size: 19px;
 }
 #extShop1-bo .card-description {
   font-family: Oswald;
+  font-size: 24px;
 }
 #extShop1-bo .shop-item-price {
   font-family: Oswald;
