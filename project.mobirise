@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "c5-rebuild.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -4034,7 +4034,7 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#000000",
+            "overlayColor": "#ffffff",
             "overlayOpacity": "0.5"
           },
           "media": {
@@ -4059,7 +4059,7 @@
             }
           },
           "title": "GOLEN C5/LS6 REBUILD",
-          "text": "<h1><b><i>C5 Z06-LS6</i></b></h1>",
+          "text": "<h1>C5 Z06-LS6</h1>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -4068,11 +4068,11 @@
           "_styles": {
             ".mbr-section-text": {
               "font-size": "60px",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".mbr-section-title": {
               "font-size": "72px",
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
