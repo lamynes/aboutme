@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "c5-rebuild.html",
+    "currentPage": "fun.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2315,25 +2315,6 @@
           "_name": "extSlider1",
           "_sourceTheme": "mobirise3",
           "_anchor": "extSlider1-ba"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://drive.google.com/file/d/1x-wYkLYzyUSzEp2jYPjdgbnL9LReJYQ_/view?usp=drive_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD CORVETTE SCREENSAVER FOR WIN</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "buttons1-bl",
-          "_styles": {
-            ".btn": {
-              "font-size": "36px"
-            }
-          }
         },
         {
           "_params": {
