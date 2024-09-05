@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "fun.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -252,7 +252,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#0e0e0e",
+            "bgColor": "#0c0c0c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -367,7 +367,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "filterBgColor": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#0c0c0c",
             "showText": false,
             "filter": false,
             "images": [
