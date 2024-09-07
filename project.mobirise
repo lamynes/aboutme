@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "fun.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -773,8 +773,8 @@
             "bgColor": "#0e0e0e",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/yLsKoVsd2AY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/yLsKoVsd2AY",
+              "url": "https://www.youtube.com/embed/noIOjMHSfHA?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=noIOjMHSfHA",
               "width": 1280,
               "height": 720
             },
@@ -782,7 +782,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">CONTACT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
           },
           "media": {
             "image": {
@@ -2506,16 +2506,16 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/chassis-x06ch-cr052-a-800x533.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#0c0c0c",
-            "overlay": false,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.1",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.3",
             "facebook": true,
             "twitter": true,
             "google": true,
@@ -2529,7 +2529,7 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
@@ -4022,7 +4022,7 @@
             "showArrow": false,
             "imageSize": "70",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-add13b11-33e1-4f7b-9e28-086b75098fcc-1024x1024.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2f63e440-d3ad-46c0-b480-049868b8e0ac-1024x1024.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -4035,7 +4035,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
