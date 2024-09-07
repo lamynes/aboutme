@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -620,7 +620,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">CONTACT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">972-768-1227</a>"
           },
           "media": {
             "image": {
@@ -705,7 +705,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
@@ -722,7 +722,7 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#000000"
             }
           },
           "_customCSS": "text-shadow: 0 0 20px #000000;",
@@ -1451,7 +1451,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/zf35a9bnqefyj9h9wyh3-620x400.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#0e0e0e",
+            "bgColor": "#efefef",
             "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
@@ -1468,7 +1468,7 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#000000"
             }
           },
           "_anchor": "social-buttons1-6w",
@@ -2350,7 +2350,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/screenshot%202024-09-07%20092033-1184x482.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
