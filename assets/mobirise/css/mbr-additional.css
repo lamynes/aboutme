@@ -877,12 +877,16 @@ section.form .container {
 }
 #extForm1-79 H2 {
   color: #000000;
+  font-size: 60px;
 }
 #extForm1-79 I {
   color: #000000;
 }
 #extForm1-79 SPAN {
   color: #ffffff;
+}
+#extForm1-79 .btn {
+  font-size: 24px;
 }
 #social-buttons1-a8 .mbr-section-title {
   color: #efefef;

@@ -742,13 +742,17 @@
           "_name": "extForm1",
           "_styles": {
             "H2": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "60px"
             },
             "I": {
               "color": "#000000"
             },
             "SPAN": {
               "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "24px"
             }
           },
           "_anchor": "extForm1-79",
@@ -796,7 +800,7 @@
               "color": "@primaryColor"
             }
           },
-          "title": "<span style=\"font-weight: normal;\">DROP A MESSAGE</span>",
+          "title": "DROP A MESSAGE",
           "media1": {
             "iconFont": {
               "active": true,
@@ -869,7 +873,7 @@
             "overlayOpacity": "0.1",
             "facebook": true,
             "twitter": true,
-            "google": true,
+            "google": false,
             "vkontakte": false,
             "odnoklassniki": false
           },
