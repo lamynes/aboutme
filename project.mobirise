@@ -3577,7 +3577,7 @@
             "inverse": true,
             "imageSize": "64",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/e63f506e52fa9d05520dbcc4e2452e2b-tiltshift-1-1024x682.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -3631,7 +3631,7 @@
               "font-size": "48px"
             },
             "P": {
-              "font-size": "25px",
+              "font-size": "30px",
               "color": "#ffffff"
             },
             ".btn": {
