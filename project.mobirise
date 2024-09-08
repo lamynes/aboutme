@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "c5-rebuild.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 422,
+    "uniqCompNum": 424,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -620,7 +620,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">CONTACT</a>"
           },
           "media": {
             "image": {
@@ -750,7 +750,7 @@
             "overlayOpacity": 0.4
           },
           "list": "",
-          "title": "<a href=\"index.html\" class=\"text-success\">LAMYNESPL</a>",
+          "title": "LAMYNESPL",
           "media": {
             "image": {
               "active": true,
@@ -771,8 +771,6 @@
             "Extension"
           ],
           "_name": "extFooter1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "extFooter1-bi",
           "_styles": {
             ".mbr-section-title": {
               "font-size": "48px"
@@ -780,7 +778,9 @@
             ".mbr-section-title I": {
               "font-size": "48px"
             }
-          }
+          },
+          "_anchor": "extFooter1-br",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -1050,7 +1050,7 @@
             "overlayOpacity": 0.4
           },
           "list": "",
-          "title": "<a href=\"index.html\" class=\"text-success\">LAMYNESPL</a>",
+          "title": "LAMYNESPL",
           "media": {
             "image": {
               "active": true,
@@ -1071,8 +1071,16 @@
             "Extension"
           ],
           "_name": "extFooter1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "extFooter1-bi"
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "extFooter1-br",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -1232,7 +1240,7 @@
             "overlayOpacity": 0.4
           },
           "list": "",
-          "title": "<a href=\"index.html\" class=\"text-success\">LAMYNESPL</a>",
+          "title": "LAMYNESPL",
           "media": {
             "image": {
               "active": true,
@@ -1253,8 +1261,16 @@
             "Extension"
           ],
           "_name": "extFooter1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "extFooter1-bi"
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "extFooter1-br",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -1503,7 +1519,7 @@
             "overlayOpacity": 0.4
           },
           "list": "",
-          "title": "<a href=\"index.html\" class=\"text-success\">LAMYNESPL</a>",
+          "title": "LAMYNESPL",
           "media": {
             "image": {
               "active": true,
@@ -1524,8 +1540,16 @@
             "Extension"
           ],
           "_name": "extFooter1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "extFooter1-bi"
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "extFooter1-br",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -2307,51 +2331,6 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showLogo": true,
-            "progress": "100",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#0c0c0c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "list": "",
-          "title": "<a href=\"index.html\" class=\"text-success\">LAMYNESPL</a>",
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFooter1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "extFooter1-bi"
-        },
-        {
-          "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
@@ -2382,6 +2361,59 @@
           },
           "_customCSS": "",
           "_anchor": "social-buttons1-9i",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showLogo": true,
+            "progress": "100",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#0c0c0c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "",
+          "title": "LAMYNESPL",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "extFooter1-br",
           "_sourceTheme": "mobirise3"
         }
       ]
@@ -2629,7 +2661,7 @@
             "overlayOpacity": 0.4
           },
           "list": "",
-          "title": "<a href=\"index.html\" class=\"text-success\">LAMYNESPL</a>",
+          "title": "LAMYNESPL",
           "media": {
             "image": {
               "active": true,
@@ -2650,8 +2682,16 @@
             "Extension"
           ],
           "_name": "extFooter1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "extFooter1-bi"
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "extFooter1-br",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -2899,7 +2939,7 @@
             "overlayOpacity": 0.4
           },
           "list": "",
-          "title": "<a href=\"index.html\" class=\"text-success\">LAMYNESPL</a>",
+          "title": "LAMYNESPL",
           "media": {
             "image": {
               "active": true,
@@ -2920,8 +2960,16 @@
             "Extension"
           ],
           "_name": "extFooter1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "extFooter1-bi"
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "extFooter1-br",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -3166,7 +3214,7 @@
             "overlayOpacity": 0.4
           },
           "list": "",
-          "title": "<a href=\"index.html\" class=\"text-success\">LAMYNESPL</a>",
+          "title": "LAMYNESPL",
           "media": {
             "image": {
               "active": true,
@@ -3187,8 +3235,16 @@
             "Extension"
           ],
           "_name": "extFooter1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "extFooter1-bi"
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "extFooter1-br",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -3435,7 +3491,7 @@
             "overlayOpacity": 0.4
           },
           "list": "",
-          "title": "<a href=\"index.html\" class=\"text-success\">LAMYNESPL</a>",
+          "title": "LAMYNESPL",
           "media": {
             "image": {
               "active": true,
@@ -3456,8 +3512,16 @@
             "Extension"
           ],
           "_name": "extFooter1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "extFooter1-bi"
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "extFooter1-br",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -3674,7 +3738,7 @@
             "overlayOpacity": 0.4
           },
           "list": "",
-          "title": "<a href=\"index.html\" class=\"text-success\">LAMYNESPL</a>",
+          "title": "LAMYNESPL",
           "media": {
             "image": {
               "active": true,
@@ -3695,8 +3759,6 @@
             "Extension"
           ],
           "_name": "extFooter1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "extFooter1-bi",
           "_styles": {
             ".mbr-section-title": {
               "font-size": "48px"
@@ -3704,7 +3766,9 @@
             ".mbr-section-title I": {
               "font-size": "48px"
             }
-          }
+          },
+          "_anchor": "extFooter1-br",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -4017,7 +4081,7 @@
             "overlayOpacity": 0.4
           },
           "list": "",
-          "title": "<a href=\"index.html\" class=\"text-success\">LAMYNESPL</a>",
+          "title": "LAMYNESPL",
           "media": {
             "image": {
               "active": true,
@@ -4038,8 +4102,16 @@
             "Extension"
           ],
           "_name": "extFooter1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "extFooter1-bi"
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "extFooter1-br",
+          "_sourceTheme": "mobirise3"
         }
       ]
     }
