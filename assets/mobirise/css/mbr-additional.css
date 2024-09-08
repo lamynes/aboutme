@@ -891,6 +891,12 @@ section.form .container {
 #social-buttons1-a8 .mbr-section-title {
   color: #000000;
 }
+#extFooter1-bi .mbr-section-title {
+  font-size: 48px;
+}
+#extFooter1-bi .mbr-section-title I {
+  font-size: 48px;
+}
 
 
 
@@ -999,7 +1005,7 @@ section.form .container {
   color: #90a878;
 }
 #social-buttons1-6n .mbr-section-title {
-  color: #efefef;
+  color: #000000;
 }
 
 
@@ -1764,6 +1770,12 @@ section.form .container {
 }
 #extHeader12-b3 I {
   font-family: 'Oxygen', sans-serif;
+  font-size: 48px;
+}
+#extFooter1-bi .mbr-section-title {
+  font-size: 48px;
+}
+#extFooter1-bi .mbr-section-title I {
   font-size: 48px;
 }
 
