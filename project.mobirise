@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "c5-rebuild.html",
+    "currentPage": "jeep-custom.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -620,7 +620,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.1",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">BUY RAFFLE TICKET HERE</a>"
           },
           "media": {
             "image": {
@@ -3575,7 +3575,7 @@
             "showButtons": false,
             "showArrow": true,
             "inverse": true,
-            "imageSize": "44",
+            "imageSize": "64",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
@@ -3590,8 +3590,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#2e2e2e",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -3627,7 +3627,7 @@
           "_customCSS": "text-shadow: 2px 10px 15px black;",
           "_styles": {
             "H3": {
-              "color": "#faaf40",
+              "color": "#ffffff",
               "font-size": "48px"
             },
             "P": {
@@ -3641,50 +3641,6 @@
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "48px"
-            }
-          },
-          "_sourceTheme": "mobirise3"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/golen-141x128.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>17 Dracut Rd\n<br>Hudson, NH 03051<br>",
-          "text2": "<strong>Contacts</strong><br>Local: <a href=\"tel:603-239-3667\" class=\"text-info\">603-239-3667</a> | for Sales: Ext. #1 | for Tech: Ext. #2<br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-info\" href=\"https://golenengineservice.com/jeep-engines/\" target=\"_blank\">Jeep Engines</a><br><a href=\"https://golenengineservice.com/jeep-build-gallery/\" target=\"_blank\" class=\"text-info\">Jeep Build</a><br>\n<a class=\"text-info\" href=\"https://golenengineservice.com/jeep-technical-instructions/\" target=\"_blank\">Jeep Tech</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-b4",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-size": "20px"
             }
           },
           "_sourceTheme": "mobirise3"
