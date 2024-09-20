@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 425,
+    "uniqCompNum": 426,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -101,7 +101,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -185,7 +185,7 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
-          "_anchor": "ext_menu-bs",
+          "_anchor": "ext_menu-bt",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -810,7 +810,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -894,7 +894,7 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
-          "_anchor": "ext_menu-bs",
+          "_anchor": "ext_menu-bt",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -1110,7 +1110,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1194,7 +1194,7 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
-          "_anchor": "ext_menu-bs",
+          "_anchor": "ext_menu-bt",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -1300,7 +1300,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1384,7 +1384,7 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
-          "_anchor": "ext_menu-bs",
+          "_anchor": "ext_menu-bt",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -1579,7 +1579,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1663,7 +1663,7 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
-          "_anchor": "ext_menu-bs",
+          "_anchor": "ext_menu-bt",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -2446,7 +2446,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2530,7 +2530,7 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
-          "_anchor": "ext_menu-bs",
+          "_anchor": "ext_menu-bt",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -2723,7 +2723,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2807,7 +2807,7 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
-          "_anchor": "ext_menu-bs",
+          "_anchor": "ext_menu-bt",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -2999,7 +2999,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3083,7 +3083,7 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
-          "_anchor": "ext_menu-bs",
+          "_anchor": "ext_menu-bt",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -3274,7 +3274,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3358,7 +3358,7 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
-          "_anchor": "ext_menu-bs",
+          "_anchor": "ext_menu-bt",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -3553,7 +3553,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3637,7 +3637,7 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
-          "_anchor": "ext_menu-bs",
+          "_anchor": "ext_menu-bt",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -3800,7 +3800,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3884,7 +3884,7 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
           "_name": "ext.menu",
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
-          "_anchor": "ext_menu-bs",
+          "_anchor": "ext_menu-bt",
           "_sourceTheme": "mobirise3"
         },
         {
