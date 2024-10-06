@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "jeep-custom.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -169,7 +169,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n-133x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -620,7 +620,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">BUY RAFFLE TICKET HERE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">CONTACT</a>"
           },
           "media": {
             "image": {
@@ -755,7 +755,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n-133x128.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
