@@ -66,7 +66,7 @@
     },
     "pwa-switcher": "on",
     "imageResize": true,
-    "mbrsiteDomain": "n3oqmkoope",
+    "mbrsiteDomain": "akvza3kcvp",
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true
@@ -169,7 +169,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n-133x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n-1-129x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -755,7 +755,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n-133x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n-1-129x128.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
