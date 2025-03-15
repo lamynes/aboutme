@@ -90,7 +90,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#0e0e0e",
             "fontSize": "1.45",
             "fontName": {
@@ -101,7 +101,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -799,7 +799,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#0e0e0e",
             "fontSize": "1.45",
             "fontName": {
@@ -810,7 +810,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1099,7 +1099,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#0e0e0e",
             "fontSize": "1.45",
             "fontName": {
@@ -1110,7 +1110,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1289,7 +1289,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#0e0e0e",
             "fontSize": "1.45",
             "fontName": {
@@ -1300,7 +1300,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1568,7 +1568,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#0e0e0e",
             "fontSize": "1.45",
             "fontName": {
@@ -1579,7 +1579,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2435,7 +2435,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#0e0e0e",
             "fontSize": "1.45",
             "fontName": {
@@ -2446,7 +2446,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2712,7 +2712,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#0e0e0e",
             "fontSize": "1.45",
             "fontName": {
@@ -2723,7 +2723,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2988,7 +2988,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#0e0e0e",
             "fontSize": "1.45",
             "fontName": {
@@ -2999,7 +2999,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3263,7 +3263,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#0e0e0e",
             "fontSize": "1.45",
             "fontName": {
@@ -3274,7 +3274,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3542,7 +3542,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#0e0e0e",
             "fontSize": "1.45",
             "fontName": {
@@ -3553,7 +3553,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3790,7 +3790,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#0e0e0e",
             "fontSize": "1.45",
             "fontName": {
@@ -3801,7 +3801,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4131,7 +4131,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#0e0e0e",
             "fontSize": "1.45",
             "fontName": {
@@ -4142,7 +4142,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4228,6 +4228,68 @@
           "_customCSS": "text-shadow: 2px 2px 5px grey;",
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-bv"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            "h3, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/526907-386179111415136-171816342851415-1296298-151859201-n-1-1440x958.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.4"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/golen-ls-engine-chevy-truck-876x890.png",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "LSx 1999-2014 Chevy and GMC Truck",
+          "text": "Nothing lasts forever, not even a classic GM small block. When it's time for something new, consider a turnkey Chevy crate engine. We specialize in LSx engines for 1999-2014 Chevy trucks: short block, long block, and complete. If you seek a quality LSx crate motor for sale, you've come to the right place.",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box6",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box6-c4"
         },
         {
           "_styles": {
@@ -4408,68 +4470,6 @@
           },
           "_sourceTheme": "mobirise3",
           "_anchor": "extFooter1-bw"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            "h3, p": {
-              "color": "#fff"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/526907-386179111415136-171816342851415-1296298-151859201-n-1-1440x958.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.4"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/golen-ls-engine-chevy-truck-876x890.png",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "LSx 1999-2014 Chevy and GMC Truck",
-          "text": "Nothing lasts forever, not even a classic GM small block. When it's time for something new, consider a turnkey Chevy crate engine. We specialize in LSx engines for 1999-2014 Chevy trucks: short block, long block, and complete. If you seek a quality LSx crate motor for sale, you've come to the right place.",
-          "_tags": [
-            "Theme"
-          ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box6",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box6-c4"
         }
       ]
     }
