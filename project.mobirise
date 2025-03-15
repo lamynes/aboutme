@@ -4425,16 +4425,16 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "54",
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/c6yMm41__Bs?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=c6yMm41__Bs&list=TLGG2DoP0kJ_rssxNTAzMjAyNQ&t",
@@ -4451,11 +4451,11 @@
               "src": "@PROJECT_PATH@/assets/images/lsx-427ci-725hp-complete-540x462.png",
               "link": "",
               "alt": "Golen GM LS Truck Engine",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "active": true,
+              "src": "https://www.youtube.com/embed/c6yMm41__Bs?rel=0&&showinfo=0&autoplay=0&loop=0",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -4466,7 +4466,7 @@
               "size": 250
             }
           },
-          "title": "Golen Engine New Dyno Room 2017",
+          "title": "Golen Engine Dyno Room",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "_tags": [
             "Theme"
