@@ -1947,3 +1947,110 @@ section.form .container {
 #extFooter1-br .mbr-section-title I {
   font-size: 48px;
 }
+
+
+
+#ext_menu-bv .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-bv .navbar-caption {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-bv .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-bv .close-icon::before,
+#ext_menu-bv .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-bv .link,
+#ext_menu-bv .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-bv .link {
+  font-size: 1.45rem;
+}
+#ext_menu-bv .dropdown-item,
+#ext_menu-bv .nav-dropdown-sm .link {
+  font-size: 1.570rem;
+}
+#ext_menu-bv .link:hover,
+#ext_menu-bv .dropdown-item:hover,
+#ext_menu-bv .link:focus,
+#ext_menu-bv .dropdown-item:focus {
+  color: #c1c1c1;
+}
+#ext_menu-bv .link[aria-expanded="true"],
+#ext_menu-bv .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-bv .nav-dropdown-sm .link:focus,
+#ext_menu-bv .nav-dropdown-sm .link:hover,
+#ext_menu-bv .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-bv .nav-dropdown-sm .dropdown-item:hover {
+  background: #060606!important;
+}
+#ext_menu-bv .navbar,
+#ext_menu-bv .nav-dropdown-sm,
+#ext_menu-bv .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-bv .nav-dropdown-sm .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-bv .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-bv .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-bv .bg-color.transparent.opened .link:hover,
+#ext_menu-bv .bg-color.transparent.opened .link:focus {
+  color: #c1c1c1;
+}
+#ext_menu-bv .link[aria-expanded="true"],
+#ext_menu-bv .dropdown-item[aria-expanded="true"] {
+  color: #c1c1c1!important;
+}
+#ext_menu-bv A {
+  font-size: 12px;
+  font-family: 'Indie Flower', cursive;
+}
+#ext_menu-bv .btn {
+  font-size: 30px;
+}
+#header3-c2 .mbr-section-title,
+#header3-c2 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-c2 .mbr-section-subtitle {
+  font-size: 20px;
+}
+#msg-box4-bz .btn {
+  font-size: 25px;
+}
+#msg-box4-bz H3 {
+  font-size: 36px;
+}
+#header3-c3 .mbr-section-title,
+#header3-c3 .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-c1 P {
+  font-size: 20px;
+  text-align: left;
+}
+#content1-c1 UL {
+  font-size: 20px;
+}
+#extFooter1-bw .mbr-section-title {
+  font-size: 48px;
+}
+#extFooter1-bw .mbr-section-title I {
+  font-size: 48px;
+}
+#header2-by .mbr-section-text {
+  font-size: 20px;
+}
