@@ -2051,6 +2051,10 @@ section.form .container {
 #extFooter1-bw .mbr-section-title I {
   font-size: 48px;
 }
-#header2-by .mbr-section-text {
+#msg-box6-c4 h3,
+#msg-box6-c4 p {
+  color: #fff;
+}
+#msg-box6-c4 P {
   font-size: 20px;
 }

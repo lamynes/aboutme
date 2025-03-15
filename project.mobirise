@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 436,
+    "uniqCompNum": 437,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -4410,25 +4410,35 @@
           "_anchor": "extFooter1-bw"
         },
         {
+          "_inherit": "msg-box5",
+          "_styles": {
+            "h3, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "showArrow": false,
             "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/526907-386179111415136-171816342851415-1296298-151859201-n-1-1440x958.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -4446,25 +4456,20 @@
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
               "link": "",
               "size": 250
             }
           },
           "title": "LSx 1999-2014 Chevy and GMC Truck",
           "text": "Nothing lasts forever, not even a classic GM small block. When it's time for something new, consider a turnkey Chevy crate engine. We specialize in LSx engines for 1999-2014 Chevy trucks: short block, long block, and complete. If you seek a quality LSx crate motor for sale, you've come to the right place.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box6",
           "_sourceTheme": "mobirise3",
-          "_anchor": "header2-by",
-          "_styles": {
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "_anchor": "msg-box6-c4"
         }
       ]
     }
