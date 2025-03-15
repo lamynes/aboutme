@@ -900,6 +900,173 @@ section.form .container {
 
 
 
+#ext_menu-bt .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-bt .navbar-caption {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-bt .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-bt .close-icon::before,
+#ext_menu-bt .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-bt .link,
+#ext_menu-bt .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-bt .link {
+  font-size: 1.45rem;
+}
+#ext_menu-bt .dropdown-item,
+#ext_menu-bt .nav-dropdown-sm .link {
+  font-size: 1.570rem;
+}
+#ext_menu-bt .link:hover,
+#ext_menu-bt .dropdown-item:hover,
+#ext_menu-bt .link:focus,
+#ext_menu-bt .dropdown-item:focus {
+  color: #c1c1c1;
+}
+#ext_menu-bt .link[aria-expanded="true"],
+#ext_menu-bt .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-bt .nav-dropdown-sm .link:focus,
+#ext_menu-bt .nav-dropdown-sm .link:hover,
+#ext_menu-bt .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-bt .nav-dropdown-sm .dropdown-item:hover {
+  background: #060606!important;
+}
+#ext_menu-bt .navbar,
+#ext_menu-bt .nav-dropdown-sm,
+#ext_menu-bt .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-bt .nav-dropdown-sm .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-bt .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-bt .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-bt .bg-color.transparent.opened .link:hover,
+#ext_menu-bt .bg-color.transparent.opened .link:focus {
+  color: #c1c1c1;
+}
+#ext_menu-bt .link[aria-expanded="true"],
+#ext_menu-bt .dropdown-item[aria-expanded="true"] {
+  color: #c1c1c1!important;
+}
+#ext_menu-bt A {
+  font-size: 12px;
+  font-family: 'Indie Flower', cursive;
+}
+#ext_menu-bt .btn {
+  font-size: 30px;
+}
+#header1-33 .mbr-section-lead {
+  font-size: 48px;
+  color: #56cdf4;
+}
+#header1-33 .btn {
+  font-size: 46px;
+}
+#header1-33 .mbr-section-title SPAN {
+  font-size: 80px;
+}
+#extCountdown1-b5 .mbr-section-title {
+  color: #ffffff;
+}
+#header3-ab .mbr-section-title,
+#header3-ab .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-ab .mbr-section-title {
+  color: #efefef;
+}
+#extMsg-box4-b6 P {
+  font-size: 36px;
+}
+#extMsg-box4-b6 .btn {
+  font-size: 30px;
+}
+#extShop1-bo .galleryItem h4:hover {
+  color: #c1c1c1;
+}
+#extShop1-bo .mbr-gallery-filter ul li.active {
+  color: #c1c1c1;
+}
+#extShop1-bo .mbr-gallery-filter ul li:hover {
+  color: #c1c1c1;
+}
+#extShop1-bo .mbr-gallery-filter ul li:before {
+  background: #c1c1c1;
+}
+#extShop1-bo .min-toggle:hover,
+#extShop1-bo .max-toggle:hover {
+  background-color: #c1c1c1;
+}
+#extShop1-bo .shop-title {
+  font-family: Oswald;
+}
+#extShop1-bo .categories-titles .mbr-gallery-filter ul li {
+  font-family: Oswald;
+}
+#extShop1-bo .max-input {
+  font-family: Oswald;
+}
+#extShop1-bo .min-input {
+  font-family: Oswald;
+}
+#extShop1-bo .item-title {
+  font-family: Oswald;
+}
+#extShop1-bo .item-subtitle {
+  font-family: Oswald;
+  font-size: 19px;
+}
+#extShop1-bo .card-description {
+  font-family: Oswald;
+  font-size: 24px;
+}
+#extShop1-bo .shop-item-price {
+  font-family: Oswald;
+}
+#extShop1-bo .btn {
+  font-size: 20px;
+}
+#extForm1-79 H2 {
+  color: #000000;
+  font-size: 60px;
+}
+#extForm1-79 I {
+  color: #000000;
+}
+#extForm1-79 SPAN {
+  color: #ffffff;
+}
+#extForm1-79 .btn {
+  font-size: 24px;
+}
+#social-buttons1-a8 .mbr-section-title {
+  color: #000000;
+}
+#extFooter1-br .mbr-section-title {
+  font-size: 48px;
+}
+#extFooter1-br .mbr-section-title I {
+  font-size: 48px;
+}
+
+
+
 
 #ext_menu-bt .hide-buttons .nav-btn {
   display: none !important;

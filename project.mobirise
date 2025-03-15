@@ -4120,7 +4120,8 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Ls Swap Chevy Trucks",
-        "order": "1"
+        "order": "1",
+        "meta_image": "@PROJECT_PATH@/assets/images/screenshot%202025-03-15%20183318-1905x711.jpg"
       },
       "components": [
         {
