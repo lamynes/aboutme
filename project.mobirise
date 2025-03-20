@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "ls-swap-chevy-trucks.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -361,7 +361,7 @@
         {
           "_params": {
             "showTitle": true,
-            "countdown": "2024/12/31",
+            "countdown": "2025/12/31",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
@@ -380,7 +380,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.1"
           },
-          "title": "2024 END OF YEAR COUNTDOWN",
+          "title": "2025 END OF YEAR COUNTDOWN",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -441,8 +441,8 @@
             "bgTextSize": "300",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/1culRgWy9lM?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/1culRgWy9lM?si=sjeXGXYpK4NQOmbv",
+              "url": "https://www.youtube.com/embed/F8TSveQuvcE?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=F8TSveQuvcE",
               "width": 1280,
               "height": 720
             },
@@ -620,7 +620,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">CONTACT</a>"
           },
           "media": {
             "image": {

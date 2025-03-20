@@ -1950,13 +1950,6 @@ section.form .container {
 
 
 
-#msg-box6-c4 h3,
-#msg-box6-c4 p {
-  color: #fff;
-}
-#msg-box6-c4 P {
-  font-size: 20px;
-}
 #ext_menu-bv .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2027,6 +2020,13 @@ section.form .container {
 }
 #ext_menu-bv .btn {
   font-size: 30px;
+}
+#msg-box6-c4 h3,
+#msg-box6-c4 p {
+  color: #fff;
+}
+#msg-box6-c4 P {
+  font-size: 20px;
 }
 #header3-c2 .mbr-section-title,
 #header3-c2 .mbr-section-subtitle {
