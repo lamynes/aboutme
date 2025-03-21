@@ -4654,10 +4654,10 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=yc5AWImplfE&list=PLFFt9gDayFkpXbnGqtTAg5g6wrrdOhC9H&index=1",
+              "src": "https://www.youtube.com/playlist?list=PLFFt9gDayFkpXbnGqtTAg5g6wrrdOhC9H",
               "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
+              "autoplay": "on",
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
