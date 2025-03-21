@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 445,
+    "uniqCompNum": 450,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -620,7 +620,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">DOWNLOAD FOR MAC</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
           },
           "media": {
             "image": {
@@ -4540,38 +4540,28 @@
       },
       "components": [
         {
-          "_inherit": "header1",
           "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "right",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/15ZnOds7rRE?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=15ZnOds7rRE",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0"
+            "showText": false
           },
-          "title": "Freland Johnson",
-          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/15ZnOds7rRE?rel=0&&showinfo=0&autoplay=0&loop=0",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<p>Cut down the development time with drag-and-drop website builder.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
+          "_name": "video1",
           "_sourceTheme": "mobirise3",
-          "_anchor": "header4-c8"
+          "_anchor": "video1-ch"
         },
         {
           "_styles": {
@@ -4654,7 +4644,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=yc5AWImplfE&list=PLFFt9gDayFkpXbnGqtTAg5g6wrrdOhC9H",
+              "src": "https://www.youtube.com/embed/15ZnOds7rRE?rel=0&&showinfo=0&autoplay=0&loop=0",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on"
