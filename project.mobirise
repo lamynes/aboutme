@@ -4551,8 +4551,8 @@
             "video": {
               "active": true,
               "src": "https://www.youtube.com/embed/15ZnOds7rRE?rel=0&&showinfo=0&autoplay=0&loop=0",
-              "autoplay": false,
-              "loop": false
+              "autoplay": "on",
+              "loop": "on"
             }
           },
           "text": "<p>Cut down the development time with drag-and-drop website builder.</p>",
