@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "index.html",
+    "currentPage": "fj.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 438,
+    "uniqCompNum": 445,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -620,7 +620,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">CONTACT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">DOWNLOAD FOR MAC</a>"
           },
           "media": {
             "image": {
@@ -788,7 +788,7 @@
       "settings": {
         "meta_descr": "LAMYNES.PL Articles",
         "title": "articles",
-        "order": "11"
+        "order": "12"
       },
       "components": [
         {
@@ -1088,7 +1088,7 @@
       "settings": {
         "meta_descr": "Login to manage blog posts.",
         "title": "admin",
-        "order": "10"
+        "order": "11"
       },
       "components": [
         {
@@ -1278,7 +1278,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "blog",
-        "order": "9"
+        "order": "10"
       },
       "components": [
         {
@@ -1557,7 +1557,7 @@
       "settings": {
         "meta_descr": "Happy Holloween",
         "title": "Fun Times",
-        "order": "5"
+        "order": "6"
       },
       "components": [
         {
@@ -2422,7 +2422,7 @@
       "settings": {
         "meta_descr": "Muscle Custom",
         "title": "Muscle Custom",
-        "order": "4",
+        "order": "5",
         "header_custom": "\n",
         "footer_custom": ""
       },
@@ -2699,7 +2699,7 @@
       "settings": {
         "meta_descr": "LT1 Camaro",
         "title": "LT1 Camaro Custom",
-        "order": "2",
+        "order": "3",
         "header_custom": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js\"></script>",
         "footer_custom": ""
       },
@@ -2977,7 +2977,7 @@
       "settings": {
         "meta_descr": "C1 CORVETTE CUSTOM",
         "title": "C1 Corvette Custom",
-        "order": "8"
+        "order": "9"
       },
       "components": [
         {
@@ -3252,7 +3252,7 @@
       "settings": {
         "meta_descr": "C7 Corvette Custom",
         "title": "C7 Corvette Custom",
-        "order": "6"
+        "order": "7"
       },
       "components": [
         {
@@ -3529,7 +3529,7 @@
       "settings": {
         "meta_descr": "Jeep Custom",
         "title": "Jeep Custom",
-        "order": "3",
+        "order": "4",
         "header_custom": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js\">\n</script>",
         "footer_custom": ""
       },
@@ -3777,7 +3777,7 @@
       "settings": {
         "meta_descr": "C5 Rebuild",
         "title": "C5 Rebuild",
-        "order": "7",
+        "order": "8",
         "header_custom": "<script>\nfunction clickCounter() {\n    if(typeof(Storage) !== \"undefined\") {\n        if (localStorage.clickcount) {\n            localStorage.clickcount = Number(localStorage.clickcount)+1;\n        } else {\n            localStorage.clickcount = 1;\n        }\n        document.getElementById(\"test\").value= localStorage.clickcount;\n    } else {\n        document.getElementById(\"result\").innerHTML = \"Sorry, your browser does not support web storage...\";\n    }\n}\n</script>",
         "footer_custom": "<script async src=\"//cdn.embedly.com/widgets/platform.js\" charset=\"UTF-8\"></script>"
       },
@@ -4120,7 +4120,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Ls Swap Chevy Trucks",
-        "order": "1",
+        "order": "2",
         "meta_image": "@PROJECT_PATH@/assets/images/screenshot%202025-03-15%20183318-1905x711.jpg"
       },
       "components": [
@@ -4528,6 +4528,151 @@
           },
           "_sourceTheme": "mobirise3",
           "_anchor": "extFooter1-bw"
+        }
+      ]
+    },
+    "fj.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Freland Johnson",
+        "order": "1",
+        "meta_image": "@PROJECT_PATH@/assets/images/img_x1043-666x868.jpg"
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/15ZnOds7rRE?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=15ZnOds7rRE",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0"
+          },
+          "title": "Freland Johnson",
+          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header4-c8"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "30px"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "In memory of Freland Johnson 07/05/1954 to 02/27/2025",
+          "meta": "07/05/4 to 02/27/2025",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header3-ca"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>In memory of Freland Johnson 07/05/1954 to 02/27/2025\r</p><p>Today we celebrate the Life of Captain Freland Johnson. He passed away February 27th at his home in Heron Bay with his family by his side.\r</p><p><br></p><p>Captain Freland is preceded in death by his father Samuel F Johnson; his mother Ova Johnson; His brother Marel Johnson; His sons Jason Hill &amp; Baby Freland A Johnson Jr; His grandson Jonas Freland lyons.\r</p><p><br></p><p>He is survived by his wife Pam; His children Lee, Brandis, Krystal &amp; Scott; His brother Leo (Linda); His sisters Callie (Neil) &amp; Annette (John-Dee); His sister-in-law Dana Johnson; His grandchildren Jesse, Shaun, Caleb, Bryahna, Asher &amp; Autumn; As well as nieces &amp; nephews, other relatives, many friends &amp; his legion family.\r</p><p><br></p><p>A celebration of life will be held on March 22, 2025\r</p><p>from 12-2 at the American legion Post 250\r</p><p>in the Bayley Hall in Fowl River.</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content1-cc",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "30px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=yc5AWImplfE&list=PLFFt9gDayFkpXbnGqtTAg5g6wrrdOhC9H&index=1",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Some of Freland's Favorite Music",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box4-cb"
         }
       ]
     }
