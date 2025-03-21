@@ -4583,14 +4583,15 @@
               "font-size": "30px"
             },
             ".mbr-section-title": {
-              "font-size": "48px"
+              "font-size": "48px",
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#0e0e0e"
           },
           "title": "In memory of Freland Johnson 07/05/1954 to 02/27/2025",
           "meta": "07/05/4 to 02/27/2025",
@@ -4607,7 +4608,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>In memory of Freland Johnson 07/05/1954 to 02/27/2025\r</p><p>Today we celebrate the Life of Captain Freland Johnson. He passed away February 27th at his home in Heron Bay with his family by his side.\r</p><p><br></p><p>Captain Freland is preceded in death by his father Samuel F Johnson; his mother Ova Johnson; His brother Marel Johnson; His sons Jason Hill &amp; Baby Freland A Johnson Jr; His grandson Jonas Freland lyons.\r</p><p><br></p><p>He is survived by his wife Pam; His children Lee, Brandis, Krystal &amp; Scott; His brother Leo (Linda); His sisters Callie (Neil) &amp; Annette (John-Dee); His sister-in-law Dana Johnson; His grandchildren Jesse, Shaun, Caleb, Bryahna, Asher &amp; Autumn; As well as nieces &amp; nephews, other relatives, many friends &amp; his legion family.\r</p><p><br></p><p>A celebration of life will be held on March 22, 2025\r</p><p>from 12-2 at the American legion Post 250\r</p><p>in the Bayley Hall in Fowl River.</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
+          "text": "<p>Today we celebrate the Life of Captain Freland Johnson. He passed away February 27th at his home in Heron Bay with his family by his side.<br></p><p><br></p><p>Captain Freland is preceded in death by his father Samuel F Johnson; his mother Ova Johnson; His brother Marel Johnson; His sons Jason Hill &amp; Baby Freland A Johnson Jr; His grandson Jonas Freland lyons.\n</p><p><br></p><p>He is survived by his wife Pam; His children Lee, Brandis, Krystal &amp; Scott; His brother Leo (Linda); His sisters Callie (Neil) &amp; Annette (John-Dee); His sister-in-law Dana Johnson; His grandchildren Jesse, Shaun, Caleb, Bryahna, Asher &amp; Autumn; As well as nieces &amp; nephews, other relatives, many friends &amp; his legion family.\n</p><p><br></p><p>A celebration of life will be held on March 22, 2025 from 12-2 at the American legion Post 250 in the Bayley Hall in Fowl River.</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
           "_tags": [
             "Theme"
           ],
@@ -4633,18 +4634,18 @@
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1285.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
