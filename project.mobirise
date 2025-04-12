@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "fj.html",
+    "currentPage": "ls-swap-chevy-trucks.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -4118,7 +4118,7 @@
     },
     "ls-swap-chevy-trucks.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "Nothing lasts forever, not even a classic GM small block. When it's time for something new, consider a turnkey Chevy crate engine. We specialize in LSx engines for 1999-2014 Chevy trucks: short block, long block, and complete. If you seek a quality LSx crate motor for sale, you've come to the right place.",
         "title": "Ls Swap Chevy Trucks",
         "order": "2",
         "meta_image": "@PROJECT_PATH@/assets/images/screenshot%202025-03-15%20183318-1905x711.jpg"
