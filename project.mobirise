@@ -66,26 +66,11 @@
     },
     "pwa-switcher": "on",
     "imageResize": true,
-    "mbrsiteDomain": "0vmc3yylgq",
+    "mbrsiteDomain": "9rchsmezzl",
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true,
-    "chatbutton": {
-      "phone": "972-768-1227",
-      "message": "",
-      "size": "65px",
-      "backgroundColor": "#ffffff",
-      "position": "left",
-      "popupMessage": "Hi!\nType a message here. It will go straight to our phone! ",
-      "showPopup": true,
-      "showOnIE": true,
-      "autoOpenTimeout": "5",
-      "headerColor": "#ea8d02",
-      "headerTitle": "Need Help",
-      "placeholder": "Type here",
-      "zIndex": 10,
-      "enabled": true
-    }
+    "chatbutton": false
   },
   "pages": {
     "index.html": {
