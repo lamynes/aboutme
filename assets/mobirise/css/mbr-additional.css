@@ -734,6 +734,9 @@ section.form .container {
 .theme-border {
   border: 1px solid #c1c1c1;
 }
+#ext_menu-bt {
+  text-shadow: 2px 2px 5px grey;
+}
 #ext_menu-bt .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -805,6 +808,9 @@ section.form .container {
 #ext_menu-bt .btn {
   font-size: 30px;
 }
+#header1-33 {
+  
+}
 #header1-33 .mbr-section-lead {
   font-size: 48px;
   color: #56cdf4;
@@ -815,8 +821,96 @@ section.form .container {
 #header1-33 .mbr-section-title SPAN {
   font-size: 80px;
 }
+#header1-33 .mbr-section-title {
+  color: #efefef;
+  font-size: 60px;
+  text-align: center;
+}
+#header1-33 .mbr-section-lead {
+  text-align: center;
+  font-size: 36px;
+  color: #efefef;
+}
+#header1-33 .mbr-section-title SPAN {
+  font-size: 60px;
+  font-family: 'Oswald', sans-serif;
+  color: #f90909;
+}
+#header1-33 .mbr-section-title {
+  text-shadow: 2px 5px 15px black;
+}
+#header1-33 .mbr-section-title {
+  -webkit-animation: blink 3.0s linear infinite;
+  -moz-animation: blink 3.0s linear infinite;
+  -ms-animation: blink 3.0s linear infinite;
+  -o-animation: blink 3.0s linear infinite;
+  animation: blink 3.0s linear infinite;
+}
+#header1-33 h1 {
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+}
+#header1-33 #logos {
+  position: absolute;
+  top: 0px;
+  left: 150px;
+  -webkit-perspective: 200px;
+  perspective: 200px;
+}
+#header1-33 #cube {
+  display: block;
+  position: relative;
+  margin: 40px auto;
+  height: 50px;
+  width: 50px;
+  -webkit-transform-style: preserve-3d;
+  -webkit-transform: rotateY(2deg);
+  transform-style: preserve-3d;
+  transform: rotateY(2deg);
+}
+#header1-33 #front {
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  -webkit-backface-visibility: visible;
+  -webkit-transform: translateZ(100px);
+  backface-visibility: visible;
+  transform: translateZ(100px);
+}
+#header1-33 #back {
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  -webkit-backface-visibility: visible;
+  -webkit-transform: rotateY(180deg) translateZ(100px);
+  backface-visibility: visible;
+  transform: rotateY(180deg) translateZ(100px);
+}
+#header1-33 #cube {
+  -webkit-animation: upyourscache1554171966417 5s infinite linear;
+  animation: upyourscache1554171966417 5s infinite linear;
+}
+@-webkit-keyframes upyourscache1554171966417 {
+  0% {
+    -webkit-transform: rotateX(0) rotateY(0) rotateZ(0);
+  }
+  100% {
+    -webkit-transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+  }
+}
+@keyframes upyourscache1554171966417 {
+  0% {
+    transform: rotateX(0) rotateY(0) rotateZ(0);
+  }
+  100% {
+    transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+  }
+}
 #extCountdown1-b5 .mbr-section-title {
   color: #ffffff;
+}
+#header3-ab {
+  
 }
 #header3-ab .mbr-section-title,
 #header3-ab .mbr-section-subtitle {
@@ -824,6 +918,29 @@ section.form .container {
 }
 #header3-ab .mbr-section-title {
   color: #efefef;
+}
+#header3-ab .mbr-section-title,
+#header3-ab .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-ab .mbr-section-subtitle {
+  color: #262626;
+}
+#header3-ab .mbr-section-title {
+  color: #262626;
+  font-size: 60px;
+}
+#header3-ab .mbr-section-title SPAN {
+  font-family: 'Oswald', sans-serif;
+  font-size: 72px;
+  color: #000000;
+}
+#header3-ab .mbr-section-subtitle I {
+  font-size: 20px;
+  color: #000000;
+}
+#header3-ab .mbr-section-title {
+  text-shadow: 0 0 20px #000000;
 }
 #extMsg-box4-b6 P {
   font-size: 36px;
@@ -889,6 +1006,12 @@ section.form .container {
 #extForm1-79 .btn {
   font-size: 24px;
 }
+#extForm1-79 h2 {
+  text-shadow: 0 0 20px red;
+}
+#social-buttons1-a8 {
+  text-shadow: 0 0 20px #000000;
+}
 #social-buttons1-a8 .mbr-section-title {
   color: #000000;
 }
@@ -902,6 +1025,9 @@ section.form .container {
 
 
 
+#ext_menu-bt {
+  text-shadow: 2px 2px 5px grey;
+}
 #ext_menu-bt .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1017,6 +1143,9 @@ section.form .container {
 
 
 
+#ext_menu-bt {
+  text-shadow: 2px 2px 5px grey;
+}
 #ext_menu-bt .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1098,6 +1227,9 @@ section.form .container {
 
 
 
+#ext_menu-bt {
+  text-shadow: 2px 2px 5px grey;
+}
 #ext_menu-bt .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1201,6 +1333,9 @@ section.form .container {
 
 
 
+#ext_menu-bt {
+  text-shadow: 2px 2px 5px grey;
+}
 #ext_menu-bt .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1312,6 +1447,20 @@ section.form .container {
   color: #efefef;
   font-size: 48px;
 }
+#extMsg-box3-ai .mbr-section-title {
+  text-shadow: 2px 5px 15px black;
+}
+#extMsg-box3-ai .mbr-section-title {
+  -webkit-animation: blink 3.0s linear infinite;
+  -moz-animation: blink 3.0s linear infinite;
+  -ms-animation: blink 3.0s linear infinite;
+  -o-animation: blink 3.0s linear infinite;
+  animation: blink 3.0s linear infinite;
+}
+#extMsg-box3-ai h1 {
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+}
 #social-buttons1-9i .mbr-section-title {
   color: #0c0c0c;
   font-family: 'Oswald', sans-serif;
@@ -1326,6 +1475,9 @@ section.form .container {
 
 
 
+#ext_menu-bt {
+  text-shadow: 2px 2px 5px grey;
+}
 #ext_menu-bt .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1396,6 +1548,9 @@ section.form .container {
 }
 #ext_menu-bt .btn {
   font-size: 30px;
+}
+#msg-box7-9f {
+  text-shadow: 2px 2px 15px black;
 }
 #msg-box7-9f .mbr-section-title,
 #msg-box7-9f .lead p {
@@ -1415,6 +1570,9 @@ section.form .container {
   color: #b8312f;
   font-family: 'Oswald', sans-serif;
 }
+#msg-box7-9f p {
+  text-shadow: 2px 2px 15px black;
+}
 #social-buttons1-96 .mbr-section-title {
   color: #000000;
 }
@@ -1427,6 +1585,9 @@ section.form .container {
 
 
 
+#ext_menu-bt {
+  text-shadow: 2px 2px 5px grey;
+}
 #ext_menu-bt .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1497,6 +1658,9 @@ section.form .container {
 }
 #ext_menu-bt .btn {
   font-size: 30px;
+}
+#msg-box7-9a {
+  text-shadow: 2px 5px 15px black;
 }
 #msg-box7-9a .mbr-section-title,
 #msg-box7-9a .lead p {
@@ -1518,6 +1682,9 @@ section.form .container {
 #msg-box7-9a UL {
   color: #ffffff;
 }
+#msg-box7-9a p {
+  text-shadow: 2px 5px 15px black;
+}
 #social-buttons1-96 .mbr-section-title {
   color: #000000;
 }
@@ -1530,6 +1697,9 @@ section.form .container {
 
 
 
+#ext_menu-bt {
+  text-shadow: 2px 2px 5px grey;
+}
 #ext_menu-bt .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1600,6 +1770,9 @@ section.form .container {
 }
 #ext_menu-bt .btn {
   font-size: 30px;
+}
+#msg-box7-9b {
+  text-shadow: 2px 2px 5px black;
 }
 #msg-box7-9b .mbr-section-title,
 #msg-box7-9b .lead p {
@@ -1619,6 +1792,9 @@ section.form .container {
 #msg-box7-9b UL {
   color: #ffffff;
 }
+#msg-box7-9b p {
+  text-shadow: 2px 2px 5px black;
+}
 #social-buttons1-8y .mbr-section-title {
   color: #000000;
 }
@@ -1632,6 +1808,9 @@ section.form .container {
 
 
 
+#ext_menu-bt {
+  text-shadow: 2px 2px 5px grey;
+}
 #ext_menu-bt .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1702,6 +1881,9 @@ section.form .container {
 }
 #ext_menu-bt .btn {
   font-size: 30px;
+}
+#msg-box7-9b {
+  text-shadow: 2px 2px 5px #000000;
 }
 #msg-box7-9b .mbr-section-title,
 #msg-box7-9b .lead p {
@@ -1722,6 +1904,9 @@ section.form .container {
 #msg-box7-9b UL {
   color: #ffffff;
 }
+#msg-box7-9b p {
+  text-shadow: 2px 2px 5px black;
+}
 #social-buttons1-8y .mbr-section-title {
   color: #000000;
 }
@@ -1735,6 +1920,9 @@ section.form .container {
 
 
 
+#ext_menu-bt {
+  text-shadow: 2px 2px 5px grey;
+}
 #ext_menu-bt .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1805,6 +1993,9 @@ section.form .container {
 }
 #ext_menu-bt .btn {
   font-size: 30px;
+}
+#extHeader12-b3 {
+  text-shadow: 2px 10px 15px black;
 }
 #extHeader12-b3 H3 {
   color: #000000;
@@ -1832,6 +2023,9 @@ section.form .container {
 
 
 
+#ext_menu-bt {
+  text-shadow: 2px 2px 5px grey;
+}
 #ext_menu-bt .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1903,6 +2097,9 @@ section.form .container {
 #ext_menu-bt .btn {
   font-size: 30px;
 }
+#header2-a2 {
+  text-shadow: 2px 10px 15px black;
+}
 #header2-a2 .mbr-section-text {
   font-size: 60px;
   color: #ffffff;
@@ -1924,6 +2121,9 @@ section.form .container {
 }
 #header2-a2 .mbr-section-title SPAN {
   color: #ffffff;
+}
+#header2-a2 .mbr-figure {
+  box-shadow: 10px 10px 15px black;
 }
 #header3-ak .mbr-section-title,
 #header3-ak .mbr-section-subtitle {
@@ -1951,6 +2151,9 @@ section.form .container {
 
 
 
+#ext_menu-bv {
+  text-shadow: 2px 2px 5px grey;
+}
 #ext_menu-bv .hide-buttons .nav-btn {
   display: none !important;
 }

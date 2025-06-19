@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lamynes",
-    "currentPage": "ls-swap-chevy-trucks.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,8 +31,8 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 450,
-    "versionPublish": "5.9.18",
+    "uniqCompNum": 451,
+    "versionPublish": "6.0.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -61,7 +61,7 @@
     "PWA": {
       "enabled": true,
       "name": "",
-      "icon": "@PROJECT_PATH@/assets/images/s-l300-1-300x189-512x512_1.png",
+      "icon": "@ADDONS_PATH@/pwa-builder/assets/icons/512x512.png",
       "themeColor": "#303030"
     },
     "pwa-switcher": "on",
@@ -101,7 +101,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -201,7 +201,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/_53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -220,7 +220,7 @@
           "text": "BEAUTIFUL WEBSITES FOR ALL DEVICES",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#extForm1-79\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\">BLOG</a>",
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n.mbr-section-title {\n  color: #efefef;\n  font-size: 60px;\n  text-align: center;\n}\n.mbr-section-lead {\n  text-align: center;\n  font-size: 36px;\n  color: #efefef;\n}\n.mbr-section-title SPAN {\n  font-size: 60px;\n  font-family: 'Oswald', sans-serif;\n  color: #f90909;\n}\n.mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}\n#logos {\n  position:absolute;  top: 0px;  left: 150px;  -webkit-perspective: 200px;\n   perspective: 200px; \n}\n#cube {\n  display: block;  position: relative;  margin: 40px auto;\n  height: 50px;  width: 50px;\n  -webkit-transform-style: preserve-3d;\n  -webkit-transform:  rotateY(2deg);\n  transform-style: preserve-3d;\n  transform:  rotateY(2deg);\n\n}\n#front {\n  position: absolute;  height: 150px;  width: 150px;\n  -webkit-backface-visibility: visible;\n  -webkit-transform:  translateZ(100px);\n  backface-visibility: visible;\n  transform:  translateZ(100px);\n}\n#back {\n  position: absolute;  height: 150px;  width: 150px;\n  -webkit-backface-visibility: visible;\n  -webkit-transform:  rotateY(180deg) translateZ(100px);\n  backface-visibility: visible;\n  transform: rotateY(180deg) translateZ(100px);\n}\n#cube {\n  -webkit-animation: upyourscache1554171966417 5s infinite linear;\n  animation: upyourscache1554171966417 5s infinite linear;\n\n}\n@-webkit-keyframes upyourscache1554171966417 {\n  0% { -webkit-transform: rotateX(0) rotateY(0) rotateZ(0) ;}\n  100% { -webkit-transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg) ;}\n}\n@keyframes upyourscache1554171966417 {\n  0% { transform: rotateX(0) rotateY(0) rotateZ(0) ;}\n  100% { transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg) ;}\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"59\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/download-4-1440x900.png&quot;);\">\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"9\"><span style=\"font-weight: normal;\">MODERN &amp; MOBILE READY</span></h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"10\">BEAUTIFUL WEBSITES FOR ALL DEVICES</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"index.html#extForm1-79\" code-editable-id=\"11\">CONTACT</a> <a class=\"btn btn-lg btn-white btn-white-outline mbr-editable-button\" href=\"blog.html\" code-editable-id=\"12\">BLOG</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"59\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/download-4-1440x900.png&quot;);\">\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"14\"><span style=\"font-weight: normal;\">MODERN &amp; MOBILE READY</span></h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"15\">BEAUTIFUL WEBSITES FOR ALL DEVICES</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"index.html#extForm1-79\" code-editable-id=\"16\">CONTACT</a> <a class=\"btn btn-lg btn-white btn-white-outline mbr-editable-button\" href=\"blog.html\" code-editable-id=\"17\">BLOG</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
@@ -424,6 +424,24 @@
           "_sourceTheme": "mobirise3"
         },
         {
+          "alias": "eb-youtube-feed",
+          "_isSecondary": true,
+          "_styles": {},
+          "_name": "eb-youtube-feed",
+          "_sourceTheme": "mobirise3",
+          "_customHTML": "<section class=\"eb-youtube-feed\" group=\"Widget\"><script src=\"https://s.electricblaze.com/widget.js\" defer=\"\"></script>\n<div class=\"electricblaze-id-2UhxFNf\"></div></section>",
+          "_cid": "uOAYu1pQC5",
+          "_anchor": "eb-youtube-feed-ci",
+          "safe": {
+            "id": 38287,
+            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2UhxFNf\"></div>"
+          },
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -620,7 +638,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary mbr-editable-button\">CONTACT</a>"
           },
           "media": {
             "image": {

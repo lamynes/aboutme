@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html  >
 <head>
-  <!-- Site made with Mobirise Website Builder v5.9.18, https://mobirise.com -->
+  
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v5.9.18, mobirise.com">
+  
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/lamynespl-logo-n-1-129x128.png" type="image/x-icon">
   <meta name="description" content="Web Designer / Software Engineer / Car Enthusiast">
@@ -18,15 +18,17 @@
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/animatecss/animate.min.css">
+  <link rel="stylesheet" href="assets/popup-overlay-plugin/style.css">
   <link rel="stylesheet" href="assets/shopping-cart/minicart-theme.css">
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise3-blocks-plugin/css/style.css">
   <link rel="stylesheet" href="assets/mobirise-gallery/style.css">
+  <link rel="stylesheet" href="assets/recaptcha.css">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Oswald:400,300,700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:400,300,700&display=swap"></noscript>
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=peYPxe"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=peYPxe" type="text/css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=sVYEK4"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=sVYEK4" type="text/css">
 
   
   
@@ -44,7 +46,20 @@ function clickCounter() {
     }
 }
 </script>
-</head>
+<meta name="theme-color" content="#303030">
+<link rel="manifest" href="manifest.json">
+<script src="sw-connect.js"></script>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="assets/images/apple-launch-640x1136.png">
+<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="assets/images/apple-launch-750x1334.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="assets/images/apple-launch-1242x2208.png">
+<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="assets/images/apple-launch-1125x2436.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="assets/images/apple-launch-1536x2048.png">
+<link rel="apple-touch-startup-image" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="assets/images/apple-launch-1668x2224.png">
+<link rel="apple-touch-startup-image" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="assets/images/apple-launch-2048x2732.png">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="">
+<link rel="apple-touch-icon" href="apple-touch-icon.png"></head>
 
 <script src="https://www.gstatic.com/firebasejs/5.5.4/firebase.js"></script>
 <script>
@@ -60,7 +75,7 @@ function clickCounter() {
   firebase.initializeApp(config);
 </script>
   <body>
-<script>var shopcartSettings = {"shopcart_top_offset":120,"side_offset":20,"site_width":1150,"shopcart_icon_color":"#FFFFFF","shopcart_back_color":"#000000","shopcart_icon_size":30,"sc_count_color":"#FFFFFF","sc_count_back_color":"#e25041","sc_count_size":12,"checkout_button":"Check out with"};</script>
+<script>var shopcartSettings = {"shopcart_top_offset":120,"side_offset":20,"site_width":1150,"shopcart_icon_color":"#FFFFFF","shopcart_back_color":"#000000","shopcart_icon_size":30,"sc_count_color":"#FFFFFF","sc_count_back_color":"#e25041","sc_count_size":12,"checkout_button":"Check out with <img src=\"assets/shopping-cart/paypal_btn.svg\" alt=\"PayPal\">","cartTitle":"Your Order:","popup_button":"Add to Cart"};</script>
 
 <!-- Analytics -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -76,7 +91,7 @@ function clickCounter() {
 
 
   
-  <section id="ext_menu-bt" data-rv-view="44">
+  <section id="ext_menu-bt" data-rv-view="0">
 
     <nav class="navbar navbar-dropdown navbar-fixed-top">
         <div class="container">
@@ -96,7 +111,7 @@ function clickCounter() {
                         <div class="hamburger-icon"></div>
                     </button>
 
-                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="blog.html">BLOG</a></li><li class="nav-item"><a class="nav-link link" href="c5-rebuild.html">C5-LS6 REBUILD</a></li><li class="nav-item dropdown open"><a class="nav-link link dropdown-toggle" href="muscle.html" data-toggle="dropdown-submenu" aria-expanded="true">MUSCLE CARS</a><div class="dropdown-menu"><a class="dropdown-item" href="fun.html">FUN TIMES</a><a class="dropdown-item text-primary" href="ls-swap-chevy-trucks.html">LS SWAP Trucks</a><a class="dropdown-item" href="muscle.html">69 CAMARO BB</a><a class="dropdown-item text-primary" href="jeep-custom.html">JEEP CUSTOM</a><a class="dropdown-item" href="c1-custom.html">C1 CORVETTE</a><a class="dropdown-item" href="c7-corvette-custom.html">C7 CORVETTE</a><a class="dropdown-item" href="lt1-camaro.html">LT1 CAMARO</a></div></li></ul>
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="blog.html">BLOG</a></li><li class="nav-item"><a class="nav-link link" href="c5-rebuild.html">C5-LS6 REBUILD</a></li><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle" href="muscle.html" data-toggle="dropdown-submenu" aria-expanded="false">MUSCLE CARS</a><div class="dropdown-menu"><a class="dropdown-item" href="fun.html">FUN TIMES</a><a class="dropdown-item text-primary" href="ls-swap-chevy-trucks.html">LS SWAP Trucks</a><a class="dropdown-item" href="muscle.html">69 CAMARO BB</a><a class="dropdown-item text-primary" href="jeep-custom.html">JEEP CUSTOM</a><a class="dropdown-item" href="c1-custom.html">C1 CORVETTE</a><a class="dropdown-item" href="c7-corvette-custom.html">C7 CORVETTE</a><a class="dropdown-item" href="lt1-camaro.html">LT1 CAMARO</a></div></li></ul>
                     <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
                         <div class="close-icon"></div>
                     </button>
@@ -109,29 +124,28 @@ function clickCounter() {
 
 </section>
 
-<section class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar" id="header1-33" data-rv-view="46" style="background-image: url(assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg);">
-
-    <div class="mbr-overlay" style="opacity: 0.2; background-color: rgb(0, 0, 0);"></div>
+<div id="header1-33" class="mbr-after-navbar"><section class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-after-navbar" data-rv-view="59" style="background-image: url(assets/images/download-4-1440x900.png);">
 
     <div class="mbr-table-cell">
 
         <div class="container">
             <div class="row">
+
                 <div class="mbr-section col-md-10 col-md-offset-1 text-xs-center">
 
-                    <h1 class="mbr-section-title display-1"><span style="font-weight: normal;">MODERN &amp; MOBILE READY</span></h1>
-                    <p class="mbr-section-lead lead">BEAUTIFUL WEBSITES FOR ALL DEVICES</p>
-                    <div class="mbr-section-btn"><a class="btn btn-lg btn-warning" href="index.html#extForm1-79">CONTACT</a> <a class="btn btn-lg btn-white btn-white-outline" href="blog.html">BLOG</a></div>
+                    <h1 class="mbr-section-title display-1 mbr-editable-content"><span style="font-weight: normal;">MODERN &amp; MOBILE READY</span></h1>
+                    <p class="mbr-section-lead lead mbr-editable-content">BEAUTIFUL WEBSITES FOR ALL DEVICES</p>
+                    <div class="mbr-section-btn"><a class="btn btn-lg btn-primary mbr-editable-button" href="index.html#extForm1-79">CONTACT</a> <a class="btn btn-lg btn-white btn-white-outline mbr-editable-button" href="blog.html">BLOG</a></div>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="mbr-arrow mbr-arrow-floating" aria-hidden="true"><a href="#features3-b7"><i class="mbr-arrow-icon"></i></a></div>
+    
 
-</section>
+</section></div>
 
-<section class="mbr-cards mbr-section mbr-section-nopadding" id="features3-b7" data-rv-view="49" style="background-color: rgb(12, 12, 12);">
+<section class="mbr-cards mbr-section mbr-section-nopadding" id="features3-b7" data-rv-view="3" style="background-color: rgb(12, 12, 12);">
 
     
 
@@ -187,7 +201,7 @@ function clickCounter() {
     </div>
 </section>
 
-<section class="mbr-section extCountdown1" id="extCountdown1-b5" data-bg-video="https://www.youtube.com/embed/vygAgkXpHyc?rel=0&amp;amp;&amp;showinfo=0&amp;autoplay=0&amp;loop=0" data-rv-view="52" style="padding-top: 160px; padding-bottom: 160px;">
+<section class="mbr-section extCountdown1" id="extCountdown1-b5" data-bg-video="https://www.youtube.com/embed/vygAgkXpHyc?rel=0&amp;amp;&amp;showinfo=0&amp;autoplay=0&amp;loop=0" data-rv-view="6" style="padding-top: 160px; padding-bottom: 160px;">
 
     
 
@@ -197,18 +211,21 @@ function clickCounter() {
     </div>
 </section>
 
-<section class="mbr-section mbr-section__container article" id="header3-ab" data-rv-view="55" style="background-color: rgb(14, 14, 14); padding-top: 60px; padding-bottom: 40px;">
+<div id="header3-ab"><section class="mbr-section mbr-section__container article" data-rv-view="3" style="background-color: rgb(255, 255, 255); padding-top: 60px; padding-bottom: 40px;">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
-                <h3 class="mbr-section-title display-2"><span style="font-weight: normal;">CURRENT PROJECTS</span></h3>
-                <p class="mbr-section-subtitle"><em>LAMYNES.PL</em></p>
+                <h3 class="mbr-section-title display-2 mbr-editable-content"><span style="font-weight: normal;">DESIGNER</span></h3>
+                <small class="mbr-section-subtitle mbr-editable-content"><em>LAMYNES.PL</em></small>
             </div>
         </div>
     </div>
-</section>
+</section></div>
 
-<section class="mbr-section extMsg-box4 tab-content" id="extMsg-box4-b6" data-bg-video="https://www.youtube.com/embed/1culRgWy9lM?rel=0&amp;amp;&amp;showinfo=0&amp;autoplay=0&amp;loop=0" data-rv-view="57" style="padding-top: 200px; padding-bottom: 200px;">
+<section class="eb-youtube-feed cid-uOAYu1pQC5" id="eb-youtube-feed-ci"><script src="https://s.electricblaze.com/widget.js" defer=""></script>
+<div class="electricblaze-id-2UhxFNf"></div></section>
+
+<section class="mbr-section extMsg-box4 tab-content" id="extMsg-box4-b6" data-bg-video="https://www.youtube.com/embed/1culRgWy9lM?rel=0&amp;amp;&amp;showinfo=0&amp;autoplay=0&amp;loop=0" data-rv-view="10" style="padding-top: 200px; padding-bottom: 200px;">
 
     <div class="mbr-overlay" style="opacity: 0.2; background-color: rgb(0, 0, 0);">
     </div>
@@ -232,7 +249,7 @@ function clickCounter() {
             </div> 
 </section>
 
-<section class="mbr-gallery mbr-section  extShop1" id="extShop1-bo" data-rv-view="60" style="background-color: rgb(255, 255, 255); padding-top: 3rem; padding-bottom: 3rem;">
+<section class="mbr-gallery mbr-section  extShop1" id="extShop1-bo" data-rv-view="13" style="background-color: rgb(255, 255, 255); padding-top: 3rem; padding-bottom: 3rem;">
     <!-- Gallery -->
     <div class="col-md-9 clearfix" style="width: 100%;">
       
@@ -294,7 +311,7 @@ function clickCounter() {
     </div>
 </section>
 
-<section class="mbr-section extForm1 mbr-parallax-background" id="extForm1-79" data-rv-view="65" style="background-image: url(assets/images/z06-wireframeao-1-1600x900.jpg); padding-top: 100px; padding-bottom: 50px;">
+<section class="mbr-section extForm1 mbr-parallax-background" id="extForm1-79" data-rv-view="18" style="background-image: url(assets/images/z06-wireframeao-1-1600x900.jpg); padding-top: 100px; padding-bottom: 50px;">
 
     <div class="mbr-overlay" style="opacity: 0.3; background-color: rgb(255, 255, 255);">
     </div>
@@ -322,7 +339,7 @@ function clickCounter() {
                                         <div hidden="" data-form-alert-success="true" class="alert alert-form alert-success text-xs-center">Thank you, I'll get back with you as soon as possible.</div>
                                     </div>
                                     <form action="https://mobirise.com/" method="post" data-form-title="DROP A MESSAGE">
-                                        <input type="hidden" value="OuAniQDehdkGrwoIEa5D4U1wTiKVqXXCoUc7dkcMaE1OEUHK6A0v65CjzuzitwkAsB/RYqYdi2bi2y409coZ0KYSgNnNOblil1iEcbIldB9C+9E+W4mXkPy98Ra+Ikpa.EMMrZuSCbYm7uoccmA3XA/cHg9ym2v5nPj8P8FXOG29hd4OHxE6qOo2Ke5ec6yNbbDq0LcTyOyUQGIRF8c8uk/nB9dPk6Yl9gX/hU3B0ILtrtqWwgLkrC92f21kxrRDY" data-form-email="true">
+                                        <input type="hidden" value="kQ0Vs99wS7AvnFO1aqSxi4jAXCWckb05O02yStGbi0V6E5YQcANzq3Z17gMT4fRn6D5CiiiRvxD1GG8/svvyTP00ZTiu/2wXbaHZb4YrkXrNFX3Z22u5mOkdw77W/92c.U486SeplgyvqHVJuOb0VP5UN8kg3ktJaKrfHOqYxWTVVo0W8iLkvXP3VayjXXsU3xH73wugbk7fAxz3KK/Y4cBlwdFdQR9v4XP9ql1Q2U8vU2mSky6tPnl/4/Sn7fJIa" data-form-email="true">
     
                                             <div class="col-xs-6">
                                                  <input type="text" class="form-control" name="name" required="" data-form-field="Name" placeholder="Name*">
@@ -359,7 +376,7 @@ function clickCounter() {
 
 </section>
 
-<section class="mbr-section mbr-section-md-padding" id="social-buttons1-a8" data-rv-view="75" style="background-color: rgb(255, 255, 255); padding-top: 60px; padding-bottom: 60px;">
+<section class="mbr-section mbr-section-md-padding" id="social-buttons1-a8" data-rv-view="28" style="background-color: rgb(255, 255, 255); padding-top: 60px; padding-bottom: 60px;">
     
     <div class="container">
         <div class="row">
@@ -385,7 +402,7 @@ function clickCounter() {
     </div>
 </section>
 
-<section class="mbr-section extFooter1" id="extFooter1-br" data-rv-view="77" style="background-color: rgb(12, 12, 12); padding-top: 40px; padding-bottom: 40px;">
+<section class="mbr-section extFooter1" id="extFooter1-br" data-rv-view="30" style="background-color: rgb(12, 12, 12); padding-top: 40px; padding-bottom: 40px;">
 
     
 
@@ -420,7 +437,6 @@ function clickCounter() {
   <script src="assets/firebase-blocks-plugin/firebase-plugin.js"></script>
   <script src="https://cdn.ckeditor.com/4.7.2/standard/ckeditor.js"></script>
   <script src="assets/shopping-cart/minicart.js"></script>
-  <script src="assets/shopping-cart/jquery.easing.min.js"></script>
   <script src="assets/shopping-cart/minicart-customizer.js"></script>
   <script src="assets/dropdown/js/script.min.js"></script>
   <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
@@ -432,8 +448,8 @@ function clickCounter() {
   <script src="assets/mobirise3-blocks-plugin/js/script.js"></script>
   <script src="assets/mobirise-gallery/player.min.js"></script>
   <script src="assets/mobirise-gallery/script.js"></script>
-  <script src="assets/formoid/formoid.min.js"></script>
-  
+  <script src="assets/formoid.min.js"></script>
+  <script src="assets/shopping-cart/shop-lightbox.js"></script>
   
   
  <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
