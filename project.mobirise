@@ -66,11 +66,28 @@
     },
     "pwa-switcher": "on",
     "imageResize": true,
-    "mbrsiteDomain": "9rchsmezzl",
+    "mbrsiteDomain": "u5trfc7jue",
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true,
-    "chatbutton": false
+    "chatbutton": {
+      "phone": "9727681227",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#ffffff",
+      "position": "left",
+      "popupMessage": "Hi!\n\nType a message here. It will go straight to our phone!\n",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": "5",
+      "headerColor": "#ea8d02",
+      "headerTitle": " Chat with us on WhatsApp!",
+      "placeholder": "Type here",
+      "zIndex": 10,
+      "chatbuttonPopup": true,
+      "defaultMessage": "",
+      "enabled": true
+    }
   },
   "pages": {
     "index.html": {
