@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 451,
+    "uniqCompNum": 452,
     "versionPublish": "6.0.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -591,6 +591,21 @@
           "_name": "extShop1",
           "_sourceTheme": "mobirise3",
           "_anchor": "extShop1-bo"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n<!-- Google Calendar Appointment Scheduling begin -->\n<iframe src=\"https://calendar.google.com/calendar/appointments/schedules/AcZssZ3KcOvDW5sznrjCFT8adx6eVqXAG4ZF8bzAmhA9mkZ-qxosr4xawnoYdsIM-YZ5EXJPXJ7OA8_b?gv=true\" style=\"border: 0\" width=\"100%\" height=\"600\" frameborder=\"0\"></iframe>\n<!-- end Google Calendar Appointment Scheduling -->\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "custom-html-cj",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": "mobirise3-blocks/components",
