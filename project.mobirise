@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 452,
+    "uniqCompNum": 453,
     "versionPublish": "6.0.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -170,7 +170,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n%20(1)-129x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n-1-129x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -221,7 +221,7 @@
           "text": "BEAUTIFUL WEBSITES FOR ALL DEVICES",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#extForm1-79\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\">BLOG</a>",
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n.mbr-section-title {\n  color: #efefef;\n  font-size: 60px;\n  text-align: center;\n}\n.mbr-section-lead {\n  text-align: center;\n  font-size: 36px;\n  color: #efefef;\n}\n.mbr-section-title SPAN {\n  font-size: 60px;\n  font-family: 'Oswald', sans-serif;\n  color: #f90909;\n}\n.mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}\n#logos {\n  position:absolute;  top: 0px;  left: 150px;  -webkit-perspective: 200px;\n   perspective: 200px; \n}\n#cube {\n  display: block;  position: relative;  margin: 40px auto;\n  height: 50px;  width: 50px;\n  -webkit-transform-style: preserve-3d;\n  -webkit-transform:  rotateY(2deg);\n  transform-style: preserve-3d;\n  transform:  rotateY(2deg);\n\n}\n#front {\n  position: absolute;  height: 150px;  width: 150px;\n  -webkit-backface-visibility: visible;\n  -webkit-transform:  translateZ(100px);\n  backface-visibility: visible;\n  transform:  translateZ(100px);\n}\n#back {\n  position: absolute;  height: 150px;  width: 150px;\n  -webkit-backface-visibility: visible;\n  -webkit-transform:  rotateY(180deg) translateZ(100px);\n  backface-visibility: visible;\n  transform: rotateY(180deg) translateZ(100px);\n}\n#cube {\n  -webkit-animation: upyourscache1554171966417 5s infinite linear;\n  animation: upyourscache1554171966417 5s infinite linear;\n\n}\n@-webkit-keyframes upyourscache1554171966417 {\n  0% { -webkit-transform: rotateX(0) rotateY(0) rotateZ(0) ;}\n  100% { -webkit-transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg) ;}\n}\n@keyframes upyourscache1554171966417 {\n  0% { transform: rotateX(0) rotateY(0) rotateZ(0) ;}\n  100% { transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg) ;}\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"59\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/download-4-1440x900.png&quot;);\">\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"77\"><span style=\"font-weight: normal;\">MODERN &amp; MOBILE READY</span></h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"78\">BEAUTIFUL WEBSITES FOR ALL DEVICES</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"index.html#extForm1-79\" code-editable-id=\"79\">CONTACT</a> <a class=\"btn btn-lg btn-white btn-white-outline mbr-editable-button\" href=\"blog.html\" code-editable-id=\"80\">BLOG</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"59\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/download-4-1440x900.png&quot;);\">\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"24\"><span style=\"font-weight: normal;\">MODERN &amp; MOBILE READY</span></h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"25\">BEAUTIFUL WEBSITES FOR ALL DEVICES</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"index.html#extForm1-79\" code-editable-id=\"26\">CONTACT</a> <a class=\"btn btn-lg btn-white btn-white-outline mbr-editable-button\" href=\"blog.html\" code-editable-id=\"27\">BLOG</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
@@ -264,7 +264,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/newarc_ai_gr_qicvlsqo2ylnlfgqzsihyfpehclps5y5-removebg-preview-600x393.png",
+              "src": "@PROJECT_PATH@/assets/images/newarc-ai-gr-qicvlsqo2ylnlfgqzsihyfpehclps5y5-removebg-preview-600x393.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -275,7 +275,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/inniovative-auto-detail-removebg-preview%20-%20copy-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/inniovative-auto-detail-removebg-preview-copy-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -297,7 +297,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logoshadow-372x128-81-2%20(3)-600x206.png",
+              "src": "@PROJECT_PATH@/assets/images/logoshadow-372x128-81-2-3-600x206.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -308,7 +308,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/278606874_102288189137099_949451906700332832_n__2_-removebg-preview-600x331.png",
+              "src": "@PROJECT_PATH@/assets/images/278606874-102288189137099-949451906700332832-n-2-removebg-preview-600x331.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -319,7 +319,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush%20asphalt-1%20(7)-600x412.png",
+              "src": "@PROJECT_PATH@/assets/images/roush-asphalt-1-7-600x412.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -563,7 +563,7 @@
                 "onsale": "-50%",
                 "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=26.00&amp;item_name=Cool%20Corvettes%20Screensaver&amp;currency_code=USD\" class=\"btn btn-warning\">Buy now!</a>",
                 "image": "@PROJECT_PATH@/assets/images/_00ce6616-b14a-42a2-9b79-f922f245eb08-1024x1024.png",
-                "thumb": "@PROJECT_PATH@/assets/images/-00ce6616-b14a-42a2-9b79-f922f245eb08-1024x1024-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/00ce6616-b14a-42a2-9b79-f922f245eb08-1024x1024-800x800.png",
                 "caption": "Type caption here",
                 "alt": "",
                 "title": "",
@@ -790,7 +790,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n%20(1)-129x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n-1-129x128.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -816,6 +816,24 @@
           },
           "_anchor": "extFooter1-br",
           "_sourceTheme": "mobirise3"
+        },
+        {
+          "alias": "eb-chats-widget",
+          "_isSecondary": true,
+          "_styles": {},
+          "_name": "eb-chats-widget",
+          "_sourceTheme": "mobirise3",
+          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
+          "_cid": "uP2rGx9RlZ",
+          "_anchor": "eb-chats-widget-ck",
+          "safe": {
+            "id": 38286,
+            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2UhxFNe\"></div>"
+          },
+          "_protectedParams": [],
+          "_global": false,
+          "_once": "chat",
+          "_params": {}
         }
       ]
     },
@@ -953,7 +971,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/_2cf5e5de-1386-47f5-b718-642c2a5b8aa7-1024x1024.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2cf5e5de-1386-47f5-b718-642c2a5b8aa7-1024x1024.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1430,7 +1448,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/_6668780e-4d6d-44e0-a20f-bcb12e7b756b-1024x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-6668780e-4d6d-44e0-a20f-bcb12e7b756b-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -1716,7 +1734,7 @@
             "animText3": "NEW APP",
             "typeSpeed": "80",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/_b4e094eb-41c3-4dcd-a507-22f1403f636e-1024x1024.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-b4e094eb-41c3-4dcd-a507-22f1403f636e-1024x1024.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1975,7 +1993,7 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/_b4e094eb-41c3-4dcd-a507-22f1403f636e-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-b4e094eb-41c3-4dcd-a507-22f1403f636e-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1991,7 +2009,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_070bcb49-aa32-49e1-8762-283f0e3d62ff-1024x1024.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-070bcb49-aa32-49e1-8762-283f0e3d62ff-1024x1024.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2007,7 +2025,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_0e04a44d-d03f-4b25-a5aa-269cc02d10e8-1024x1024.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-0e04a44d-d03f-4b25-a5aa-269cc02d10e8-1024x1024.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2023,7 +2041,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_658e22fd-ae09-4e5e-ae59-320bf918eb3f-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-658e22fd-ae09-4e5e-ae59-320bf918eb3f-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2039,7 +2057,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_afd6df80-c03e-40e8-aa5d-d60b2200f545-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-afd6df80-c03e-40e8-aa5d-d60b2200f545-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2055,7 +2073,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_f78f18ff-bd0e-43d4-97ee-50aa77b02d56-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-f78f18ff-bd0e-43d4-97ee-50aa77b02d56-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2071,7 +2089,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_f0399487-5d23-4f37-8891-fc96ffa80423-1024x1024.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-f0399487-5d23-4f37-8891-fc96ffa80423-1024x1024.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2087,7 +2105,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_aa43e051-5c6f-4dcc-8586-6e357bca52b6-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-aa43e051-5c6f-4dcc-8586-6e357bca52b6-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2103,7 +2121,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_8bd1bc4b-325f-43da-8dca-9e7438fdda15-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-8bd1bc4b-325f-43da-8dca-9e7438fdda15-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2119,7 +2137,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_ab544443-9776-41ed-a320-e93561a0246b-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-ab544443-9776-41ed-a320-e93561a0246b-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2135,7 +2153,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_b6036f93-1700-4b15-98e4-1a3f621c3481-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-b6036f93-1700-4b15-98e4-1a3f621c3481-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2151,7 +2169,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_fae15fcd-59ea-4249-b224-35311b72dfea-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-fae15fcd-59ea-4249-b224-35311b72dfea-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2167,7 +2185,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_18d3da68-6429-44aa-afd5-b4e03a0d67be-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-18d3da68-6429-44aa-afd5-b4e03a0d67be-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2183,7 +2201,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_f08629b2-5085-4bae-ab82-aab41dd5fe3a-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-f08629b2-5085-4bae-ab82-aab41dd5fe3a-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2199,7 +2217,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_b92ff7be-b8c8-4f5d-b355-c4997683cedd-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-b92ff7be-b8c8-4f5d-b355-c4997683cedd-1024x1024.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -3932,7 +3950,7 @@
             "showArrow": false,
             "imageSize": "66",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/_fbc7eec8-02a0-44a4-8a79-28f82bcb8522-1024x1024.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-fbc7eec8-02a0-44a4-8a79-28f82bcb8522-1024x1024.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#0c0c0c",
@@ -4246,7 +4264,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n%20(1)-129x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n-1-129x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -4284,7 +4302,7 @@
             "paddingTop": "3",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/imagejpeg_2_24%20(1)-1280x852.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/imagejpeg-2-24-1-1280x852.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -4537,7 +4555,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n%20(1)-129x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n-1-129x128.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
