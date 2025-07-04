@@ -811,14 +811,18 @@ section.form .container {
 }
 #header2-cl {
   text-shadow: 2px 2px 5px BLACK;
+  text-shadow: 2px 10px 15px black;
 }
 #header2-cl .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
-  color: #14bef6;
+  color: #06b8f3;
   font-size: 84px;
 }
 #header2-cl .mbr-section-text {
   font-size: 36px;
+}
+#header2-cl .mbr-figure {
+  box-shadow: 10px 10px 15px black;
 }
 #features3-b7 {
   text-shadow: 2px 10px 15px black;
