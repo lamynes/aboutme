@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 453,
+    "uniqCompNum": 454,
     "versionPublish": "6.0.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -92,7 +92,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#0e0e0e",
+            "bgColor": "#000000",
             "fontSize": "1.45",
             "fontName": {
               "name": "Oswald",
@@ -102,7 +102,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -140,10 +140,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#060606!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -170,7 +170,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n-1-129x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
               "height": 128,
               "alt": "",
               "link": "index.html",
@@ -190,54 +190,71 @@
           "_sourceTheme": "mobirise3"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-33",
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
+            "inverse": false,
             "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/_53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/rkMAJYuDKSw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/embed/rkMAJYuDKSw?rel=0&showinfo=0&autoplay=0&loop=0",
+              "url": "https://www.youtube.com/embed/t2NDrNn3uoY?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=t2NDrNn3uoY",
               "width": 1280,
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#000",
+            "overlayOpacity": "0.1"
           },
-          "title": "<span style=\"font-weight: normal;\">MODERN &amp; MOBILE READY</span>",
-          "text": "BEAUTIFUL WEBSITES FOR ALL DEVICES",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#extForm1-79\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\">BLOG</a>",
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n.mbr-section-title {\n  color: #efefef;\n  font-size: 60px;\n  text-align: center;\n}\n.mbr-section-lead {\n  text-align: center;\n  font-size: 36px;\n  color: #efefef;\n}\n.mbr-section-title SPAN {\n  font-size: 60px;\n  font-family: 'Oswald', sans-serif;\n  color: #f90909;\n}\n.mbr-section-title {\n    text-shadow: 2px 5px 15px black;\n}\n.mbr-section-title {\n  -webkit-animation: blink 3.0s linear infinite;\n  -moz-animation: blink 3.0s linear infinite;\n  -ms-animation: blink 3.0s linear infinite;\n  -o-animation: blink 3.0s linear infinite;\n  animation: blink 3.0s linear infinite;\n}\nh1{\n    filter: blur(2px);\n -webkit-filter: blur(2px);\n}\n#logos {\n  position:absolute;  top: 0px;  left: 150px;  -webkit-perspective: 200px;\n   perspective: 200px; \n}\n#cube {\n  display: block;  position: relative;  margin: 40px auto;\n  height: 50px;  width: 50px;\n  -webkit-transform-style: preserve-3d;\n  -webkit-transform:  rotateY(2deg);\n  transform-style: preserve-3d;\n  transform:  rotateY(2deg);\n\n}\n#front {\n  position: absolute;  height: 150px;  width: 150px;\n  -webkit-backface-visibility: visible;\n  -webkit-transform:  translateZ(100px);\n  backface-visibility: visible;\n  transform:  translateZ(100px);\n}\n#back {\n  position: absolute;  height: 150px;  width: 150px;\n  -webkit-backface-visibility: visible;\n  -webkit-transform:  rotateY(180deg) translateZ(100px);\n  backface-visibility: visible;\n  transform: rotateY(180deg) translateZ(100px);\n}\n#cube {\n  -webkit-animation: upyourscache1554171966417 5s infinite linear;\n  animation: upyourscache1554171966417 5s infinite linear;\n\n}\n@-webkit-keyframes upyourscache1554171966417 {\n  0% { -webkit-transform: rotateX(0) rotateY(0) rotateZ(0) ;}\n  100% { -webkit-transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg) ;}\n}\n@keyframes upyourscache1554171966417 {\n  0% { transform: rotateX(0) rotateY(0) rotateZ(0) ;}\n  100% { transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg) ;}\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-after-navbar\" data-rv-view=\"59\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/download-4-1440x900.png&quot;);\">\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"24\"><span style=\"font-weight: normal;\">MODERN &amp; MOBILE READY</span></h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"25\">BEAUTIFUL WEBSITES FOR ALL DEVICES</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"index.html#extForm1-79\" code-editable-id=\"26\">CONTACT</a> <a class=\"btn btn-lg btn-white btn-white-outline mbr-editable-button\" href=\"blog.html\" code-editable-id=\"27\">BLOG</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true,
-          "_sourceTheme": "mobirise3",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "48px",
-              "color": "#56cdf4"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/shark-jaws-512x512.png",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             },
-            ".btn": {
-              "font-size": "46px"
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             },
-            ".mbr-section-title SPAN": {
-              "font-size": "80px"
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
             }
-          }
+          },
+          "title": "LAMYNESPL",
+          "text": "DESIGNER, WEB ENGINEER",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header2-cl",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#14bef6",
+              "font-size": "84px"
+            },
+            ".mbr-section-text": {
+              "font-size": "36px"
+            }
+          },
+          "_customCSS": "text-shadow: 2px 2px 5px BLACK;"
         },
         {
           "_params": {
@@ -253,7 +270,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#0e0e0e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -655,7 +672,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary mbr-editable-button\">CONTACT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
           },
           "media": {
             "image": {
@@ -790,7 +807,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-n-1-129x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -816,24 +833,6 @@
           },
           "_anchor": "extFooter1-br",
           "_sourceTheme": "mobirise3"
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise3",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_cid": "uP2rGx9RlZ",
-          "_anchor": "eb-chats-widget-ck",
-          "safe": {
-            "id": 38286,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2UhxFNe\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
-          "_params": {}
         }
       ]
     },
@@ -1728,7 +1727,7 @@
             "showForm": false,
             "showArrow": false,
             "imageSize": "22",
-            "countdown": "2024/12/31",
+            "countdown": "2026/04/30",
             "animText1": "AWESOME SITE",
             "animText2": "PRODUCT LAUNCH",
             "animText3": "NEW APP",
@@ -2499,7 +2498,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ls-swap-chevy-trucks.html\">LS SWAP Trucks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"jeep-custom.html\">JEEP CUSTOM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
           "_tags": [
             "Theme"
           ],
