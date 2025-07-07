@@ -196,7 +196,7 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "36",
+            "imageSize": "24",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/-38656802-ae31-43ec-a6ff-ecd424083781-1024x1024.png",
             "parallax": true,
