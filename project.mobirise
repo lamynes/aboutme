@@ -192,13 +192,13 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "showArrow": true,
             "imageSize": "24",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/_53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -248,10 +248,12 @@
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "color": "#06b8f3",
-              "font-size": "84px"
+              "font-size": "84px",
+              "text-align": "center"
             },
             ".mbr-section-text": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "text-align": "center"
             }
           },
           "_customCSS": "text-shadow: 2px 2px 5px BLACK;"
@@ -281,7 +283,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/newarc_ai_gr_qicvlsqo2ylnlfgqzsihyfpehclps5y5-removebg-preview-600x393.png",
+              "src": "@PROJECT_PATH@/assets/images/newarc-ai-gr-qicvlsqo2ylnlfgqzsihyfpehclps5y5-removebg-preview-600x393.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -292,7 +294,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/inniovative-auto-detail-removebg-preview%20-%20copy-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/inniovative-auto-detail-removebg-preview-copy-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -314,7 +316,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logoshadow-372x128-81-2%20(3)-600x206.png",
+              "src": "@PROJECT_PATH@/assets/images/logoshadow-372x128-81-2-3-600x206.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -325,7 +327,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/278606874_102288189137099_949451906700332832_n__2_-removebg-preview-600x331.png",
+              "src": "@PROJECT_PATH@/assets/images/278606874-102288189137099-949451906700332832-n-2-removebg-preview-600x331.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -336,7 +338,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush%20asphalt-1%20(7)-600x412.png",
+              "src": "@PROJECT_PATH@/assets/images/roush-asphalt-1-7-600x412.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -580,7 +582,7 @@
                 "onsale": "-50%",
                 "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=26.00&amp;item_name=Cool%20Corvettes%20Screensaver&amp;currency_code=USD\" class=\"btn btn-warning\">Buy now!</a>",
                 "image": "@PROJECT_PATH@/assets/images/_00ce6616-b14a-42a2-9b79-f922f245eb08-1024x1024.png",
-                "thumb": "@PROJECT_PATH@/assets/images/-00ce6616-b14a-42a2-9b79-f922f245eb08-1024x1024-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/00ce6616-b14a-42a2-9b79-f922f245eb08-1024x1024-800x800.png",
                 "caption": "Type caption here",
                 "alt": "",
                 "title": "",
@@ -970,7 +972,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/_2cf5e5de-1386-47f5-b718-642c2a5b8aa7-1024x1024.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2cf5e5de-1386-47f5-b718-642c2a5b8aa7-1024x1024.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1447,7 +1449,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/_6668780e-4d6d-44e0-a20f-bcb12e7b756b-1024x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-6668780e-4d6d-44e0-a20f-bcb12e7b756b-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -1733,7 +1735,7 @@
             "animText3": "NEW APP",
             "typeSpeed": "80",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/_b4e094eb-41c3-4dcd-a507-22f1403f636e-1024x1024.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-b4e094eb-41c3-4dcd-a507-22f1403f636e-1024x1024.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1992,7 +1994,7 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/_b4e094eb-41c3-4dcd-a507-22f1403f636e-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-b4e094eb-41c3-4dcd-a507-22f1403f636e-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2008,7 +2010,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_070bcb49-aa32-49e1-8762-283f0e3d62ff-1024x1024.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-070bcb49-aa32-49e1-8762-283f0e3d62ff-1024x1024.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2024,7 +2026,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_0e04a44d-d03f-4b25-a5aa-269cc02d10e8-1024x1024.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-0e04a44d-d03f-4b25-a5aa-269cc02d10e8-1024x1024.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2040,7 +2042,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_658e22fd-ae09-4e5e-ae59-320bf918eb3f-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-658e22fd-ae09-4e5e-ae59-320bf918eb3f-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2056,7 +2058,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_afd6df80-c03e-40e8-aa5d-d60b2200f545-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-afd6df80-c03e-40e8-aa5d-d60b2200f545-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2072,7 +2074,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_f78f18ff-bd0e-43d4-97ee-50aa77b02d56-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-f78f18ff-bd0e-43d4-97ee-50aa77b02d56-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2088,7 +2090,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_f0399487-5d23-4f37-8891-fc96ffa80423-1024x1024.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-f0399487-5d23-4f37-8891-fc96ffa80423-1024x1024.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2104,7 +2106,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_aa43e051-5c6f-4dcc-8586-6e357bca52b6-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-aa43e051-5c6f-4dcc-8586-6e357bca52b6-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2120,7 +2122,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_8bd1bc4b-325f-43da-8dca-9e7438fdda15-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-8bd1bc4b-325f-43da-8dca-9e7438fdda15-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2136,7 +2138,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_ab544443-9776-41ed-a320-e93561a0246b-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-ab544443-9776-41ed-a320-e93561a0246b-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2152,7 +2154,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_b6036f93-1700-4b15-98e4-1a3f621c3481-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-b6036f93-1700-4b15-98e4-1a3f621c3481-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2168,7 +2170,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_fae15fcd-59ea-4249-b224-35311b72dfea-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-fae15fcd-59ea-4249-b224-35311b72dfea-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2184,7 +2186,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_18d3da68-6429-44aa-afd5-b4e03a0d67be-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-18d3da68-6429-44aa-afd5-b4e03a0d67be-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2200,7 +2202,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_f08629b2-5085-4bae-ab82-aab41dd5fe3a-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-f08629b2-5085-4bae-ab82-aab41dd5fe3a-1024x1024.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2216,7 +2218,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/_b92ff7be-b8c8-4f5d-b355-c4997683cedd-1024x1024.png",
+                "image": "@PROJECT_PATH@/assets/images/-b92ff7be-b8c8-4f5d-b355-c4997683cedd-1024x1024.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -3949,7 +3951,7 @@
             "showArrow": false,
             "imageSize": "66",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/_fbc7eec8-02a0-44a4-8a79-28f82bcb8522-1024x1024.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-fbc7eec8-02a0-44a4-8a79-28f82bcb8522-1024x1024.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#0c0c0c",
@@ -4165,142 +4167,6 @@
           },
           "_anchor": "extFooter1-br",
           "_sourceTheme": "mobirise3"
-        }
-      ]
-    },
-    "fj.html": {
-      "settings": {
-        "meta_descr": "Web Site Builder Description",
-        "title": "Freland Johnson",
-        "order": "1",
-        "meta_image": "@PROJECT_PATH@/assets/images/img_x1043-666x868.jpg"
-      },
-      "components": [
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/embed/15ZnOds7rRE?rel=0&&showinfo=0&autoplay=0&loop=0",
-              "autoplay": "on",
-              "loop": "on"
-            }
-          },
-          "text": "<p>Cut down the development time with drag-and-drop website builder.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "video1-ch"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "30px"
-            },
-            ".mbr-section-title": {
-              "font-size": "48px",
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#0e0e0e"
-          },
-          "title": "In memory of Freland Johnson 07/05/1954 to 02/27/2025",
-          "meta": "07/05/4 to 02/27/2025",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "header3-ca"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p>Today we celebrate the Life of Captain Freland Johnson. He passed away February 27th at his home in Heron Bay with his family by his side.<br></p><p><br></p><p>Captain Freland is preceded in death by his father Samuel F Johnson; his mother Ova Johnson; His brother Marel Johnson; His sons Jason Hill &amp; Baby Freland A Johnson Jr; His grandson Jonas Freland lyons.\n</p><p><br></p><p>He is survived by his wife Pam; His children Lee, Brandis, Krystal &amp; Scott; His brother Leo (Linda); His sisters Callie (Neil) &amp; Annette (John-Dee); His sister-in-law Dana Johnson; His grandchildren Jesse, Shaun, Caleb, Bryahna, Asher &amp; Autumn; As well as nieces &amp; nephews, other relatives, many friends &amp; his legion family.\n</p><p><br></p><p>A celebration of life will be held on March 22, 2025 from 12-2 at the American legion Post 250 in the Bayley Hall in Fowl River.</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "content1-cc",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "30px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1285.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": "0.7"
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/embed/15ZnOds7rRE?rel=0&&showinfo=0&autoplay=0&loop=0",
-              "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": "on"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Some of Freland's Favorite Music",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box4",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box4-cb"
         }
       ]
     }
