@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 456,
+    "uniqCompNum": 457,
     "versionPublish": "6.0.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -414,24 +414,6 @@
               "color": "#ffffff"
             }
           }
-        },
-        {
-          "alias": "eb-youtube-feed",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-youtube-feed",
-          "_sourceTheme": "mobirise3",
-          "_customHTML": "<section class=\"eb-youtube-feed\" group=\"Widget\"><script src=\"https://s.electricblaze.com/widget.js\" defer=\"\"></script>\n<div class=\"electricblaze-id-2UhxFVQ\"></div></section>",
-          "_cid": "uRI0MSa4wq",
-          "_anchor": "eb-youtube-feed-cn",
-          "safe": {
-            "id": 38768,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2UhxFVQ\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
         },
         {
           "_styles": {
