@@ -196,7 +196,7 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "24",
+            "imageSize": "53",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
             "parallax": true,
@@ -247,7 +247,7 @@
             ".mbr-section-title": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#06b8f3",
+              "color": "#ffffff",
               "font-size": "84px",
               "text-align": "center"
             },
