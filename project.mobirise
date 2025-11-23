@@ -192,11 +192,11 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "53",
+            "imageSize": "55",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
             "parallax": true,
@@ -217,7 +217,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
+              "src": "@PROJECT_PATH@/assets/images/copilot-20251104-0932dd53.png-1400x832.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
