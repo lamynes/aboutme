@@ -197,12 +197,12 @@
             "inverse": false,
             "showArrow": true,
             "imageSize": "55",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/_53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/t2NDrNn3uoY?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=t2NDrNn3uoY",
@@ -217,7 +217,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/copilot-20251104-0932dd53.png-1400x832.png",
+              "src": "@PROJECT_PATH@/assets/images/-dfd08351-9b3e-4f08-bb94-c019919844cd-removebg-preview-500x500.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
