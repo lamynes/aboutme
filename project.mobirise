@@ -196,7 +196,7 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "55",
+            "imageSize": "70",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/_53467978-5e04-468a-948a-64e1fd20bdd6-1024x1024.jpg",
             "parallax": true,
@@ -217,7 +217,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-dfd08351-9b3e-4f08-bb94-c019919844cd-removebg-preview-500x500.png",
+              "src": "@PROJECT_PATH@/assets/images/-53467978-5e04-468a-948a-64e1fd20bdd6-removebg-preview-500x500.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
