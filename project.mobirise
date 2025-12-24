@@ -198,7 +198,7 @@
             "showArrow": true,
             "imageSize": "70",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-03501737-1749-4163-9d00-86153bcb5da8-1024x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-b9dec1e9-0d87-4e6e-9ce1-885a4a729fe1-1024x1024.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
