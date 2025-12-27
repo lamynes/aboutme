@@ -196,7 +196,7 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "70",
+            "imageSize": "53",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/-d8ffb7d1-d521-4d57-874e-107c42f5cfd9-1024x1024.png",
             "parallax": true,
@@ -211,7 +211,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
