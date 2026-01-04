@@ -859,6 +859,77 @@ section.form .container {
 
 
 
+#ext_menu-cp .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-cp .navbar-caption {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-cp .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-cp .close-icon::before,
+#ext_menu-cp .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-cp .link,
+#ext_menu-cp .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-cp .link {
+  font-size: 1.45rem;
+}
+#ext_menu-cp .dropdown-item,
+#ext_menu-cp .nav-dropdown-sm .link {
+  font-size: 1.570rem;
+}
+#ext_menu-cp .link:hover,
+#ext_menu-cp .dropdown-item:hover,
+#ext_menu-cp .link:focus,
+#ext_menu-cp .dropdown-item:focus {
+  color: #c1c1c1;
+}
+#ext_menu-cp .link[aria-expanded="true"],
+#ext_menu-cp .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-cp .nav-dropdown-sm .link:focus,
+#ext_menu-cp .nav-dropdown-sm .link:hover,
+#ext_menu-cp .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-cp .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-cp .navbar,
+#ext_menu-cp .nav-dropdown-sm,
+#ext_menu-cp .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-cp .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-cp .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-cp .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-cp .bg-color.transparent.opened .link:hover,
+#ext_menu-cp .bg-color.transparent.opened .link:focus {
+  color: #c1c1c1;
+}
+#ext_menu-cp .link[aria-expanded="true"],
+#ext_menu-cp .dropdown-item[aria-expanded="true"] {
+  color: #c1c1c1!important;
+}
+#ext_menu-cp A {
+  font-size: 12px;
+  font-family: 'Indie Flower', cursive;
+}
+#ext_menu-cp .btn {
+  font-size: 30px;
+}
 #msg-box8-71 .mbr-section-title,
 #msg-box8-71 p {
   color: #fff;
@@ -900,6 +971,9 @@ section.form .container {
 #extFooter1-br .mbr-section-title I {
   font-size: 48px;
 }
+
+
+
 #ext_menu-cp .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -971,15 +1045,16 @@ section.form .container {
 #ext_menu-cp .btn {
   font-size: 30px;
 }
-
-
-
 #extFooter1-br .mbr-section-title {
   font-size: 48px;
 }
 #extFooter1-br .mbr-section-title I {
   font-size: 48px;
 }
+
+
+
+
 #ext_menu-cp .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1051,10 +1126,6 @@ section.form .container {
 #ext_menu-cp .btn {
   font-size: 30px;
 }
-
-
-
-
 #header1-bg .btn {
   font-size: 48px;
 }
@@ -1082,6 +1153,11 @@ section.form .container {
 #extFooter1-br .mbr-section-title I {
   font-size: 48px;
 }
+
+
+
+
+
 #ext_menu-cp .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1153,11 +1229,6 @@ section.form .container {
 #ext_menu-cp .btn {
   font-size: 30px;
 }
-
-
-
-
-
 #extHeader15-bb P {
   font-size: 48px;
   color: #ffffff;
@@ -1222,6 +1293,10 @@ section.form .container {
 #extFooter1-br .mbr-section-title I {
   font-size: 48px;
 }
+
+
+
+
 #ext_menu-cp .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1293,10 +1368,6 @@ section.form .container {
 #ext_menu-cp .btn {
   font-size: 30px;
 }
-
-
-
-
 #msg-box7-9f {
   text-shadow: 2px 2px 15px black;
 }
@@ -1330,6 +1401,9 @@ section.form .container {
 #extFooter1-br .mbr-section-title I {
   font-size: 48px;
 }
+
+
+
 #ext_menu-cp .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1401,9 +1475,6 @@ section.form .container {
 #ext_menu-cp .btn {
   font-size: 30px;
 }
-
-
-
 #msg-box7-9a {
   text-shadow: 2px 5px 15px black;
 }
@@ -1439,6 +1510,9 @@ section.form .container {
 #extFooter1-br .mbr-section-title I {
   font-size: 48px;
 }
+
+
+
 #ext_menu-cp .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1510,9 +1584,6 @@ section.form .container {
 #ext_menu-cp .btn {
   font-size: 30px;
 }
-
-
-
 #msg-box7-9b {
   text-shadow: 2px 2px 5px black;
 }
@@ -1546,6 +1617,10 @@ section.form .container {
 #extFooter1-br .mbr-section-title I {
   font-size: 48px;
 }
+
+
+
+
 #ext_menu-cp .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1617,10 +1692,6 @@ section.form .container {
 #ext_menu-cp .btn {
   font-size: 30px;
 }
-
-
-
-
 #msg-box7-9b {
   text-shadow: 2px 2px 5px #000000;
 }
@@ -1655,6 +1726,10 @@ section.form .container {
 #extFooter1-br .mbr-section-title I {
   font-size: 48px;
 }
+
+
+
+
 #ext_menu-cp .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1726,10 +1801,6 @@ section.form .container {
 #ext_menu-cp .btn {
   font-size: 30px;
 }
-
-
-
-
 #extHeader12-b3 {
   text-shadow: 2px 10px 15px black;
 }
@@ -1754,6 +1825,11 @@ section.form .container {
 #extFooter1-br .mbr-section-title I {
   font-size: 48px;
 }
+
+
+
+
+
 #ext_menu-cp .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1825,11 +1901,6 @@ section.form .container {
 #ext_menu-cp .btn {
   font-size: 30px;
 }
-
-
-
-
-
 #header2-a2 {
   text-shadow: 2px 10px 15px black;
 }
@@ -1881,74 +1952,87 @@ section.form .container {
 #extFooter1-br .mbr-section-title I {
   font-size: 48px;
 }
-#ext_menu-cp .hide-buttons .nav-btn {
+
+
+
+#ext_menu-cq .hide-buttons .nav-btn {
   display: none !important;
 }
-#ext_menu-cp .navbar-caption {
+#ext_menu-cq .navbar-caption {
   color: #ffffff;
   font-size: 25px;
   font-family: 'Oswald', sans-serif;
 }
-#ext_menu-cp .navbar-toggler {
+#ext_menu-cq .navbar-toggler {
   color: #ffffff;
 }
-#ext_menu-cp .close-icon::before,
-#ext_menu-cp .close-icon::after {
+#ext_menu-cq .close-icon::before,
+#ext_menu-cq .close-icon::after {
   background-color: #ffffff;
 }
-#ext_menu-cp .link,
-#ext_menu-cp .dropdown-item {
+#ext_menu-cq .link,
+#ext_menu-cq .dropdown-item {
   color: #ffffff;
   font-family: 'Oswald', sans-serif;
 }
-#ext_menu-cp .link {
+#ext_menu-cq .link {
   font-size: 1.45rem;
 }
-#ext_menu-cp .dropdown-item,
-#ext_menu-cp .nav-dropdown-sm .link {
+#ext_menu-cq .dropdown-item,
+#ext_menu-cq .nav-dropdown-sm .link {
   font-size: 1.570rem;
 }
-#ext_menu-cp .link:hover,
-#ext_menu-cp .dropdown-item:hover,
-#ext_menu-cp .link:focus,
-#ext_menu-cp .dropdown-item:focus {
+#ext_menu-cq .link:hover,
+#ext_menu-cq .dropdown-item:hover,
+#ext_menu-cq .link:focus,
+#ext_menu-cq .dropdown-item:focus {
   color: #c1c1c1;
 }
-#ext_menu-cp .link[aria-expanded="true"],
-#ext_menu-cp .dropdown-menu {
+#ext_menu-cq .link[aria-expanded="true"],
+#ext_menu-cq .dropdown-menu {
   background: #000000;
 }
-#ext_menu-cp .nav-dropdown-sm .link:focus,
-#ext_menu-cp .nav-dropdown-sm .link:hover,
-#ext_menu-cp .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-cp .nav-dropdown-sm .dropdown-item:hover {
+#ext_menu-cq .nav-dropdown-sm .link:focus,
+#ext_menu-cq .nav-dropdown-sm .link:hover,
+#ext_menu-cq .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-cq .nav-dropdown-sm .dropdown-item:hover {
   background: #000000!important;
 }
-#ext_menu-cp .navbar,
-#ext_menu-cp .nav-dropdown-sm,
-#ext_menu-cp .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-cp .nav-dropdown-sm .dropdown-menu {
+#ext_menu-cq .navbar,
+#ext_menu-cq .nav-dropdown-sm,
+#ext_menu-cq .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-cq .nav-dropdown-sm .dropdown-menu {
   background: #000000;
 }
-#ext_menu-cp .bg-color.transparent .link {
+#ext_menu-cq .bg-color.transparent .link {
   color: #ffffff;
   transition: none;
 }
-#ext_menu-cp .bg-color.transparent.opened .link {
+#ext_menu-cq .bg-color.transparent.opened .link {
   transition: color 0.2s ease-in-out;
 }
-#ext_menu-cp .bg-color.transparent.opened .link:hover,
-#ext_menu-cp .bg-color.transparent.opened .link:focus {
+#ext_menu-cq .bg-color.transparent.opened .link:hover,
+#ext_menu-cq .bg-color.transparent.opened .link:focus {
   color: #c1c1c1;
 }
-#ext_menu-cp .link[aria-expanded="true"],
-#ext_menu-cp .dropdown-item[aria-expanded="true"] {
+#ext_menu-cq .link[aria-expanded="true"],
+#ext_menu-cq .dropdown-item[aria-expanded="true"] {
   color: #c1c1c1!important;
 }
-#ext_menu-cp A {
+#ext_menu-cq A {
   font-size: 12px;
   font-family: 'Indie Flower', cursive;
 }
-#ext_menu-cp .btn {
+#ext_menu-cq .btn {
   font-size: 30px;
+}
+#header2-ct .mbr-section-title {
+  text-align: center;
+  color: #000000;
+}
+#extFooter1-cr .mbr-section-title {
+  font-size: 48px;
+}
+#extFooter1-cr .mbr-section-title I {
+  font-size: 48px;
 }

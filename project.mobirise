@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 458,
+    "uniqCompNum": 462,
     "versionPublish": "6.0.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -266,7 +266,7 @@
             "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "6",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -326,18 +326,18 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rocky-creek-retreat.png-500x500.png",
+              "src": "@PROJECT_PATH@/assets/images/l3lzuiytrfg3f4unoyeecq-removebg-preview.png-500x500.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://rockycreekretreat.net/",
-              "alt": "Rocky Creek Retreat",
+              "link": "https://lamynes.github.io/dtr/",
+              "alt": "Denny's Tractor Repair",
               "linkInNewWindow": true
             }
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-asphalt-1-7-600x412.png",
+              "src": "@PROJECT_PATH@/assets/images/roush%20asphalt-1%20(7)-600x412.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -648,7 +648,7 @@
       "settings": {
         "meta_descr": "LAMYNES.PL Articles",
         "title": "articles",
-        "order": "12"
+        "order": "11"
       },
       "components": [
         {
@@ -947,7 +947,7 @@
       "settings": {
         "meta_descr": "Login to manage blog posts.",
         "title": "admin",
-        "order": "11"
+        "order": "10"
       },
       "components": [
         {
@@ -1136,7 +1136,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "blog",
-        "order": "10"
+        "order": "9"
       },
       "components": [
         {
@@ -1414,7 +1414,7 @@
       "settings": {
         "meta_descr": "Happy Holloween",
         "title": "Fun Times",
-        "order": "6"
+        "order": "5"
       },
       "components": [
         {
@@ -2278,7 +2278,7 @@
       "settings": {
         "meta_descr": "Muscle Custom",
         "title": "Muscle Custom",
-        "order": "5",
+        "order": "4",
         "header_custom": "\n",
         "footer_custom": ""
       },
@@ -2554,7 +2554,7 @@
       "settings": {
         "meta_descr": "LT1 Camaro",
         "title": "LT1 Camaro Custom",
-        "order": "3",
+        "order": "2",
         "header_custom": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js\"></script>",
         "footer_custom": ""
       },
@@ -2831,7 +2831,7 @@
       "settings": {
         "meta_descr": "C1 CORVETTE CUSTOM",
         "title": "C1 Corvette Custom",
-        "order": "9"
+        "order": "8"
       },
       "components": [
         {
@@ -3105,7 +3105,7 @@
       "settings": {
         "meta_descr": "C7 Corvette Custom",
         "title": "C7 Corvette Custom",
-        "order": "7"
+        "order": "6"
       },
       "components": [
         {
@@ -3381,7 +3381,7 @@
       "settings": {
         "meta_descr": "Jeep Custom",
         "title": "Jeep Custom",
-        "order": "4",
+        "order": "3",
         "header_custom": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js\">\n</script>",
         "footer_custom": ""
       },
@@ -3628,7 +3628,7 @@
       "settings": {
         "meta_descr": "C5 Rebuild",
         "title": "C5 Rebuild",
-        "order": "8",
+        "order": "7",
         "header_custom": "<script>\nfunction clickCounter() {\n    if(typeof(Storage) !== \"undefined\") {\n        if (localStorage.clickcount) {\n            localStorage.clickcount = Number(localStorage.clickcount)+1;\n        } else {\n            localStorage.clickcount = 1;\n        }\n        document.getElementById(\"test\").value= localStorage.clickcount;\n    } else {\n        document.getElementById(\"result\").innerHTML = \"Sorry, your browser does not support web storage...\";\n    }\n}\n</script>",
         "footer_custom": "<script async src=\"//cdn.embedly.com/widgets/platform.js\" charset=\"UTF-8\"></script>"
       },
@@ -3963,6 +3963,231 @@
           },
           "_anchor": "extFooter1-br",
           "_sourceTheme": "mobirise3"
+        }
+      ]
+    },
+    "yb.html": {
+      "settings": {
+        "meta_descr": "Hello my brothers and sisters",
+        "title": "Youngblood",
+        "order": "1"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "1.45",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"c5-rebuild.html\">C5-LS6 REBUILD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"muscle.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MUSCLE CARS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fun.html\">FUN TIMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"muscle.html\">69 CAMARO BB</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c1-custom.html\">C1 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"c7-corvette-custom.html\">C7 CORVETTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-camaro.html\">LT1 CAMARO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"admin.html\">ADMIN</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "25px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.45rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.570rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c1c1c1!important"
+            },
+            "A": {
+              "font-size": "12px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".btn": {
+              "font-size": "30px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAMYNES.PL</a>",
+          "_name": "ext.menu",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "ext_menu-cq"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/things-to-do-in-edinburgh-3.jpg-1500x999.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.4"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/copilot-20260104-075009.png-1024x1536.png",
+              "link": "",
+              "alt": "Youngblood",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "My Heritage",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header2-ct",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showLogo": true,
+            "progress": "75",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#0c0c0c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "",
+          "title": "LAMYNESPL",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/lamynespl-logo-203x128.png",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "48px"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "extFooter1-cr"
         }
       ]
     }
