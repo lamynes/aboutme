@@ -244,14 +244,14 @@
           "_anchor": "header2-cl",
           "_styles": {
             ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#56cdf4",
-              "font-size": "48px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#ffffff",
+              "font-size": "60px",
               "text-align": "center"
             },
             ".mbr-section-text": {
-              "font-size": "36px",
+              "font-size": "46px",
               "text-align": "center"
             }
           },
@@ -391,8 +391,8 @@
             "bgColor": "#0e0e0e",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/F8TSveQuvcE?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "youtube.com/watch?v=F8TSveQuvcE&feature=youtu.be",
+              "url": "https://www.youtube.com/embed/RdAZiGosi_E?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=RdAZiGosi_E",
               "width": 1280,
               "height": 720
             },
