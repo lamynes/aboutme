@@ -2027,3 +2027,95 @@ section.form .container {
 #extFooter1-cr .mbr-section-title I {
   font-size: 48px;
 }
+
+
+
+#ext_menu-cu .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-cu .navbar-caption {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-cu .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-cu .close-icon::before,
+#ext_menu-cu .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-cu .link,
+#ext_menu-cu .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-cu .link {
+  font-size: 1.45rem;
+}
+#ext_menu-cu .dropdown-item,
+#ext_menu-cu .nav-dropdown-sm .link {
+  font-size: 1.570rem;
+}
+#ext_menu-cu .link:hover,
+#ext_menu-cu .dropdown-item:hover,
+#ext_menu-cu .link:focus,
+#ext_menu-cu .dropdown-item:focus {
+  color: #c1c1c1;
+}
+#ext_menu-cu .link[aria-expanded="true"],
+#ext_menu-cu .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-cu .nav-dropdown-sm .link:focus,
+#ext_menu-cu .nav-dropdown-sm .link:hover,
+#ext_menu-cu .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-cu .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-cu .navbar,
+#ext_menu-cu .nav-dropdown-sm,
+#ext_menu-cu .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-cu .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-cu .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-cu .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-cu .bg-color.transparent.opened .link:hover,
+#ext_menu-cu .bg-color.transparent.opened .link:focus {
+  color: #c1c1c1;
+}
+#ext_menu-cu .link[aria-expanded="true"],
+#ext_menu-cu .dropdown-item[aria-expanded="true"] {
+  color: #c1c1c1!important;
+}
+#ext_menu-cu A {
+  font-size: 12px;
+  font-family: 'Indie Flower', cursive;
+}
+#ext_menu-cu .btn {
+  font-size: 30px;
+}
+#custom-html-cw {
+  /* Type valid CSS here */
+}
+#custom-html-cw div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-cw p {
+  font-size: 60px;
+  color: #777;
+}
+#extFooter1-cv .mbr-section-title {
+  font-size: 48px;
+}
+#extFooter1-cv .mbr-section-title I {
+  font-size: 48px;
+}
