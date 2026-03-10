@@ -4040,7 +4040,8 @@
         "title": "Merch",
         "order": "1",
         "header_custom": "",
-        "footer_custom": "<script>\n    var spread_shop_config = {\n        shopName: 'BizNezWear',\n        locale: 'us_US',\n        prefix: 'https://BizNezWear.myspreadshop.com',\n        baseId: 'myShop'\n    };\n</script>\n\n<script type=\"text/javascript\"\n        src=\"https://BizNezWear.myspreadshop.com/shopfiles/shopclient/shopclient.nocache.js\">\n</script>"
+        "footer_custom": "",
+        "html_before": "<script>\n    var spread_shop_config = {\n        shopName: 'BizNezWear',\n        locale: 'us_US',\n        prefix: 'https://BizNezWear.myspreadshop.com',\n        baseId: 'myShop'\n    };\n</script>\n\n<script type=\"text/javascript\"\n        src=\"https://BizNezWear.myspreadshop.com/shopfiles/shopclient/shopclient.nocache.js\">\n</script>"
       },
       "components": [
         {
