@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 465,
+    "uniqCompNum": 466,
     "versionPublish": "6.0.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -355,7 +355,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.3",
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-default btn-sm\"></a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-social facebook\">\n                        \n                    </a>"
           },
           "media": {
             "image": {
@@ -4148,6 +4148,32 @@
           "_name": "ext.menu",
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-cu"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "social-buttons1-cx"
         },
         {
           "_customTemplate": true,
